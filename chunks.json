@@ -1,0 +1,2215 @@
+[
+  {
+    "id": "d8b3b26d-001c-43dc-9d58-3bfe6b947cd3",
+    "level": "L0",
+    "content": "Table_1",
+    "chunk_type": "table",
+    "metadata": {
+      "page": 1,
+      "heading": "Table_1"
+    },
+    "parent_id": null,
+    "children": [
+      {
+        "id": "85c4f3c3-1903-45c9-81cc-1658ff792b99",
+        "level": "L1",
+        "content": "Bid End Date/Time: 06-03-2026 15:00:00",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 1,
+          "heading": "Table_1",
+          "raw_key": "(cid:1)(cid:1)बबडड बबंदंद हहोोनने े कक(cid:16)(cid:16) तताारर(cid:19)(cid:19)खख//ससममयय /Bid End Date/Time",
+          "normalized_key": "Bid End Date/Time",
+          "raw_value": "06-03-2026 15:00:00",
+          "normalized_value": "06-03-2026 15:00:00"
+        },
+        "parent_id": "d8b3b26d-001c-43dc-9d58-3bfe6b947cd3",
+        "children": [
+          {
+            "id": "69e1174d-05a1-4626-b3c3-c9d19bac9bd2",
+            "level": "L2",
+            "content": "06-03-2026 15:00:00",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 1,
+              "heading": "Table_1",
+              "row_key": "Bid End Date/Time",
+              "original_value": "06-03-2026 15:00:00"
+            },
+            "parent_id": "85c4f3c3-1903-45c9-81cc-1658ff792b99",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "a4334734-55a2-40b3-8f1a-8395de43bb1b",
+        "level": "L1",
+        "content": "Bid Opening Date/Time: 06-03-2026 15:30:00",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 1,
+          "heading": "Table_1",
+          "raw_key": "(cid:1)(cid:1)बबडड खखुलुलनने े कक(cid:16)(cid:16) तताारर(cid:19)(cid:19)खख//ससममयय /Bid Opening\nDate/Time",
+          "normalized_key": "Bid Opening Date/Time",
+          "raw_value": "06-03-2026 15:30:00",
+          "normalized_value": "06-03-2026 15:30:00"
+        },
+        "parent_id": "d8b3b26d-001c-43dc-9d58-3bfe6b947cd3",
+        "children": [
+          {
+            "id": "954ee085-2e28-4ce5-96d1-6efa202b7a44",
+            "level": "L2",
+            "content": "06-03-2026 15:30:00",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 1,
+              "heading": "Table_1",
+              "row_key": "Bid Opening Date/Time",
+              "original_value": "06-03-2026 15:30:00"
+            },
+            "parent_id": "a4334734-55a2-40b3-8f1a-8395de43bb1b",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "7d630be5-bd5b-45e4-aa66-8f9db8d3a506",
+        "level": "L1",
+        "content": "(( ) )/Bid Offer Validity (From End Date): 120 (Days)",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 1,
+          "heading": "Table_1",
+          "raw_key": "(cid:1)(cid:1)बबडड पपेशेशककशश ववैधैधतताा ((बबंदंद हहोोनने े कक(cid:16)(cid:16) तताारर(cid:19)(cid:19)खख ससे)े)/Bid Offer\nValidity (From End Date)",
+          "normalized_key": "(( ) )/Bid Offer Validity (From End Date)",
+          "raw_value": "120 (Days)",
+          "normalized_value": "120 (Days)"
+        },
+        "parent_id": "d8b3b26d-001c-43dc-9d58-3bfe6b947cd3",
+        "children": [
+          {
+            "id": "7fa8b73c-7442-40bc-842a-befe776619b2",
+            "level": "L2",
+            "content": "120 (Days)",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 1,
+              "heading": "Table_1",
+              "row_key": "(( ) )/Bid Offer Validity (From End Date)",
+              "original_value": "120 (Days)"
+            },
+            "parent_id": "7d630be5-bd5b-45e4-aa66-8f9db8d3a506",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "8d541165-c2b3-4cb5-a40e-274411d40ff2",
+        "level": "L1",
+        "content": "Ministry/State Name: Ministry Of Finance",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 1,
+          "heading": "Table_1",
+          "raw_key": "ममं(cid:32)ं(cid:32)ााललयय//रराा(cid:33)(cid:33)यय ककाा ननाामम/Ministry/State Name",
+          "normalized_key": "Ministry/State Name",
+          "raw_value": "Ministry Of Finance",
+          "normalized_value": "Ministry Of Finance"
+        },
+        "parent_id": "d8b3b26d-001c-43dc-9d58-3bfe6b947cd3",
+        "children": [
+          {
+            "id": "be13dae0-8c42-4884-8be7-7ff4382d6aec",
+            "level": "L2",
+            "content": "Ministry Of Finance",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 1,
+              "heading": "Table_1",
+              "row_key": "Ministry/State Name",
+              "original_value": "Ministry Of Finance"
+            },
+            "parent_id": "8d541165-c2b3-4cb5-a40e-274411d40ff2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "65ddce36-4e25-424d-89a1-8b26bcfafe01",
+        "level": "L1",
+        "content": "Department Name: Department Of Economic Affairs",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 1,
+          "heading": "Table_1",
+          "raw_key": "(cid:1)(cid:1)ववभभाागग ककाा ननाामम/Department Name",
+          "normalized_key": "Department Name",
+          "raw_value": "Department Of Economic Affairs",
+          "normalized_value": "Department Of Economic Affairs"
+        },
+        "parent_id": "d8b3b26d-001c-43dc-9d58-3bfe6b947cd3",
+        "children": [
+          {
+            "id": "ccbbc068-90dc-4c1b-b0b3-3aab57bc6483",
+            "level": "L2",
+            "content": "Department Of Economic Affairs",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 1,
+              "heading": "Table_1",
+              "row_key": "Department Name",
+              "original_value": "Department Of Economic Affairs"
+            },
+            "parent_id": "65ddce36-4e25-424d-89a1-8b26bcfafe01",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "f692eb67-3373-4498-b987-c2727558195b",
+        "level": "L1",
+        "content": "Organisation Name: Security Printing And Minting Corporation Of India Limited\n(spmcil)",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 1,
+          "heading": "Table_1",
+          "raw_key": "ससंगंगठठनन ककाा ननाामम/Organisation Name",
+          "normalized_key": "Organisation Name",
+          "raw_value": "Security Printing And Minting Corporation Of India Limited\n(spmcil)",
+          "normalized_value": "Security Printing And Minting Corporation Of India Limited\n(spmcil)"
+        },
+        "parent_id": "d8b3b26d-001c-43dc-9d58-3bfe6b947cd3",
+        "children": [
+          {
+            "id": "a1bde936-61f0-4f17-a13d-98b456d186a0",
+            "level": "L2",
+            "content": "Security Printing And Minting Corporation Of India Limited\n(spmcil)",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 1,
+              "heading": "Table_1",
+              "row_key": "Organisation Name",
+              "original_value": "Security Printing And Minting Corporation Of India Limited\n(spmcil)"
+            },
+            "parent_id": "f692eb67-3373-4498-b987-c2727558195b",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "72446b5a-9aaf-471e-993b-e8e4a2176f13",
+        "level": "L1",
+        "content": "Office Name: 3rd Floor Tower G World Trade Centre Nauroji Nagar",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 1,
+          "heading": "Table_1",
+          "raw_key": "ककााययााल(cid:37)ल(cid:37) यय ककाा ननाामम/Office Name",
+          "normalized_key": "Office Name",
+          "raw_value": "3rd Floor Tower G World Trade Centre Nauroji Nagar",
+          "normalized_value": "3rd Floor Tower G World Trade Centre Nauroji Nagar"
+        },
+        "parent_id": "d8b3b26d-001c-43dc-9d58-3bfe6b947cd3",
+        "children": [
+          {
+            "id": "14255a5b-1c92-4d4e-9edc-72a433f47c11",
+            "level": "L2",
+            "content": "3rd Floor Tower G World Trade Centre Nauroji Nagar",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 1,
+              "heading": "Table_1",
+              "row_key": "Office Name",
+              "original_value": "3rd Floor Tower G World Trade Centre Nauroji Nagar"
+            },
+            "parent_id": "72446b5a-9aaf-471e-993b-e8e4a2176f13",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "c916d015-00e2-483f-b025-ac940e52003d",
+        "level": "L1",
+        "content": "Total Quantity: 22",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 1,
+          "heading": "Table_1",
+          "raw_key": "ककुुलल ममाा(cid:32)(cid:32)ाा/Total Quantity",
+          "normalized_key": "Total Quantity",
+          "raw_value": "22",
+          "normalized_value": "22"
+        },
+        "parent_id": "d8b3b26d-001c-43dc-9d58-3bfe6b947cd3",
+        "children": [
+          {
+            "id": "60f70cb1-6239-424c-af57-cf876647f7ff",
+            "level": "L2",
+            "content": "22",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 1,
+              "heading": "Table_1",
+              "row_key": "Total Quantity",
+              "original_value": "22"
+            },
+            "parent_id": "c916d015-00e2-483f-b025-ac940e52003d",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "17673b24-260d-4f37-ac42-10eaf2bb6caf",
+        "level": "L1",
+        "content": "Item Category: Item 1 , Item 2 , Item 3 , Item 4 , Item 5 , Item 6 , Item 7",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 1,
+          "heading": "Table_1",
+          "raw_key": "वव(cid:38)(cid:38)ततु ु (cid:39)(cid:39)णेणे ीी /Item Category",
+          "normalized_key": "Item Category",
+          "raw_value": "Item 1 , Item 2 , Item 3 , Item 4 , Item 5 , Item 6 , Item 7",
+          "normalized_value": "Item 1 , Item 2 , Item 3 , Item 4 , Item 5 , Item 6 , Item 7"
+        },
+        "parent_id": "d8b3b26d-001c-43dc-9d58-3bfe6b947cd3",
+        "children": [
+          {
+            "id": "85dff354-f2b7-4cef-aed0-af3b1b7abe7f",
+            "level": "L2",
+            "content": "Item 1 , Item 2 , Item 3 , Item 4 , Item 5 , Item 6 , Item 7",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 1,
+              "heading": "Table_1",
+              "row_key": "Item Category",
+              "original_value": "Item 1 , Item 2 , Item 3 , Item 4 , Item 5 , Item 6 , Item 7"
+            },
+            "parent_id": "17673b24-260d-4f37-ac42-10eaf2bb6caf",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "67fe0bc7-c11b-4369-a273-96a80ddf55f5",
+        "level": "L1",
+        "content": "Searched Strings used in GeMARPTS: Festo cylinder valve and regulator",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 1,
+          "heading": "Table_1",
+          "raw_key": "GeMARPTS मम(cid:41) (cid:41) खखोोजजीी गगईई (cid:44)(cid:44)(cid:38)(cid:38)(cid:45)(cid:45)ंं(cid:46)(cid:46)सस / Searched\nStrings used in GeMARPTS",
+          "normalized_key": "Searched Strings used in GeMARPTS",
+          "raw_value": "Festo cylinder valve and regulator",
+          "normalized_value": "Festo cylinder valve and regulator"
+        },
+        "parent_id": "d8b3b26d-001c-43dc-9d58-3bfe6b947cd3",
+        "children": [
+          {
+            "id": "11c1a3c8-f883-4ab2-a570-47e880e1dcb0",
+            "level": "L2",
+            "content": "Festo cylinder valve and regulator",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 1,
+              "heading": "Table_1",
+              "row_key": "Searched Strings used in GeMARPTS",
+              "original_value": "Festo cylinder valve and regulator"
+            },
+            "parent_id": "67fe0bc7-c11b-4369-a273-96a80ddf55f5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "f6565b16-f0b4-4b2c-96a2-b9d1449c4556",
+        "level": "L1",
+        "content": "Searched Result generated in GeMARPTS: Hydraulic Cylinder and Hand Pump Set, Electric Pedestal\nType Fan and Regulator as per IS 1169, Pressure Safety\nValve, Pressure and Vacuum Relief Valve, Electric Table\nType Fan and Regulator (V2) Conforming To IS 555, Fully\nReinforced Composite Cylinders (FRCC) - Empty and\nTransportable (V2), Air Circulator Type Electric Fan and\nRegulator (V2) Conforming To IS 2997, Fittings and\nAccessories for Power Transformer, Drain Valve and Flanges\nas per IS:3639, Flush Valves and Fitting for Water Closets\nand Urinals, Stationary Valve Regulated Lead Acid Batteries\n(V3) Conforming To IS 15549",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 1,
+          "heading": "Table_1",
+          "raw_key": "GeMARPTS मम(cid:41) (cid:41) खखोोजजाा गगययाा पप(cid:47)(cid:47)ररणणाामम / Searched\nResult generated in GeMARPTS",
+          "normalized_key": "Searched Result generated in GeMARPTS",
+          "raw_value": "Hydraulic Cylinder and Hand Pump Set, Electric Pedestal\nType Fan and Regulator as per IS 1169, Pressure Safety\nValve, Pressure and Vacuum Relief Valve, Electric Table\nType Fan and Regulator (V2) Conforming To IS 555, Fully\nReinforced Composite Cylinders (FRCC) - Empty and\nTransportable (V2), Air Circulator Type Electric Fan and\nRegulator (V2) Conforming To IS 2997, Fittings and\nAccessories for Power Transformer, Drain Valve and Flanges\nas per IS:3639, Flush Valves and Fitting for Water Closets\nand Urinals, Stationary Valve Regulated Lead Acid Batteries\n(V3) Conforming To IS 15549",
+          "normalized_value": "Hydraulic Cylinder and Hand Pump Set, Electric Pedestal\nType Fan and Regulator as per IS 1169, Pressure Safety\nValve, Pressure and Vacuum Relief Valve, Electric Table\nType Fan and Regulator (V2) Conforming To IS 555, Fully\nReinforced Composite Cylinders (FRCC) - Empty and\nTransportable (V2), Air Circulator Type Electric Fan and\nRegulator (V2) Conforming To IS 2997, Fittings and\nAccessories for Power Transformer, Drain Valve and Flanges\nas per IS:3639, Flush Valves and Fitting for Water Closets\nand Urinals, Stationary Valve Regulated Lead Acid Batteries\n(V3) Conforming To IS 15549"
+        },
+        "parent_id": "d8b3b26d-001c-43dc-9d58-3bfe6b947cd3",
+        "children": [
+          {
+            "id": "8866b796-6f84-4d73-9907-1d39efbeaf6f",
+            "level": "L2",
+            "content": "Hydraulic Cylinder and Hand Pump Set, Electric Pedestal\nType Fan and Regulator as per IS 1169, Pressure Safety\nValve, Pressure and Vacuum Relief Valve, Electric Table\nType Fan and Regulator (V2) Conforming To IS 555, Fully\nReinforced Composite Cylinders (FRCC) - Empty and\nTransportable (V2), Air Circulator Type Electric Fan and\nRegulator (V2) Conforming To IS 2997, Fittings and\nAccessories for Power Transformer, Drain Valve and Flanges\nas per IS:3639, Flush Valves and Fitting for Water Closets\nand Urinals, Stationary Valve Regulated Lead Acid Batteries\n(V3) Conforming To IS 15549",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 1,
+              "heading": "Table_1",
+              "row_key": "Searched Result generated in GeMARPTS",
+              "original_value": "Hydraulic Cylinder and Hand Pump Set, Electric Pedestal\nType Fan and Regulator as per IS 1169, Pressure Safety\nValve, Pressure and Vacuum Relief Valve, Electric Table\nType Fan and Regulator (V2) Conforming To IS 555, Fully\nReinforced Composite Cylinders (FRCC) - Empty and\nTransportable (V2), Air Circulator Type Electric Fan and\nRegulator (V2) Conforming To IS 2997, Fittings and\nAccessories for Power Transformer, Drain Valve and Flanges\nas per IS:3639, Flush Valves and Fitting for Water Closets\nand Urinals, Stationary Valve Regulated Lead Acid Batteries\n(V3) Conforming To IS 15549"
+            },
+            "parent_id": "f6565b16-f0b4-4b2c-96a2-b9d1449c4556",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "0fd059dc-1d71-4d8a-a24d-3212a2fb3b83",
+        "level": "L1",
+        "content": "Relevant Categories selected for notification: Hydraulic Cylinder and Hand Pump Set",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 1,
+          "heading": "Table_1",
+          "raw_key": "अअििधधससूचूचननाा ककेे ििललएए चचययििननतत (cid:53)(cid:53)ााससंिंिगगकक (cid:39)(cid:39)(cid:44)े(cid:44)ेणणययााँ ँ / Relevant\nCategories selected for notification",
+          "normalized_key": "Relevant Categories selected for notification",
+          "raw_value": "Hydraulic Cylinder and Hand Pump Set",
+          "normalized_value": "Hydraulic Cylinder and Hand Pump Set"
+        },
+        "parent_id": "d8b3b26d-001c-43dc-9d58-3bfe6b947cd3",
+        "children": [
+          {
+            "id": "6ee08fd2-5f56-45b1-9266-191491f2d9c5",
+            "level": "L2",
+            "content": "Hydraulic Cylinder and Hand Pump Set",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 1,
+              "heading": "Table_1",
+              "row_key": "Relevant Categories selected for notification",
+              "original_value": "Hydraulic Cylinder and Hand Pump Set"
+            },
+            "parent_id": "0fd059dc-1d71-4d8a-a24d-3212a2fb3b83",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "9b9648cc-7273-4dd7-9d8a-db027cd678ae",
+        "level": "L1",
+        "content": "BOQ Title: Procurement of Festo cylinder valve and regulator",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 1,
+          "heading": "Table_1",
+          "raw_key": "बबीीओओ(cid:56)(cid:56)ययू ू शशीीषषक(cid:37)क(cid:37) /BOQ Title",
+          "normalized_key": "BOQ Title",
+          "raw_value": "Procurement of Festo cylinder valve and regulator",
+          "normalized_value": "Procurement of Festo cylinder valve and regulator"
+        },
+        "parent_id": "d8b3b26d-001c-43dc-9d58-3bfe6b947cd3",
+        "children": [
+          {
+            "id": "a26a95ce-f30f-4bbf-882a-71ef96bbdeee",
+            "level": "L2",
+            "content": "Procurement of Festo cylinder valve and regulator",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 1,
+              "heading": "Table_1",
+              "row_key": "BOQ Title",
+              "original_value": "Procurement of Festo cylinder valve and regulator"
+            },
+            "parent_id": "9b9648cc-7273-4dd7-9d8a-db027cd678ae",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "2eb31973-b3bc-4770-a395-21cbc3cd7395",
+        "level": "L1",
+        "content": "MSE Relaxation for Years Of Experience: Yes | Complete",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 1,
+          "heading": "Table_1",
+          "raw_key": "ववषष(cid:58)(cid:58) ककेे अअननुभुभवव ककेे ििललएए एएममएएससईई ककोो छछूूटट (cid:53)(cid:53)ाा(cid:61)(cid:61) हहैै / MSE\nRelaxation for Years Of Experience",
+          "normalized_key": "MSE Relaxation for Years Of Experience",
+          "raw_value": "Yes | Complete",
+          "normalized_value": "Yes | Complete"
+        },
+        "parent_id": "d8b3b26d-001c-43dc-9d58-3bfe6b947cd3",
+        "children": [
+          {
+            "id": "57d1ed8e-3e03-4bd0-8204-9d9b21d09cad",
+            "level": "L2",
+            "content": "Yes | Complete",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 1,
+              "heading": "Table_1",
+              "row_key": "MSE Relaxation for Years Of Experience",
+              "original_value": "Yes | Complete"
+            },
+            "parent_id": "2eb31973-b3bc-4770-a395-21cbc3cd7395",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "0a6c33d6-9d18-4fff-a60c-76182a96fd99",
+        "level": "L1",
+        "content": "Startup Relaxation for Years Of Experience: Yes | Complete",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 1,
+          "heading": "Table_1",
+          "raw_key": "ववषष(cid:58)(cid:58) ककेे अअननुभुभवव ककेे ििललएए (cid:38)(cid:38)टटााटट(cid:37)(cid:37)अअपप ककोो छछूूटट (cid:53)(cid:53)ाा(cid:61)(cid:61) हहैै / Startup\nRelaxation for Years Of Experience",
+          "normalized_key": "Startup Relaxation for Years Of Experience",
+          "raw_value": "Yes | Complete",
+          "normalized_value": "Yes | Complete"
+        },
+        "parent_id": "d8b3b26d-001c-43dc-9d58-3bfe6b947cd3",
+        "children": [
+          {
+            "id": "39c5a761-6c4a-4607-afa1-356e8b615b25",
+            "level": "L2",
+            "content": "Yes | Complete",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 1,
+              "heading": "Table_1",
+              "row_key": "Startup Relaxation for Years Of Experience",
+              "original_value": "Yes | Complete"
+            },
+            "parent_id": "0a6c33d6-9d18-4fff-a60c-76182a96fd99",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ed2c5eac-981d-489e-8d4a-044d2cac29fc",
+    "level": "L0",
+    "content": "Table_2",
+    "chunk_type": "table",
+    "metadata": {
+      "page": 2,
+      "heading": "Table_2"
+    },
+    "parent_id": null,
+    "children": [
+      {
+        "id": "c693d1c8-f1ed-4fb8-9064-1c32145e4c53",
+        "level": "L1",
+        "content": "Document required from seller: Certificate (Requested in ATC),Additional Doc 1 (Requested\nin ATC),Compliance of BoQ specification and supporting\ndocument\n*In case any bidder is seeking exemption from Experience /\nTurnover Criteria, the supporting documents to prove his\neligibility for exemption must be uploaded for evaluation by\nthe buyer",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 2,
+          "heading": "Table_2",
+          "raw_key": "(cid:1)(cid:1)वव(cid:71)(cid:71)ेेतताा ससे े ममाांगंगे े गगएए दद(cid:38)(cid:38)ततााववेज़ेज़/Document required\nfrom seller",
+          "normalized_key": "Document required from seller",
+          "raw_value": "Certificate (Requested in ATC),Additional Doc 1 (Requested\nin ATC),Compliance of BoQ specification and supporting\ndocument\n*In case any bidder is seeking exemption from Experience /\nTurnover Criteria, the supporting documents to prove his\neligibility for exemption must be uploaded for evaluation by\nthe buyer",
+          "normalized_value": "Certificate (Requested in ATC),Additional Doc 1 (Requested\nin ATC),Compliance of BoQ specification and supporting\ndocument\n*In case any bidder is seeking exemption from Experience /\nTurnover Criteria, the supporting documents to prove his\neligibility for exemption must be uploaded for evaluation by\nthe buyer"
+        },
+        "parent_id": "ed2c5eac-981d-489e-8d4a-044d2cac29fc",
+        "children": [
+          {
+            "id": "9f6b86cd-5e2a-4364-abc7-18fc97dbcddd",
+            "level": "L2",
+            "content": "Certificate (Requested in ATC),Additional Doc 1 (Requested\nin ATC),Compliance of BoQ specification and supporting\ndocument\n*In case any bidder is seeking exemption from Experience /\nTurnover Criteria, the supporting documents to prove his\neligibility for exemption must be uploaded for evaluation by\nthe buyer",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 2,
+              "heading": "Table_2",
+              "row_key": "Document required from seller",
+              "original_value": "Certificate (Requested in ATC),Additional Doc 1 (Requested\nin ATC),Compliance of BoQ specification and supporting\ndocument\n*In case any bidder is seeking exemption from Experience /\nTurnover Criteria, the supporting documents to prove his\neligibility for exemption must be uploaded for evaluation by\nthe buyer"
+            },
+            "parent_id": "c693d1c8-f1ed-4fb8-9064-1c32145e4c53",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "23f29dba-860d-405a-8360-2142ee253a86",
+        "level": "L1",
+        "content": "?? /Do you want to show documents uploaded by bidders to all bidders participated in bid?: No",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 2,
+          "heading": "Table_2",
+          "raw_key": "(cid:56)(cid:56)ययाा आआपप ििनन(cid:1)(cid:1)ववददााककाारर(cid:73)(cid:73) (cid:74)(cid:74)ाारराा अअपपललोोडड (cid:63)(cid:63)ककएए गगएए दद(cid:38)(cid:38)ततााववेज़ेज़(cid:73)(cid:73) ककोो\nििनन(cid:1)(cid:1)ववददाा मम(cid:41) (cid:41) भभाागग ललेनेने े ववाालले े ससभभीी ििनन(cid:1)(cid:1)ववददााककाारर(cid:73)(cid:73) ककोो (cid:63)(cid:63)ददखखााननाा\nचचााहहतते े हह(cid:75)(cid:75)?? ससंदंदभभ (cid:37) (cid:37) ममेनेनू ू हहैै/Do you want to show\ndocuments uploaded by bidders to all\nbidders participated in bid?",
+          "normalized_key": "?? /Do you want to show documents uploaded by bidders to all bidders participated in bid?",
+          "raw_value": "No",
+          "normalized_value": "No"
+        },
+        "parent_id": "ed2c5eac-981d-489e-8d4a-044d2cac29fc",
+        "children": [
+          {
+            "id": "5d8e23d5-cf07-4ff6-9d62-38e23957d0ad",
+            "level": "L2",
+            "content": "No",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 2,
+              "heading": "Table_2",
+              "row_key": "?? /Do you want to show documents uploaded by bidders to all bidders participated in bid?",
+              "original_value": "No"
+            },
+            "parent_id": "23f29dba-860d-405a-8360-2142ee253a86",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "59659bca-c6a1-4efb-a2de-b37d8650c9ac",
+        "level": "L1",
+        "content": "Minimum number of bids required to disable automatic bid extension: 1",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 2,
+          "heading": "Table_2",
+          "raw_key": "(cid:1)(cid:1)बबडड ललगगाानने े कक(cid:16)(cid:16) ससममयय ससीीममाा (cid:38)(cid:38)ववततःः ननहह(cid:19)(cid:19)ं ं बबढ़ढ़ाानने े ककेे ििललएए\nआआवव(cid:79)(cid:79)ययकक (cid:1)(cid:1)बबडड कक(cid:16)(cid:16) ससं(cid:62)ं(cid:62)ययाा।। / Minimum number of\nbids required to disable automatic bid\nextension",
+          "normalized_key": "Minimum number of bids required to disable automatic bid extension",
+          "raw_value": "1",
+          "normalized_value": "1"
+        },
+        "parent_id": "ed2c5eac-981d-489e-8d4a-044d2cac29fc",
+        "children": [
+          {
+            "id": "c7a45e0f-8909-4d4f-bfe8-5946a05cd0c9",
+            "level": "L2",
+            "content": "1",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 2,
+              "heading": "Table_2",
+              "row_key": "Minimum number of bids required to disable automatic bid extension",
+              "original_value": "1"
+            },
+            "parent_id": "59659bca-c6a1-4efb-a2de-b37d8650c9ac",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "2fad5323-ba5b-4693-b8ba-220617108dae",
+        "level": "L1",
+        "content": "Number of days for which Bid would be auto--extended: 7",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 2,
+          "heading": "Table_2",
+          "raw_key": "(cid:63)(cid:63)ददनन(cid:73)(cid:73) कक(cid:16)(cid:16) ससं(cid:62)ं(cid:62)ययाा,, (cid:44)(cid:44)जजननककेे ििललएए (cid:1)(cid:1)बबडड ललगगाानने े कक(cid:16)(cid:16) ससममयय--ससीीममाा\nबबढ़ढ़ााईई जजााएएगगीी।। // Number of days for which Bid\nwould be auto--extended",
+          "normalized_key": "Number of days for which Bid would be auto--extended",
+          "raw_value": "7",
+          "normalized_value": "7"
+        },
+        "parent_id": "ed2c5eac-981d-489e-8d4a-044d2cac29fc",
+        "children": [
+          {
+            "id": "18b8f006-e9f8-4c1c-8905-1d3282f1ed30",
+            "level": "L2",
+            "content": "7",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 2,
+              "heading": "Table_2",
+              "row_key": "Number of days for which Bid would be auto--extended",
+              "original_value": "7"
+            },
+            "parent_id": "2fad5323-ba5b-4693-b8ba-220617108dae",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "54c9a0e1-9b30-4bbf-aa75-d031c4649093",
+        "level": "L1",
+        "content": "Number of Auto Extension count: 3",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 2,
+          "heading": "Table_2",
+          "raw_key": "ऑऑटटोो एए(cid:56)(cid:56)ससटट(cid:41)(cid:41)शशनन अअििधधककततमम (cid:63)(cid:63)ककततननीी बबाारर (cid:63)(cid:63)ककययाा जजााननाा हहैै।। //\nNumber of Auto Extension count",
+          "normalized_key": "Number of Auto Extension count",
+          "raw_value": "3",
+          "normalized_value": "3"
+        },
+        "parent_id": "ed2c5eac-981d-489e-8d4a-044d2cac29fc",
+        "children": [
+          {
+            "id": "fd9cd8d9-419c-45a1-9715-72db33bcaf87",
+            "level": "L2",
+            "content": "3",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 2,
+              "heading": "Table_2",
+              "row_key": "Number of Auto Extension count",
+              "original_value": "3"
+            },
+            "parent_id": "54c9a0e1-9b30-4bbf-aa75-d031c4649093",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "d99f2b28-ffd4-44b2-8175-1bd2e67d452c",
+        "level": "L1",
+        "content": "Bid to RA enabled: Yes",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 2,
+          "heading": "Table_2",
+          "raw_key": "(cid:1)(cid:1)बबडड ससे े (cid:47)(cid:47)ररववसस (cid:37) (cid:37) ननीीललााममीी सस(cid:63)(cid:63)(cid:71)(cid:71)यय (cid:63)(cid:63)ककययाा/Bid to RA enabled",
+          "normalized_key": "Bid to RA enabled",
+          "raw_value": "Yes",
+          "normalized_value": "Yes"
+        },
+        "parent_id": "ed2c5eac-981d-489e-8d4a-044d2cac29fc",
+        "children": [
+          {
+            "id": "2498c1d6-6671-4291-bd66-02df069e0571",
+            "level": "L2",
+            "content": "Yes",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 2,
+              "heading": "Table_2",
+              "row_key": "Bid to RA enabled",
+              "original_value": "Yes"
+            },
+            "parent_id": "d99f2b28-ffd4-44b2-8175-1bd2e67d452c",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "c2eea4b2-19a3-4abd-aeb7-928c89b19e60",
+        "level": "L1",
+        "content": "RA Qualification Rule: H1-Highest Priced Bid Elimination",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 2,
+          "heading": "Table_2",
+          "raw_key": "(cid:47)(cid:47)ररववसस(cid:37) (cid:37)ननीीललााममीी ययोो(cid:46)(cid:46)ययतताा ििननययमम/RA Qualification Rule",
+          "normalized_key": "RA Qualification Rule",
+          "raw_value": "H1-Highest Priced Bid Elimination",
+          "normalized_value": "H1-Highest Priced Bid Elimination"
+        },
+        "parent_id": "ed2c5eac-981d-489e-8d4a-044d2cac29fc",
+        "children": [
+          {
+            "id": "638723d8-2507-4936-ae3f-e649b137e295",
+            "level": "L2",
+            "content": "H1-Highest Priced Bid Elimination",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 2,
+              "heading": "Table_2",
+              "row_key": "RA Qualification Rule",
+              "original_value": "H1-Highest Priced Bid Elimination"
+            },
+            "parent_id": "c2eea4b2-19a3-4abd-aeb7-928c89b19e60",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "8a4cd8d9-338d-4909-aaa2-3f6426dff1b8",
+        "level": "L1",
+        "content": "Type of Bid: Two Packet Bid",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 2,
+          "heading": "Table_2",
+          "raw_key": "(cid:1)(cid:1)बबडड ककाा (cid:53)(cid:53)ककाारर/Type of Bid",
+          "normalized_key": "Type of Bid",
+          "raw_value": "Two Packet Bid",
+          "normalized_value": "Two Packet Bid"
+        },
+        "parent_id": "ed2c5eac-981d-489e-8d4a-044d2cac29fc",
+        "children": [
+          {
+            "id": "8008cb92-fdc9-48c7-a953-cfd5ea0d3efe",
+            "level": "L2",
+            "content": "Two Packet Bid",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 2,
+              "heading": "Table_2",
+              "row_key": "Type of Bid",
+              "original_value": "Two Packet Bid"
+            },
+            "parent_id": "8a4cd8d9-338d-4909-aaa2-3f6426dff1b8",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "0290a4cc-66a9-437e-83ad-0288f010f543",
+        "level": "L1",
+        "content": "Primary product category: Item 7",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 2,
+          "heading": "Table_2",
+          "raw_key": "(cid:53)(cid:53)ााथथििममकक उउ(cid:85)(cid:85)पपाादद (cid:39)(cid:39)णेणे ीी/Primary product category",
+          "normalized_key": "Primary product category",
+          "raw_value": "Item 7",
+          "normalized_value": "Item 7"
+        },
+        "parent_id": "ed2c5eac-981d-489e-8d4a-044d2cac29fc",
+        "children": [
+          {
+            "id": "4c670bf5-e9a4-4d26-bc66-c9ecf8640bc8",
+            "level": "L2",
+            "content": "Item 7",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 2,
+              "heading": "Table_2",
+              "row_key": "Primary product category",
+              "original_value": "Item 7"
+            },
+            "parent_id": "0290a4cc-66a9-437e-83ad-0288f010f543",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "d53c613a-6c2c-4eeb-a349-2d720870e6df",
+        "level": "L1",
+        "content": "Time allowed for Technical Clarifications during technical evaluation: 2 Days",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 2,
+          "heading": "Table_2",
+          "raw_key": "ततककननीीकक(cid:16)(cid:16) ममू(cid:86)ू(cid:86)ययाांकंकनन ककेे ददौौरराानन ततककननीीकक(cid:16)(cid:16) (cid:38)(cid:38)पप(cid:88)(cid:88)ीीककररणण हहेेततुु\nअअननुमुमतत ससममयय /Time allowed for Technical\nClarifications during technical evaluation",
+          "normalized_key": "Time allowed for Technical Clarifications during technical evaluation",
+          "raw_value": "2 Days",
+          "normalized_value": "2 Days"
+        },
+        "parent_id": "ed2c5eac-981d-489e-8d4a-044d2cac29fc",
+        "children": [
+          {
+            "id": "4e249692-dc29-436e-b12d-d4857d608a2c",
+            "level": "L2",
+            "content": "2 Days",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 2,
+              "heading": "Table_2",
+              "row_key": "Time allowed for Technical Clarifications during technical evaluation",
+              "original_value": "2 Days"
+            },
+            "parent_id": "d53c613a-6c2c-4eeb-a349-2d720870e6df",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "94129c8c-06f9-443b-b1af-634e681d0817",
+        "level": "L1",
+        "content": "Agencies pre-registered with GeM): No",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 2,
+          "heading": "Table_2",
+          "raw_key": "ििननरर(cid:19)(cid:19)(cid:89)(cid:89)णण आआवव(cid:79)(cid:79)ययकक (ससूचूचीीबब(cid:90)(cid:90) ििननरर(cid:19)(cid:19)(cid:89)(cid:89)णण (cid:53)(cid:53)ााििधधककररणण /जजेमेम ककेे ससााथथ\nपपूवूव(cid:37) (cid:37)पपंजंजीीककृृतत एएजज(cid:41)ि(cid:41)िससयय(cid:73)(cid:73) (cid:74)(cid:74)ाारराा)/Inspection Required (By\nEmpanelled Inspection Authority / Agencies\npre-registered with GeM)",
+          "normalized_key": "Agencies pre-registered with GeM)",
+          "raw_value": "No",
+          "normalized_value": "No"
+        },
+        "parent_id": "ed2c5eac-981d-489e-8d4a-044d2cac29fc",
+        "children": [
+          {
+            "id": "72d3ec42-3841-403b-98b6-6bace9dad295",
+            "level": "L2",
+            "content": "No",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 2,
+              "heading": "Table_2",
+              "row_key": "Agencies pre-registered with GeM)",
+              "original_value": "No"
+            },
+            "parent_id": "94129c8c-06f9-443b-b1af-634e681d0817",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "53aa7e19-e619-4dc7-8e08-42d569ce55a9",
+        "level": "L1",
+        "content": "Evaluation Method: Total value wise evaluation",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 2,
+          "heading": "Table_2",
+          "raw_key": "ममू(cid:86)ू(cid:86)ययाांकंकनन पप(cid:90)(cid:90)िितत/Evaluation Method",
+          "normalized_key": "Evaluation Method",
+          "raw_value": "Total value wise evaluation",
+          "normalized_value": "Total value wise evaluation"
+        },
+        "parent_id": "ed2c5eac-981d-489e-8d4a-044d2cac29fc",
+        "children": [
+          {
+            "id": "ad96d190-50ea-4a70-8d93-9875bda7e011",
+            "level": "L2",
+            "content": "Total value wise evaluation",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 2,
+              "heading": "Table_2",
+              "row_key": "Evaluation Method",
+              "original_value": "Total value wise evaluation"
+            },
+            "parent_id": "53aa7e19-e619-4dc7-8e08-42d569ce55a9",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "2e1e70e3-046a-414d-a291-3ef1a4654c80",
+        "level": "L1",
+        "content": "Arbitration Clause: No",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 2,
+          "heading": "Table_2",
+          "raw_key": "मम(cid:92)(cid:92)यय(cid:38)(cid:38)थथतताा खखंडंड/Arbitration Clause",
+          "normalized_key": "Arbitration Clause",
+          "raw_value": "No",
+          "normalized_value": "No"
+        },
+        "parent_id": "ed2c5eac-981d-489e-8d4a-044d2cac29fc",
+        "children": [
+          {
+            "id": "d87afbb1-9414-4b48-b64c-e9195ad979d8",
+            "level": "L2",
+            "content": "No",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 2,
+              "heading": "Table_2",
+              "row_key": "Arbitration Clause",
+              "original_value": "No"
+            },
+            "parent_id": "2e1e70e3-046a-414d-a291-3ef1a4654c80",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "4de079c0-466a-42ce-825d-5edd8500f9a8",
+        "level": "L1",
+        "content": "Mediation Clause: No",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 2,
+          "heading": "Table_2",
+          "raw_key": "ससुलुलहह खखंडंड/Mediation Clause",
+          "normalized_key": "Mediation Clause",
+          "raw_value": "No",
+          "normalized_value": "No"
+        },
+        "parent_id": "ed2c5eac-981d-489e-8d4a-044d2cac29fc",
+        "children": [
+          {
+            "id": "92e8b09b-155d-43ac-a270-4b8410ae014c",
+            "level": "L2",
+            "content": "No",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 2,
+              "heading": "Table_2",
+              "row_key": "Mediation Clause",
+              "original_value": "No"
+            },
+            "parent_id": "4de079c0-466a-42ce-825d-5edd8500f9a8",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "df6a3728-e6be-44ca-8542-052b769e76cc",
+    "level": "L0",
+    "content": "Table_3",
+    "chunk_type": "table",
+    "metadata": {
+      "page": 2,
+      "heading": "Table_3"
+    },
+    "parent_id": null,
+    "children": [
+      {
+        "id": "a2ae14eb-5219-4452-9658-c93561dde623",
+        "level": "L1",
+        "content": "Required: No",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 2,
+          "heading": "Table_3",
+          "raw_key": "आव(cid:79)यकता/Required",
+          "normalized_key": "Required",
+          "raw_value": "No",
+          "normalized_value": "No"
+        },
+        "parent_id": "df6a3728-e6be-44ca-8542-052b769e76cc",
+        "children": [
+          {
+            "id": "f21e5598-d8b2-4587-a772-f1af5eb35a65",
+            "level": "L2",
+            "content": "No",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 2,
+              "heading": "Table_3",
+              "row_key": "Required",
+              "original_value": "No"
+            },
+            "parent_id": "a2ae14eb-5219-4452-9658-c93561dde623",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ac396569-58a0-4009-be65-24fc40da542e",
+    "level": "L0",
+    "content": "Table_4",
+    "chunk_type": "table",
+    "metadata": {
+      "page": 3,
+      "heading": "Table_4"
+    },
+    "parent_id": null,
+    "children": [
+      {
+        "id": "6c14bb1d-c752-4368-bb3c-a91b3109492f",
+        "level": "L1",
+        "content": "Required: No",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 3,
+          "heading": "Table_4",
+          "raw_key": "आव(cid:79)यकता/Required",
+          "normalized_key": "Required",
+          "raw_value": "No",
+          "normalized_value": "No"
+        },
+        "parent_id": "ac396569-58a0-4009-be65-24fc40da542e",
+        "children": [
+          {
+            "id": "511314bc-48e9-45cf-bfd3-7f67e2422a97",
+            "level": "L2",
+            "content": "No",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 3,
+              "heading": "Table_4",
+              "row_key": "Required",
+              "original_value": "No"
+            },
+            "parent_id": "6c14bb1d-c752-4368-bb3c-a91b3109492f",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bd2d4d19-c62c-4ef4-bb83-840eba7148cf",
+    "level": "L0",
+    "content": "Table_5",
+    "chunk_type": "table",
+    "metadata": {
+      "page": 3,
+      "heading": "Table_5"
+    },
+    "parent_id": null,
+    "children": [
+      {
+        "id": "48e2ea87-b89f-4e03-91f1-6009b5f3f19f",
+        "level": "L1",
+        "content": "MII Purchase Preference: No",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 3,
+          "heading": "Table_5",
+          "raw_key": "एमआईआई खर(cid:19)द वर(cid:19)यता/MII Purchase Preference",
+          "normalized_key": "MII Purchase Preference",
+          "raw_value": "No",
+          "normalized_value": "No"
+        },
+        "parent_id": "bd2d4d19-c62c-4ef4-bb83-840eba7148cf",
+        "children": [
+          {
+            "id": "21e7ed13-b929-44c5-aa48-e6c9824ca8ae",
+            "level": "L2",
+            "content": "No",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 3,
+              "heading": "Table_5",
+              "row_key": "MII Purchase Preference",
+              "original_value": "No"
+            },
+            "parent_id": "48e2ea87-b89f-4e03-91f1-6009b5f3f19f",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ae8c5ed8-c689-4bad-ba26-03cbf6fa5342",
+    "level": "L0",
+    "content": "Table_6",
+    "chunk_type": "table",
+    "metadata": {
+      "page": 3,
+      "heading": "Table_6"
+    },
+    "parent_id": null,
+    "children": [
+      {
+        "id": "302ac6ef-d039-4937-bb5a-e2b1d91b9180",
+        "level": "L1",
+        "content": "MSE Purchase Preference: Yes",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 3,
+          "heading": "Table_6",
+          "raw_key": "एमएसई खर(cid:19)द वर(cid:19)यता/MSE Purchase Preference",
+          "normalized_key": "MSE Purchase Preference",
+          "raw_value": "Yes",
+          "normalized_value": "Yes"
+        },
+        "parent_id": "ae8c5ed8-c689-4bad-ba26-03cbf6fa5342",
+        "children": [
+          {
+            "id": "88d3b9b0-dece-4ad0-893b-96acb69b574a",
+            "level": "L2",
+            "content": "Yes",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 3,
+              "heading": "Table_6",
+              "row_key": "MSE Purchase Preference",
+              "original_value": "Yes"
+            },
+            "parent_id": "302ac6ef-d039-4937-bb5a-e2b1d91b9180",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "c9a69e2a-4916-44af-ba79-a5e24f86636a",
+        "level": "L1",
+        "content": "Purchase Preference to MSE OEMs available upto price within L1+X%: 15",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 3,
+          "heading": "Table_6",
+          "raw_key": "सू(cid:93)म और लघु उ(cid:96)म मूल उपकरण िनमात(cid:37) ाओं को खर(cid:19)द म(cid:41)\n(cid:53)ाथिमकता, य(cid:63)द उनका मू(cid:86)य L1+X% तक क(cid:16) सीमा म(cid:41) हो /\nPurchase Preference to MSE OEMs available upto\nprice within L1+X%",
+          "normalized_key": "Purchase Preference to MSE OEMs available upto price within L1+X%",
+          "raw_value": "15",
+          "normalized_value": "15"
+        },
+        "parent_id": "ae8c5ed8-c689-4bad-ba26-03cbf6fa5342",
+        "children": [
+          {
+            "id": "03f17c61-9e12-4d1f-ae7d-e00ea718c2a6",
+            "level": "L2",
+            "content": "15",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 3,
+              "heading": "Table_6",
+              "row_key": "Purchase Preference to MSE OEMs available upto price within L1+X%",
+              "original_value": "15"
+            },
+            "parent_id": "c9a69e2a-4916-44af-ba79-a5e24f86636a",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "ec2f95b8-eeec-4d7d-aec4-18fed26f69ae",
+        "level": "L1",
+        "content": "Maximum Percentage of Bid quantity for MSE purchase preference: 25",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 3,
+          "heading": "Table_6",
+          "raw_key": "सू(cid:93)म और लघु उ(cid:96)म को खर(cid:19)द म(cid:41) (cid:53)ाथिमकता के िलए (cid:1)बड\nक(cid:16) मा(cid:32)ा का अिधकतम (cid:53)ितशत / Maximum\nPercentage of Bid quantity for MSE purchase\npreference",
+          "normalized_key": "Maximum Percentage of Bid quantity for MSE purchase preference",
+          "raw_value": "25",
+          "normalized_value": "25"
+        },
+        "parent_id": "ae8c5ed8-c689-4bad-ba26-03cbf6fa5342",
+        "children": [
+          {
+            "id": "437550c2-2103-42e4-a7cf-a30b417d9603",
+            "level": "L2",
+            "content": "25",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 3,
+              "heading": "Table_6",
+              "row_key": "Maximum Percentage of Bid quantity for MSE purchase preference",
+              "original_value": "25"
+            },
+            "parent_id": "ec2f95b8-eeec-4d7d-aec4-18fed26f69ae",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8e5b95c6-b02a-405d-b6dd-ab2a9cc96d93",
+    "level": "L0",
+    "content": "Table_7",
+    "chunk_type": "table",
+    "metadata": {
+      "page": 4,
+      "heading": "Table_7"
+    },
+    "parent_id": null,
+    "children": [
+      {
+        "id": "1d9a0485-c31c-4a07-ae2c-dd72b69545fb",
+        "level": "L1",
+        "content": "Specification Document: View File",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 4,
+          "heading": "Table_7",
+          "raw_key": "Specification Document",
+          "normalized_key": "Specification Document",
+          "raw_value": "View File",
+          "normalized_value": "View File"
+        },
+        "parent_id": "8e5b95c6-b02a-405d-b6dd-ab2a9cc96d93",
+        "children": [
+          {
+            "id": "ac2b1184-939e-4478-9d46-04315850029f",
+            "level": "L2",
+            "content": "View File",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 4,
+              "heading": "Table_7",
+              "row_key": "Specification Document",
+              "original_value": "View File"
+            },
+            "parent_id": "1d9a0485-c31c-4a07-ae2c-dd72b69545fb",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "c90b7c89-9ae8-45d4-9d5f-432a771a344b",
+        "level": "L1",
+        "content": "BOQ Detail Document: View File",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 4,
+          "heading": "Table_7",
+          "raw_key": "BOQ Detail Document",
+          "normalized_key": "BOQ Detail Document",
+          "raw_value": "View File",
+          "normalized_value": "View File"
+        },
+        "parent_id": "8e5b95c6-b02a-405d-b6dd-ab2a9cc96d93",
+        "children": [
+          {
+            "id": "23de72d6-cef8-46ad-9cda-3f125ce1ac57",
+            "level": "L2",
+            "content": "View File",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 4,
+              "heading": "Table_7",
+              "row_key": "BOQ Detail Document",
+              "original_value": "View File"
+            },
+            "parent_id": "c90b7c89-9ae8-45d4-9d5f-432a771a344b",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "149b0786-6b01-446a-aa7a-7a8cfeb0675b",
+    "level": "L0",
+    "content": "Table_8",
+    "chunk_type": "table",
+    "metadata": {
+      "page": 4,
+      "heading": "Table_8"
+    },
+    "parent_id": null,
+    "children": [
+      {
+        "id": "37f479f9-8a6a-461e-a4b4-c8111c876630",
+        "level": "L1",
+        "content": ".. . ./S.N o.: पपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:63)(cid:63)टट(cid:100)(cid:100)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 4,
+          "heading": "Table_8",
+          "raw_key": "(cid:71)(cid:71)..ससं.ं./S.N\no.",
+          "normalized_key": ".. . ./S.N o.",
+          "raw_value": "पपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:63)(cid:63)टट(cid:100)(cid:100)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer",
+          "normalized_value": "पपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:63)(cid:63)टट(cid:100)(cid:100)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer"
+        },
+        "parent_id": "149b0786-6b01-446a-aa7a-7a8cfeb0675b",
+        "children": [
+          {
+            "id": "c5cf0ea3-2e28-4173-bed0-c07d882b707a",
+            "level": "L2",
+            "content": "पपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:63)(cid:63)टट(cid:100)(cid:100)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 4,
+              "heading": "Table_8",
+              "row_key": ".. . ./S.N o.",
+              "original_value": "पपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:63)(cid:63)टट(cid:100)(cid:100)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer"
+            },
+            "parent_id": "37f479f9-8a6a-461e-a4b4-c8111c876630",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "b380959b-f568-4c03-84d0-1e9e2789b0b1",
+        "level": "L1",
+        "content": "1: Biplab Basak",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 4,
+          "heading": "Table_8",
+          "raw_key": "1",
+          "normalized_key": "1",
+          "raw_value": "Biplab Basak",
+          "normalized_value": "Biplab Basak"
+        },
+        "parent_id": "149b0786-6b01-446a-aa7a-7a8cfeb0675b",
+        "children": [
+          {
+            "id": "8cb5ceb3-deeb-46e7-aee4-4cd0f1c5a58e",
+            "level": "L2",
+            "content": "Biplab Basak",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 4,
+              "heading": "Table_8",
+              "row_key": "1",
+              "original_value": "Biplab Basak"
+            },
+            "parent_id": "b380959b-f568-4c03-84d0-1e9e2789b0b1",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "343a60bc-2dd7-4c23-a658-31172f49f006",
+    "level": "L0",
+    "content": "Table_9",
+    "chunk_type": "table",
+    "metadata": {
+      "page": 4,
+      "heading": "Table_9"
+    },
+    "parent_id": null,
+    "children": [
+      {
+        "id": "ca0b30ad-83db-4020-980a-b3e8f158e3e7",
+        "level": "L1",
+        "content": "Specification Document: View File",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 4,
+          "heading": "Table_9",
+          "raw_key": "Specification Document",
+          "normalized_key": "Specification Document",
+          "raw_value": "View File",
+          "normalized_value": "View File"
+        },
+        "parent_id": "343a60bc-2dd7-4c23-a658-31172f49f006",
+        "children": [
+          {
+            "id": "17861380-f5c0-475d-b949-01d948b8f680",
+            "level": "L2",
+            "content": "View File",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 4,
+              "heading": "Table_9",
+              "row_key": "Specification Document",
+              "original_value": "View File"
+            },
+            "parent_id": "ca0b30ad-83db-4020-980a-b3e8f158e3e7",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "54de32ca-a829-4ce0-a81b-7fc55c8d24ab",
+        "level": "L1",
+        "content": "BOQ Detail Document: View File",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 4,
+          "heading": "Table_9",
+          "raw_key": "BOQ Detail Document",
+          "normalized_key": "BOQ Detail Document",
+          "raw_value": "View File",
+          "normalized_value": "View File"
+        },
+        "parent_id": "343a60bc-2dd7-4c23-a658-31172f49f006",
+        "children": [
+          {
+            "id": "1c9fd8c8-7ff3-4fd4-a796-79ea2f8eb826",
+            "level": "L2",
+            "content": "View File",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 4,
+              "heading": "Table_9",
+              "row_key": "BOQ Detail Document",
+              "original_value": "View File"
+            },
+            "parent_id": "54de32ca-a829-4ce0-a81b-7fc55c8d24ab",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "542ec14a-b525-44b2-8ca9-247fff5e52a3",
+    "level": "L0",
+    "content": "Table_10",
+    "chunk_type": "table",
+    "metadata": {
+      "page": 5,
+      "heading": "Table_10"
+    },
+    "parent_id": null,
+    "children": [
+      {
+        "id": "ae913f10-c2e1-4ac0-b332-39435ac85ef5",
+        "level": "L1",
+        "content": ".. . ./S.N o.: पपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:63)(cid:63)टट(cid:100)(cid:100)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 5,
+          "heading": "Table_10",
+          "raw_key": "(cid:71)(cid:71)..ससं.ं./S.N\no.",
+          "normalized_key": ".. . ./S.N o.",
+          "raw_value": "पपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:63)(cid:63)टट(cid:100)(cid:100)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer",
+          "normalized_value": "पपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:63)(cid:63)टट(cid:100)(cid:100)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer"
+        },
+        "parent_id": "542ec14a-b525-44b2-8ca9-247fff5e52a3",
+        "children": [
+          {
+            "id": "88292b3c-684a-4b87-9870-46d91d6187bf",
+            "level": "L2",
+            "content": "पपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:63)(cid:63)टट(cid:100)(cid:100)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 5,
+              "heading": "Table_10",
+              "row_key": ".. . ./S.N o.",
+              "original_value": "पपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:63)(cid:63)टट(cid:100)(cid:100)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer"
+            },
+            "parent_id": "ae913f10-c2e1-4ac0-b332-39435ac85ef5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "ccbe4272-e226-48cf-aebd-f42eafeba857",
+        "level": "L1",
+        "content": "1: Biplab Basak",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 5,
+          "heading": "Table_10",
+          "raw_key": "1",
+          "normalized_key": "1",
+          "raw_value": "Biplab Basak",
+          "normalized_value": "Biplab Basak"
+        },
+        "parent_id": "542ec14a-b525-44b2-8ca9-247fff5e52a3",
+        "children": [
+          {
+            "id": "fe84c0df-7203-4a61-bdc5-18a888c44fe9",
+            "level": "L2",
+            "content": "Biplab Basak",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 5,
+              "heading": "Table_10",
+              "row_key": "1",
+              "original_value": "Biplab Basak"
+            },
+            "parent_id": "ccbe4272-e226-48cf-aebd-f42eafeba857",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "9186300f-ff75-41e3-8083-0db7e1f8d714",
+    "level": "L0",
+    "content": "Table_11",
+    "chunk_type": "table",
+    "metadata": {
+      "page": 5,
+      "heading": "Table_11"
+    },
+    "parent_id": null,
+    "children": [
+      {
+        "id": "7878d13c-21ad-4f13-bf82-d542b268435e",
+        "level": "L1",
+        "content": "Specification Document: View File",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 5,
+          "heading": "Table_11",
+          "raw_key": "Specification Document",
+          "normalized_key": "Specification Document",
+          "raw_value": "View File",
+          "normalized_value": "View File"
+        },
+        "parent_id": "9186300f-ff75-41e3-8083-0db7e1f8d714",
+        "children": [
+          {
+            "id": "f66955b2-bcc8-4841-8a5c-f09151cde522",
+            "level": "L2",
+            "content": "View File",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 5,
+              "heading": "Table_11",
+              "row_key": "Specification Document",
+              "original_value": "View File"
+            },
+            "parent_id": "7878d13c-21ad-4f13-bf82-d542b268435e",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "530059c2-f371-4c77-a2a9-ace5cded5b1b",
+        "level": "L1",
+        "content": "BOQ Detail Document: View File",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 5,
+          "heading": "Table_11",
+          "raw_key": "BOQ Detail Document",
+          "normalized_key": "BOQ Detail Document",
+          "raw_value": "View File",
+          "normalized_value": "View File"
+        },
+        "parent_id": "9186300f-ff75-41e3-8083-0db7e1f8d714",
+        "children": [
+          {
+            "id": "a26f650b-fc65-4080-819e-073bf349a6d2",
+            "level": "L2",
+            "content": "View File",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 5,
+              "heading": "Table_11",
+              "row_key": "BOQ Detail Document",
+              "original_value": "View File"
+            },
+            "parent_id": "530059c2-f371-4c77-a2a9-ace5cded5b1b",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "d2c1e695-d3d0-44af-81ee-5e88e05cedbb",
+    "level": "L0",
+    "content": "Table_12",
+    "chunk_type": "table",
+    "metadata": {
+      "page": 5,
+      "heading": "Table_12"
+    },
+    "parent_id": null,
+    "children": [
+      {
+        "id": "61440fa4-9098-4f51-a9e5-dd915f92e936",
+        "level": "L1",
+        "content": ".. . ./S.N o.: पपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:63)(cid:63)टट(cid:100)(cid:100)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 5,
+          "heading": "Table_12",
+          "raw_key": "(cid:71)(cid:71)..ससं.ं./S.N\no.",
+          "normalized_key": ".. . ./S.N o.",
+          "raw_value": "पपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:63)(cid:63)टट(cid:100)(cid:100)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer",
+          "normalized_value": "पपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:63)(cid:63)टट(cid:100)(cid:100)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer"
+        },
+        "parent_id": "d2c1e695-d3d0-44af-81ee-5e88e05cedbb",
+        "children": [
+          {
+            "id": "85069ed3-188a-4043-8808-f1a50f38e6db",
+            "level": "L2",
+            "content": "पपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:63)(cid:63)टट(cid:100)(cid:100)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 5,
+              "heading": "Table_12",
+              "row_key": ".. . ./S.N o.",
+              "original_value": "पपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:63)(cid:63)टट(cid:100)(cid:100)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer"
+            },
+            "parent_id": "61440fa4-9098-4f51-a9e5-dd915f92e936",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "b3f77320-4ec2-4971-9671-9cea1e92ea84",
+        "level": "L1",
+        "content": "1: Biplab Basak",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 5,
+          "heading": "Table_12",
+          "raw_key": "1",
+          "normalized_key": "1",
+          "raw_value": "Biplab Basak",
+          "normalized_value": "Biplab Basak"
+        },
+        "parent_id": "d2c1e695-d3d0-44af-81ee-5e88e05cedbb",
+        "children": [
+          {
+            "id": "3ae19621-38df-4c03-b0d4-8b901bb88616",
+            "level": "L2",
+            "content": "Biplab Basak",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 5,
+              "heading": "Table_12",
+              "row_key": "1",
+              "original_value": "Biplab Basak"
+            },
+            "parent_id": "b3f77320-4ec2-4971-9671-9cea1e92ea84",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8418c74e-a2a2-470d-adca-14e5e793b9d7",
+    "level": "L0",
+    "content": "Table_13",
+    "chunk_type": "table",
+    "metadata": {
+      "page": 5,
+      "heading": "Table_13"
+    },
+    "parent_id": null,
+    "children": [
+      {
+        "id": "f70eecf4-82c2-4880-921f-724f4f4bec34",
+        "level": "L1",
+        "content": "Specification Document: View File",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 5,
+          "heading": "Table_13",
+          "raw_key": "Specification Document",
+          "normalized_key": "Specification Document",
+          "raw_value": "View File",
+          "normalized_value": "View File"
+        },
+        "parent_id": "8418c74e-a2a2-470d-adca-14e5e793b9d7",
+        "children": [
+          {
+            "id": "d95d0669-ad2c-4fe0-9886-2bae1751029e",
+            "level": "L2",
+            "content": "View File",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 5,
+              "heading": "Table_13",
+              "row_key": "Specification Document",
+              "original_value": "View File"
+            },
+            "parent_id": "f70eecf4-82c2-4880-921f-724f4f4bec34",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "38f411dd-e57e-4158-8c2b-80ad95c37372",
+        "level": "L1",
+        "content": "BOQ Detail Document: View File",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 5,
+          "heading": "Table_13",
+          "raw_key": "BOQ Detail Document",
+          "normalized_key": "BOQ Detail Document",
+          "raw_value": "View File",
+          "normalized_value": "View File"
+        },
+        "parent_id": "8418c74e-a2a2-470d-adca-14e5e793b9d7",
+        "children": [
+          {
+            "id": "ff83eb48-f51d-4bf5-9973-b2d549b91804",
+            "level": "L2",
+            "content": "View File",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 5,
+              "heading": "Table_13",
+              "row_key": "BOQ Detail Document",
+              "original_value": "View File"
+            },
+            "parent_id": "38f411dd-e57e-4158-8c2b-80ad95c37372",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "34464682-7cef-4555-9c93-172c4723abee",
+    "level": "L0",
+    "content": "Table_14",
+    "chunk_type": "table",
+    "metadata": {
+      "page": 6,
+      "heading": "Table_14"
+    },
+    "parent_id": null,
+    "children": [
+      {
+        "id": "a3817ae6-b68e-432a-9a30-5ef90b51543c",
+        "level": "L1",
+        "content": ".. . ./S.N o.: पपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:63)(cid:63)टट(cid:100)(cid:100)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 6,
+          "heading": "Table_14",
+          "raw_key": "(cid:71)(cid:71)..ससं.ं./S.N\no.",
+          "normalized_key": ".. . ./S.N o.",
+          "raw_value": "पपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:63)(cid:63)टट(cid:100)(cid:100)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer",
+          "normalized_value": "पपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:63)(cid:63)टट(cid:100)(cid:100)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer"
+        },
+        "parent_id": "34464682-7cef-4555-9c93-172c4723abee",
+        "children": [
+          {
+            "id": "7a94d58a-6f1d-40ce-af3a-90d9d369cdfc",
+            "level": "L2",
+            "content": "पपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:63)(cid:63)टट(cid:100)(cid:100)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 6,
+              "heading": "Table_14",
+              "row_key": ".. . ./S.N o.",
+              "original_value": "पपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:63)(cid:63)टट(cid:100)(cid:100)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer"
+            },
+            "parent_id": "a3817ae6-b68e-432a-9a30-5ef90b51543c",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "1386bf3c-0546-462e-836c-c63a57d87d72",
+        "level": "L1",
+        "content": "1: Biplab Basak",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 6,
+          "heading": "Table_14",
+          "raw_key": "1",
+          "normalized_key": "1",
+          "raw_value": "Biplab Basak",
+          "normalized_value": "Biplab Basak"
+        },
+        "parent_id": "34464682-7cef-4555-9c93-172c4723abee",
+        "children": [
+          {
+            "id": "52c748a7-e84d-4fa2-9d69-cf894e7bf36c",
+            "level": "L2",
+            "content": "Biplab Basak",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 6,
+              "heading": "Table_14",
+              "row_key": "1",
+              "original_value": "Biplab Basak"
+            },
+            "parent_id": "1386bf3c-0546-462e-836c-c63a57d87d72",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "eca9c776-24d4-46dd-8006-c9ca04468932",
+    "level": "L0",
+    "content": "Table_15",
+    "chunk_type": "table",
+    "metadata": {
+      "page": 6,
+      "heading": "Table_15"
+    },
+    "parent_id": null,
+    "children": [
+      {
+        "id": "d43383bc-e3ae-48ed-911e-d8447d245cec",
+        "level": "L1",
+        "content": "Specification Document: View File",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 6,
+          "heading": "Table_15",
+          "raw_key": "Specification Document",
+          "normalized_key": "Specification Document",
+          "raw_value": "View File",
+          "normalized_value": "View File"
+        },
+        "parent_id": "eca9c776-24d4-46dd-8006-c9ca04468932",
+        "children": [
+          {
+            "id": "fe6e5895-2a88-413d-a0d0-3d5a4faee3f4",
+            "level": "L2",
+            "content": "View File",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 6,
+              "heading": "Table_15",
+              "row_key": "Specification Document",
+              "original_value": "View File"
+            },
+            "parent_id": "d43383bc-e3ae-48ed-911e-d8447d245cec",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "53722050-4a33-4ff5-b0e9-af99d3d301a3",
+        "level": "L1",
+        "content": "BOQ Detail Document: View File",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 6,
+          "heading": "Table_15",
+          "raw_key": "BOQ Detail Document",
+          "normalized_key": "BOQ Detail Document",
+          "raw_value": "View File",
+          "normalized_value": "View File"
+        },
+        "parent_id": "eca9c776-24d4-46dd-8006-c9ca04468932",
+        "children": [
+          {
+            "id": "162a4259-0338-4cdd-a839-4ebcd1b1986f",
+            "level": "L2",
+            "content": "View File",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 6,
+              "heading": "Table_15",
+              "row_key": "BOQ Detail Document",
+              "original_value": "View File"
+            },
+            "parent_id": "53722050-4a33-4ff5-b0e9-af99d3d301a3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3500ac1a-6adf-4aca-88a5-2cbe50199102",
+    "level": "L0",
+    "content": "Table_16",
+    "chunk_type": "table",
+    "metadata": {
+      "page": 6,
+      "heading": "Table_16"
+    },
+    "parent_id": null,
+    "children": [
+      {
+        "id": "1a205662-33d1-47fb-a327-61ac6526867e",
+        "level": "L1",
+        "content": ".. . ./S.N o.: पपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:63)(cid:63)टट(cid:100)(cid:100)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 6,
+          "heading": "Table_16",
+          "raw_key": "(cid:71)(cid:71)..ससं.ं./S.N\no.",
+          "normalized_key": ".. . ./S.N o.",
+          "raw_value": "पपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:63)(cid:63)टट(cid:100)(cid:100)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer",
+          "normalized_value": "पपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:63)(cid:63)टट(cid:100)(cid:100)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer"
+        },
+        "parent_id": "3500ac1a-6adf-4aca-88a5-2cbe50199102",
+        "children": [
+          {
+            "id": "810fd3ae-1e36-4d98-bf7e-aef6e2c34dcc",
+            "level": "L2",
+            "content": "पपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:63)(cid:63)टट(cid:100)(cid:100)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 6,
+              "heading": "Table_16",
+              "row_key": ".. . ./S.N o.",
+              "original_value": "पपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:63)(cid:63)टट(cid:100)(cid:100)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer"
+            },
+            "parent_id": "1a205662-33d1-47fb-a327-61ac6526867e",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "c7ec79f2-57f8-4c06-8d5a-81867357db0e",
+        "level": "L1",
+        "content": "1: Biplab Basak",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 6,
+          "heading": "Table_16",
+          "raw_key": "1",
+          "normalized_key": "1",
+          "raw_value": "Biplab Basak",
+          "normalized_value": "Biplab Basak"
+        },
+        "parent_id": "3500ac1a-6adf-4aca-88a5-2cbe50199102",
+        "children": [
+          {
+            "id": "3d0d094e-efd5-42ee-8710-c0eb6aa606b4",
+            "level": "L2",
+            "content": "Biplab Basak",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 6,
+              "heading": "Table_16",
+              "row_key": "1",
+              "original_value": "Biplab Basak"
+            },
+            "parent_id": "c7ec79f2-57f8-4c06-8d5a-81867357db0e",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7a34d733-4688-46d9-8c72-b59b3eea2b56",
+    "level": "L0",
+    "content": "Table_17",
+    "chunk_type": "table",
+    "metadata": {
+      "page": 6,
+      "heading": "Table_17"
+    },
+    "parent_id": null,
+    "children": [
+      {
+        "id": "1aaf3518-8144-4139-b6da-d14a9793e051",
+        "level": "L1",
+        "content": "Specification Document: View File",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 6,
+          "heading": "Table_17",
+          "raw_key": "Specification Document",
+          "normalized_key": "Specification Document",
+          "raw_value": "View File",
+          "normalized_value": "View File"
+        },
+        "parent_id": "7a34d733-4688-46d9-8c72-b59b3eea2b56",
+        "children": [
+          {
+            "id": "84b8a8a8-fb41-4538-bfcd-44ae4a1bc724",
+            "level": "L2",
+            "content": "View File",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 6,
+              "heading": "Table_17",
+              "row_key": "Specification Document",
+              "original_value": "View File"
+            },
+            "parent_id": "1aaf3518-8144-4139-b6da-d14a9793e051",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "fea3f2a9-d7c3-4acc-b48a-93b33f4757ed",
+        "level": "L1",
+        "content": "BOQ Detail Document: View File",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 6,
+          "heading": "Table_17",
+          "raw_key": "BOQ Detail Document",
+          "normalized_key": "BOQ Detail Document",
+          "raw_value": "View File",
+          "normalized_value": "View File"
+        },
+        "parent_id": "7a34d733-4688-46d9-8c72-b59b3eea2b56",
+        "children": [
+          {
+            "id": "06ce0eed-1e12-4fed-a7d8-f0076a6bd95e",
+            "level": "L2",
+            "content": "View File",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 6,
+              "heading": "Table_17",
+              "row_key": "BOQ Detail Document",
+              "original_value": "View File"
+            },
+            "parent_id": "fea3f2a9-d7c3-4acc-b48a-93b33f4757ed",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6c9d0cf7-3e01-4865-b3f6-ba1ca527c8c1",
+    "level": "L0",
+    "content": "Table_18",
+    "chunk_type": "table",
+    "metadata": {
+      "page": 7,
+      "heading": "Table_18"
+    },
+    "parent_id": null,
+    "children": [
+      {
+        "id": "3de3428b-d0a6-403f-9639-e9b12d8ae8ac",
+        "level": "L1",
+        "content": ".. . ./S.N o.: पपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:63)(cid:63)टट(cid:100)(cid:100)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 7,
+          "heading": "Table_18",
+          "raw_key": "(cid:71)(cid:71)..ससं.ं./S.N\no.",
+          "normalized_key": ".. . ./S.N o.",
+          "raw_value": "पपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:63)(cid:63)टट(cid:100)(cid:100)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer",
+          "normalized_value": "पपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:63)(cid:63)टट(cid:100)(cid:100)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer"
+        },
+        "parent_id": "6c9d0cf7-3e01-4865-b3f6-ba1ca527c8c1",
+        "children": [
+          {
+            "id": "d2f809a7-cfae-44cb-b44a-ee7b2dc15abb",
+            "level": "L2",
+            "content": "पपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:63)(cid:63)टट(cid:100)(cid:100)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 7,
+              "heading": "Table_18",
+              "row_key": ".. . ./S.N o.",
+              "original_value": "पपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:63)(cid:63)टट(cid:100)(cid:100)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer"
+            },
+            "parent_id": "3de3428b-d0a6-403f-9639-e9b12d8ae8ac",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "740b0caa-242e-4742-ac6d-ec0abcac033e",
+        "level": "L1",
+        "content": "1: Biplab Basak",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 7,
+          "heading": "Table_18",
+          "raw_key": "1",
+          "normalized_key": "1",
+          "raw_value": "Biplab Basak",
+          "normalized_value": "Biplab Basak"
+        },
+        "parent_id": "6c9d0cf7-3e01-4865-b3f6-ba1ca527c8c1",
+        "children": [
+          {
+            "id": "0dfa369f-2208-43cc-a9e2-e64bcbdca655",
+            "level": "L2",
+            "content": "Biplab Basak",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 7,
+              "heading": "Table_18",
+              "row_key": "1",
+              "original_value": "Biplab Basak"
+            },
+            "parent_id": "740b0caa-242e-4742-ac6d-ec0abcac033e",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cf5f576d-3c52-42b3-8701-d0471f93544a",
+    "level": "L0",
+    "content": "Table_19",
+    "chunk_type": "table",
+    "metadata": {
+      "page": 7,
+      "heading": "Table_19"
+    },
+    "parent_id": null,
+    "children": [
+      {
+        "id": "1c55d928-910e-4d09-9e25-652c0f2b6332",
+        "level": "L1",
+        "content": "Specification Document: View File",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 7,
+          "heading": "Table_19",
+          "raw_key": "Specification Document",
+          "normalized_key": "Specification Document",
+          "raw_value": "View File",
+          "normalized_value": "View File"
+        },
+        "parent_id": "cf5f576d-3c52-42b3-8701-d0471f93544a",
+        "children": [
+          {
+            "id": "24406a5a-2541-41e1-b53c-d7df99b96c2b",
+            "level": "L2",
+            "content": "View File",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 7,
+              "heading": "Table_19",
+              "row_key": "Specification Document",
+              "original_value": "View File"
+            },
+            "parent_id": "1c55d928-910e-4d09-9e25-652c0f2b6332",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "93e1dc18-f632-4b9b-bb6d-b5156c99e808",
+        "level": "L1",
+        "content": "BOQ Detail Document: View File",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 7,
+          "heading": "Table_19",
+          "raw_key": "BOQ Detail Document",
+          "normalized_key": "BOQ Detail Document",
+          "raw_value": "View File",
+          "normalized_value": "View File"
+        },
+        "parent_id": "cf5f576d-3c52-42b3-8701-d0471f93544a",
+        "children": [
+          {
+            "id": "1d6acd6c-7901-4d9e-b4bd-bb3df2c09dd4",
+            "level": "L2",
+            "content": "View File",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 7,
+              "heading": "Table_19",
+              "row_key": "BOQ Detail Document",
+              "original_value": "View File"
+            },
+            "parent_id": "93e1dc18-f632-4b9b-bb6d-b5156c99e808",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c6d2b75f-c86a-411d-8aea-90f8ff4f66c9",
+    "level": "L0",
+    "content": "Table_20",
+    "chunk_type": "table",
+    "metadata": {
+      "page": 7,
+      "heading": "Table_20"
+    },
+    "parent_id": null,
+    "children": [
+      {
+        "id": "4870315e-d249-4b9d-89ef-a72ef1512e11",
+        "level": "L1",
+        "content": ".. . ./S.N o.: पपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:63)(cid:63)टट(cid:100)(cid:100)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 7,
+          "heading": "Table_20",
+          "raw_key": "(cid:71)(cid:71)..ससं.ं./S.N\no.",
+          "normalized_key": ".. . ./S.N o.",
+          "raw_value": "पपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:63)(cid:63)टट(cid:100)(cid:100)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer",
+          "normalized_value": "पपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:63)(cid:63)टट(cid:100)(cid:100)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer"
+        },
+        "parent_id": "c6d2b75f-c86a-411d-8aea-90f8ff4f66c9",
+        "children": [
+          {
+            "id": "ea497d97-ef72-4278-b9eb-6e43bd791416",
+            "level": "L2",
+            "content": "पपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:63)(cid:63)टट(cid:100)(cid:100)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 7,
+              "heading": "Table_20",
+              "row_key": ".. . ./S.N o.",
+              "original_value": "पपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:63)(cid:63)टट(cid:100)(cid:100)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer"
+            },
+            "parent_id": "4870315e-d249-4b9d-89ef-a72ef1512e11",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "189b4624-848d-4425-b48a-62f6b8eaf98a",
+        "level": "L1",
+        "content": "1: Biplab Basak",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 7,
+          "heading": "Table_20",
+          "raw_key": "1",
+          "normalized_key": "1",
+          "raw_value": "Biplab Basak",
+          "normalized_value": "Biplab Basak"
+        },
+        "parent_id": "c6d2b75f-c86a-411d-8aea-90f8ff4f66c9",
+        "children": [
+          {
+            "id": "e7eea2ac-d49e-4e09-9b09-51ee42fe2d29",
+            "level": "L2",
+            "content": "Biplab Basak",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 7,
+              "heading": "Table_20",
+              "row_key": "1",
+              "original_value": "Biplab Basak"
+            },
+            "parent_id": "189b4624-848d-4425-b48a-62f6b8eaf98a",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

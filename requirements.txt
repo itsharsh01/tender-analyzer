@@ -1,0 +1,11 @@
+pymupdf
+spacy
+pillow
+pytesseract
+fastapi
+uvicorn
+pydantic-settings
+python-multipart
+pymongo[srv]
+scikit-learn
+pdfplumber

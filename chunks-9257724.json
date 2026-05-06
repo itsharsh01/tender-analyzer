@@ -1,0 +1,1491 @@
+[
+  {
+    "id": "05bfdc11-05d1-474e-8196-9f5a1c3be1b7",
+    "level": "L0",
+    "content": "Table_1",
+    "chunk_type": "table",
+    "metadata": {
+      "page": 1,
+      "heading": "Table_1"
+    },
+    "parent_id": null,
+    "children": [
+      {
+        "id": "0dbf0e87-ff1a-4cc7-b46f-bd94b9c7af4a",
+        "level": "L1",
+        "content": "Bid End Date/Time: 05-05-2026 10:00:00",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 1,
+          "heading": "Table_1",
+          "raw_key": "(cid:1)(cid:1)बबडड बबंदंद हहोोनने े कक(cid:16)(cid:16) तताारर(cid:19)(cid:19)खख//ससममयय /Bid End Date/Time",
+          "normalized_key": "Bid End Date/Time",
+          "raw_value": "05-05-2026 10:00:00",
+          "normalized_value": "05-05-2026 10:00:00"
+        },
+        "parent_id": "05bfdc11-05d1-474e-8196-9f5a1c3be1b7",
+        "children": [
+          {
+            "id": "b29ee83e-621d-4e60-bda9-3a00e953f238",
+            "level": "L2",
+            "content": "05-05-2026 10:00:00",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 1,
+              "heading": "Table_1",
+              "row_key": "Bid End Date/Time",
+              "original_value": "05-05-2026 10:00:00"
+            },
+            "parent_id": "0dbf0e87-ff1a-4cc7-b46f-bd94b9c7af4a",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "72526aee-41b3-4672-9d2c-a20573d07d3d",
+        "level": "L1",
+        "content": "Bid Opening Date/Time: 05-05-2026 10:30:00",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 1,
+          "heading": "Table_1",
+          "raw_key": "(cid:1)(cid:1)बबडड खखुलुलनने े कक(cid:16)(cid:16) तताारर(cid:19)(cid:19)खख//ससममयय /Bid Opening\nDate/Time",
+          "normalized_key": "Bid Opening Date/Time",
+          "raw_value": "05-05-2026 10:30:00",
+          "normalized_value": "05-05-2026 10:30:00"
+        },
+        "parent_id": "05bfdc11-05d1-474e-8196-9f5a1c3be1b7",
+        "children": [
+          {
+            "id": "dd85b7b7-8455-4e92-966a-76061db8fdde",
+            "level": "L2",
+            "content": "05-05-2026 10:30:00",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 1,
+              "heading": "Table_1",
+              "row_key": "Bid Opening Date/Time",
+              "original_value": "05-05-2026 10:30:00"
+            },
+            "parent_id": "72526aee-41b3-4672-9d2c-a20573d07d3d",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "05d381ba-1c96-48b6-8ce0-c1ec3c523858",
+        "level": "L1",
+        "content": "(( ) )/Bid Offer Validity (From End Date): 30 (Days)",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 1,
+          "heading": "Table_1",
+          "raw_key": "(cid:1)(cid:1)बबडड पपेशेशककशश ववैधैधतताा ((बबंदंद हहोोनने े कक(cid:16)(cid:16) तताारर(cid:19)(cid:19)खख ससे)े)/Bid Offer\nValidity (From End Date)",
+          "normalized_key": "(( ) )/Bid Offer Validity (From End Date)",
+          "raw_value": "30 (Days)",
+          "normalized_value": "30 (Days)"
+        },
+        "parent_id": "05bfdc11-05d1-474e-8196-9f5a1c3be1b7",
+        "children": [
+          {
+            "id": "a5f6e53d-2516-4723-9555-bb3d37208404",
+            "level": "L2",
+            "content": "30 (Days)",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 1,
+              "heading": "Table_1",
+              "row_key": "(( ) )/Bid Offer Validity (From End Date)",
+              "original_value": "30 (Days)"
+            },
+            "parent_id": "05d381ba-1c96-48b6-8ce0-c1ec3c523858",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "8a27ab35-5910-4f4a-8013-9881542ba3cc",
+        "level": "L1",
+        "content": "Ministry/State Name: Maharashtra",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 1,
+          "heading": "Table_1",
+          "raw_key": "ममं(cid:32)ं(cid:32)ााललयय//रराा(cid:33)(cid:33)यय ककाा ननाामम/Ministry/State Name",
+          "normalized_key": "Ministry/State Name",
+          "raw_value": "Maharashtra",
+          "normalized_value": "Maharashtra"
+        },
+        "parent_id": "05bfdc11-05d1-474e-8196-9f5a1c3be1b7",
+        "children": [
+          {
+            "id": "b4fb1802-794a-4409-a97c-a6278cc3cd05",
+            "level": "L2",
+            "content": "Maharashtra",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 1,
+              "heading": "Table_1",
+              "row_key": "Ministry/State Name",
+              "original_value": "Maharashtra"
+            },
+            "parent_id": "8a27ab35-5910-4f4a-8013-9881542ba3cc",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "0337310f-a6f0-4ede-a26f-fec7517e4856",
+        "level": "L1",
+        "content": "Department Name: Department Of Panchayati Raj",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 1,
+          "heading": "Table_1",
+          "raw_key": "(cid:1)(cid:1)ववभभाागग ककाा ननाामम/Department Name",
+          "normalized_key": "Department Name",
+          "raw_value": "Department Of Panchayati Raj",
+          "normalized_value": "Department Of Panchayati Raj"
+        },
+        "parent_id": "05bfdc11-05d1-474e-8196-9f5a1c3be1b7",
+        "children": [
+          {
+            "id": "c7f95e5b-630c-42db-9862-82b38a77de30",
+            "level": "L2",
+            "content": "Department Of Panchayati Raj",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 1,
+              "heading": "Table_1",
+              "row_key": "Department Name",
+              "original_value": "Department Of Panchayati Raj"
+            },
+            "parent_id": "0337310f-a6f0-4ede-a26f-fec7517e4856",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "2b450afa-6a9a-43eb-8ae4-3bf4d4fc0f72",
+        "level": "L1",
+        "content": "Organisation Name: Sangli District Panchayats",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 1,
+          "heading": "Table_1",
+          "raw_key": "ससंगंगठठनन ककाा ननाामम/Organisation Name",
+          "normalized_key": "Organisation Name",
+          "raw_value": "Sangli District Panchayats",
+          "normalized_value": "Sangli District Panchayats"
+        },
+        "parent_id": "05bfdc11-05d1-474e-8196-9f5a1c3be1b7",
+        "children": [
+          {
+            "id": "005d6c7d-4c03-4675-ae41-08d315d3250c",
+            "level": "L2",
+            "content": "Sangli District Panchayats",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 1,
+              "heading": "Table_1",
+              "row_key": "Organisation Name",
+              "original_value": "Sangli District Panchayats"
+            },
+            "parent_id": "2b450afa-6a9a-43eb-8ae4-3bf4d4fc0f72",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "2dab1b13-6937-4e4f-aa35-785a78b916a4",
+        "level": "L1",
+        "content": "Office Name: Gpdighanchiatpadi",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 1,
+          "heading": "Table_1",
+          "raw_key": "ककााययााल(cid:37)ल(cid:37) यय ककाा ननाामम/Office Name",
+          "normalized_key": "Office Name",
+          "raw_value": "Gpdighanchiatpadi",
+          "normalized_value": "Gpdighanchiatpadi"
+        },
+        "parent_id": "05bfdc11-05d1-474e-8196-9f5a1c3be1b7",
+        "children": [
+          {
+            "id": "7f181fd7-037e-42a9-8308-df95b2277c59",
+            "level": "L2",
+            "content": "Gpdighanchiatpadi",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 1,
+              "heading": "Table_1",
+              "row_key": "Office Name",
+              "original_value": "Gpdighanchiatpadi"
+            },
+            "parent_id": "2dab1b13-6937-4e4f-aa35-785a78b916a4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "a66f31e1-863c-4638-bd25-565193eae6b0",
+        "level": "L1",
+        "content": "Total Quantity: 1",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 1,
+          "heading": "Table_1",
+          "raw_key": "ककुुलल ममाा(cid:32)(cid:32)ाा/Total Quantity",
+          "normalized_key": "Total Quantity",
+          "raw_value": "1",
+          "normalized_value": "1"
+        },
+        "parent_id": "05bfdc11-05d1-474e-8196-9f5a1c3be1b7",
+        "children": [
+          {
+            "id": "dfe5bc7d-f2bb-4e9f-be81-27a628c4b32f",
+            "level": "L2",
+            "content": "1",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 1,
+              "heading": "Table_1",
+              "row_key": "Total Quantity",
+              "original_value": "1"
+            },
+            "parent_id": "a66f31e1-863c-4638-bd25-565193eae6b0",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "0e8e3222-ba32-4a7f-b5ab-9a6a439908c5",
+        "level": "L1",
+        "content": "Item Category: Solar Photovoltaic Water Pumping Systems (V2) as per\nMNRE Specification (Q3)",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 1,
+          "heading": "Table_1",
+          "raw_key": "वव(cid:38)(cid:38)ततु ु (cid:39)(cid:39)णेणे ीी /Item Category",
+          "normalized_key": "Item Category",
+          "raw_value": "Solar Photovoltaic Water Pumping Systems (V2) as per\nMNRE Specification (Q3)",
+          "normalized_value": "Solar Photovoltaic Water Pumping Systems (V2) as per\nMNRE Specification (Q3)"
+        },
+        "parent_id": "05bfdc11-05d1-474e-8196-9f5a1c3be1b7",
+        "children": [
+          {
+            "id": "ec66bd19-a7d3-4544-91ba-2de744b5fa3c",
+            "level": "L2",
+            "content": "Solar Photovoltaic Water Pumping Systems (V2) as per\nMNRE Specification (Q3)",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 1,
+              "heading": "Table_1",
+              "row_key": "Item Category",
+              "original_value": "Solar Photovoltaic Water Pumping Systems (V2) as per\nMNRE Specification (Q3)"
+            },
+            "parent_id": "0e8e3222-ba32-4a7f-b5ab-9a6a439908c5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "b444315a-9f85-4a78-90c4-2a5b324cca0f",
+        "level": "L1",
+        "content": "((33 )) /Minimum Average Annual Turnover of the bidder (For 3 Years): 1 Lakh (s)",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 1,
+          "heading": "Table_1",
+          "raw_key": "(cid:1)(cid:1)बबडडरर ककाा (cid:41)(cid:41)ययूनूनततमम औऔससतत ववाा(cid:1)(cid:1)षषक(cid:37)क(cid:37) टटननओ(cid:37)ओ(cid:37) ववरर ((33 ववषष(cid:48)(cid:48) ककाा))\n/Minimum Average Annual Turnover of the\nbidder (For 3 Years)",
+          "normalized_key": "((33 )) /Minimum Average Annual Turnover of the bidder (For 3 Years)",
+          "raw_value": "1 Lakh (s)",
+          "normalized_value": "1 Lakh (s)"
+        },
+        "parent_id": "05bfdc11-05d1-474e-8196-9f5a1c3be1b7",
+        "children": [
+          {
+            "id": "659c18a7-d106-4aef-a985-f2dac6a576f7",
+            "level": "L2",
+            "content": "1 Lakh (s)",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 1,
+              "heading": "Table_1",
+              "row_key": "((33 )) /Minimum Average Annual Turnover of the bidder (For 3 Years)",
+              "original_value": "1 Lakh (s)"
+            },
+            "parent_id": "b444315a-9f85-4a78-90c4-2a5b324cca0f",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "a906ef3f-c0c5-4902-a2ab-0cc924ebf4f3",
+        "level": "L1",
+        "content": "(( 33 ))/OEM Average Turnover (Last 3 Years): 2 Lakh (s)",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 1,
+          "heading": "Table_1",
+          "raw_key": "ममूलूल उउपपककररणण ििननममाात(cid:37)त(cid:37) ाा ककाा औऔससतत टटननओ(cid:37)ओ(cid:37) ववरर ((गगतत 33 ववषष(cid:48)(cid:48)\nककाा))/OEM Average Turnover (Last 3 Years)",
+          "normalized_key": "(( 33 ))/OEM Average Turnover (Last 3 Years)",
+          "raw_value": "2 Lakh (s)",
+          "normalized_value": "2 Lakh (s)"
+        },
+        "parent_id": "05bfdc11-05d1-474e-8196-9f5a1c3be1b7",
+        "children": [
+          {
+            "id": "496c7f39-9b06-4aef-8007-8a386207b626",
+            "level": "L2",
+            "content": "2 Lakh (s)",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 1,
+              "heading": "Table_1",
+              "row_key": "(( 33 ))/OEM Average Turnover (Last 3 Years)",
+              "original_value": "2 Lakh (s)"
+            },
+            "parent_id": "a906ef3f-c0c5-4902-a2ab-0cc924ebf4f3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "cb57e07e-8085-498c-bdb2-f9b80b66b092",
+        "level": "L1",
+        "content": "/ / Years of Past Experience Required for same/similar service: 3 Year (s)",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 1,
+          "heading": "Table_1",
+          "raw_key": "उउ(cid:41)(cid:41)हह(cid:19)(cid:19)ं/ं/ससममाानन ससेवेवाा ककेे ििललएए अअपपे(cid:53)े(cid:53)(cid:54)(cid:54)तत (cid:1)(cid:1)ववगगतत अअननुभुभवव ककेे\nववषष/(cid:37)(cid:37)Years of Past Experience Required for\nsame/similar service",
+          "normalized_key": "/ / Years of Past Experience Required for same/similar service",
+          "raw_value": "3 Year (s)",
+          "normalized_value": "3 Year (s)"
+        },
+        "parent_id": "05bfdc11-05d1-474e-8196-9f5a1c3be1b7",
+        "children": [
+          {
+            "id": "454dade7-7429-4a08-ba92-482c9af9e77b",
+            "level": "L2",
+            "content": "3 Year (s)",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 1,
+              "heading": "Table_1",
+              "row_key": "/ / Years of Past Experience Required for same/similar service",
+              "original_value": "3 Year (s)"
+            },
+            "parent_id": "cb57e07e-8085-498c-bdb2-f9b80b66b092",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "4097044f-2136-4a51-9c6b-ee1b22cfa646",
+        "level": "L1",
+        "content": "MSE Relaxation for Years of Experience and Turnover: No",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 1,
+          "heading": "Table_1",
+          "raw_key": "एएममएएससएएममईई ककेे ििललएए अअननुभुभवव ककेे ववषष(cid:48)(cid:48) औऔरर टटननओ(cid:37)ओ(cid:37) ववरर ससेे छछूूटट (cid:57)(cid:57)ददाानन\nकक(cid:16)(cid:16) गगईई हहैै/MSE Relaxation for Years of\nExperience and Turnover",
+          "normalized_key": "MSE Relaxation for Years of Experience and Turnover",
+          "raw_value": "No",
+          "normalized_value": "No"
+        },
+        "parent_id": "05bfdc11-05d1-474e-8196-9f5a1c3be1b7",
+        "children": [
+          {
+            "id": "a20e0bc4-58a8-4fc3-bab3-4947b4164c58",
+            "level": "L2",
+            "content": "No",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 1,
+              "heading": "Table_1",
+              "row_key": "MSE Relaxation for Years of Experience and Turnover",
+              "original_value": "No"
+            },
+            "parent_id": "4097044f-2136-4a51-9c6b-ee1b22cfa646",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "075ab851-7b4a-4458-b3df-75ebc51c3d2a",
+        "level": "L1",
+        "content": "Startup Relaxation for Years of Experience and Turnover: No",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 1,
+          "heading": "Table_1",
+          "raw_key": "(cid:38)(cid:38)टटााटट(cid:37)(cid:37)अअपप ककेे ििललएए अअननुभुभवव ककेे ववषष(cid:48)(cid:48) औऔरर टटननओ(cid:37)ओ(cid:37) ववरर ससेे छछूूटट (cid:57)(cid:57)ददाानन\nकक(cid:16)(cid:16) गगईई हहैै /Startup Relaxation for Years of\nExperience and Turnover",
+          "normalized_key": "Startup Relaxation for Years of Experience and Turnover",
+          "raw_value": "No",
+          "normalized_value": "No"
+        },
+        "parent_id": "05bfdc11-05d1-474e-8196-9f5a1c3be1b7",
+        "children": [
+          {
+            "id": "42e18040-09b7-4179-bde6-0494ad12d75b",
+            "level": "L2",
+            "content": "No",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 1,
+              "heading": "Table_1",
+              "row_key": "Startup Relaxation for Years of Experience and Turnover",
+              "original_value": "No"
+            },
+            "parent_id": "075ab851-7b4a-4458-b3df-75ebc51c3d2a",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "64485628-a12c-478a-9747-f6b2ef257ffd",
+        "level": "L1",
+        "content": "Document required from seller: Experience Criteria,Past Performance,Bidder\nTurnover,Certificate (Requested in ATC),OEM Authorization\nCertificate,OEM Annual Turnover\n*In case any bidder is seeking exemption from Experience /\nTurnover Criteria, the supporting documents to prove his\neligibility for exemption must be uploaded for evaluation by\nthe buyer",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 1,
+          "heading": "Table_1",
+          "raw_key": "(cid:1)(cid:1)वव(cid:58)(cid:58)ेेतताा ससे े ममाांगंगे े गगएए दद(cid:38)(cid:38)ततााववेज़ेज़/Document required\nfrom seller",
+          "normalized_key": "Document required from seller",
+          "raw_value": "Experience Criteria,Past Performance,Bidder\nTurnover,Certificate (Requested in ATC),OEM Authorization\nCertificate,OEM Annual Turnover\n*In case any bidder is seeking exemption from Experience /\nTurnover Criteria, the supporting documents to prove his\neligibility for exemption must be uploaded for evaluation by\nthe buyer",
+          "normalized_value": "Experience Criteria,Past Performance,Bidder\nTurnover,Certificate (Requested in ATC),OEM Authorization\nCertificate,OEM Annual Turnover\n*In case any bidder is seeking exemption from Experience /\nTurnover Criteria, the supporting documents to prove his\neligibility for exemption must be uploaded for evaluation by\nthe buyer"
+        },
+        "parent_id": "05bfdc11-05d1-474e-8196-9f5a1c3be1b7",
+        "children": [
+          {
+            "id": "71f2de64-1efb-44b2-b3e6-7ef061cfd448",
+            "level": "L2",
+            "content": "Experience Criteria,Past Performance,Bidder\nTurnover,Certificate (Requested in ATC),OEM Authorization\nCertificate,OEM Annual Turnover\n*In case any bidder is seeking exemption from Experience /\nTurnover Criteria, the supporting documents to prove his\neligibility for exemption must be uploaded for evaluation by\nthe buyer",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 1,
+              "heading": "Table_1",
+              "row_key": "Document required from seller",
+              "original_value": "Experience Criteria,Past Performance,Bidder\nTurnover,Certificate (Requested in ATC),OEM Authorization\nCertificate,OEM Annual Turnover\n*In case any bidder is seeking exemption from Experience /\nTurnover Criteria, the supporting documents to prove his\neligibility for exemption must be uploaded for evaluation by\nthe buyer"
+            },
+            "parent_id": "64485628-a12c-478a-9747-f6b2ef257ffd",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6e86b9bb-21ec-49d4-a5ff-136333653fdf",
+    "level": "L0",
+    "content": "Table_2",
+    "chunk_type": "table",
+    "metadata": {
+      "page": 2,
+      "heading": "Table_2"
+    },
+    "parent_id": null,
+    "children": [
+      {
+        "id": "88c8d392-7678-460d-a19f-646c1d76c7a7",
+        "level": "L1",
+        "content": "?? /Do you want to show documents uploaded by bidders to all bidders participated in bid?: Yes (Documents submitted as part of a clarification or\nrepresentation during the tender/bid process will also be\ndisplayed to other participated bidders after log in)",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 2,
+          "heading": "Table_2",
+          "raw_key": "(cid:69)(cid:69)ययाा आआपप ििनन(cid:1)(cid:1)ववददााककाारर(cid:71)(cid:71) (cid:72)(cid:72)ाारराा अअपपललोोडड (cid:61)(cid:61)ककएए गगएए दद(cid:38)(cid:38)ततााववेज़ेज़(cid:71)(cid:71) ककोो\nििनन(cid:1)(cid:1)ववददाा मम(cid:73) (cid:73) भभाागग ललेनेने े ववाालले े ससभभीी ििनन(cid:1)(cid:1)ववददााककाारर(cid:71)(cid:71) ककोो (cid:61)(cid:61)ददखखााननाा\nचचााहहतते े हह(cid:75)(cid:75)?? ससंदंदभभ (cid:37) (cid:37) ममेनेनू ू हहैै/Do you want to show\ndocuments uploaded by bidders to all\nbidders participated in bid?",
+          "normalized_key": "?? /Do you want to show documents uploaded by bidders to all bidders participated in bid?",
+          "raw_value": "Yes (Documents submitted as part of a clarification or\nrepresentation during the tender/bid process will also be\ndisplayed to other participated bidders after log in)",
+          "normalized_value": "Yes (Documents submitted as part of a clarification or\nrepresentation during the tender/bid process will also be\ndisplayed to other participated bidders after log in)"
+        },
+        "parent_id": "6e86b9bb-21ec-49d4-a5ff-136333653fdf",
+        "children": [
+          {
+            "id": "fed44c11-90e6-4ac8-a511-d12402668c87",
+            "level": "L2",
+            "content": "Yes (Documents submitted as part of a clarification or\nrepresentation during the tender/bid process will also be\ndisplayed to other participated bidders after log in)",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 2,
+              "heading": "Table_2",
+              "row_key": "?? /Do you want to show documents uploaded by bidders to all bidders participated in bid?",
+              "original_value": "Yes (Documents submitted as part of a clarification or\nrepresentation during the tender/bid process will also be\ndisplayed to other participated bidders after log in)"
+            },
+            "parent_id": "88c8d392-7678-460d-a19f-646c1d76c7a7",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "5f552b08-4afd-401c-b8f1-5e5f6187d478",
+        "level": "L1",
+        "content": "Minimum number of bids required to disable automatic bid extension: 3",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 2,
+          "heading": "Table_2",
+          "raw_key": "(cid:1)(cid:1)बबडड ललगगाानने े कक(cid:16)(cid:16) ससममयय ससीीममाा (cid:38)(cid:38)ववततःः ननहह(cid:19)(cid:19)ं ं बबढ़ढ़ाानने े ककेे ििललएए\nआआवव(cid:79)(cid:79)ययकक (cid:1)(cid:1)बबडड कक(cid:16)(cid:16) ससं(cid:60)ं(cid:60)ययाा।। / Minimum number of\nbids required to disable automatic bid\nextension",
+          "normalized_key": "Minimum number of bids required to disable automatic bid extension",
+          "raw_value": "3",
+          "normalized_value": "3"
+        },
+        "parent_id": "6e86b9bb-21ec-49d4-a5ff-136333653fdf",
+        "children": [
+          {
+            "id": "e30e3410-4718-4188-9d29-fbf3bfeb80fc",
+            "level": "L2",
+            "content": "3",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 2,
+              "heading": "Table_2",
+              "row_key": "Minimum number of bids required to disable automatic bid extension",
+              "original_value": "3"
+            },
+            "parent_id": "5f552b08-4afd-401c-b8f1-5e5f6187d478",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "36b98d26-a823-4af3-9ace-1fe0be7cbf59",
+        "level": "L1",
+        "content": "Number of days for which Bid would be auto--extended: 3",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 2,
+          "heading": "Table_2",
+          "raw_key": "(cid:61)(cid:61)ददनन(cid:71)(cid:71) कक(cid:16)(cid:16) ससं(cid:60)ं(cid:60)ययाा,, (cid:53)(cid:53)जजननककेे ििललएए (cid:1)(cid:1)बबडड ललगगाानने े कक(cid:16)(cid:16) ससममयय--ससीीममाा\nबबढ़ढ़ााईई जजााएएगगीी।। // Number of days for which Bid\nwould be auto--extended",
+          "normalized_key": "Number of days for which Bid would be auto--extended",
+          "raw_value": "3",
+          "normalized_value": "3"
+        },
+        "parent_id": "6e86b9bb-21ec-49d4-a5ff-136333653fdf",
+        "children": [
+          {
+            "id": "e9598d47-b8ab-4f96-89d1-87b8badcb0d8",
+            "level": "L2",
+            "content": "3",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 2,
+              "heading": "Table_2",
+              "row_key": "Number of days for which Bid would be auto--extended",
+              "original_value": "3"
+            },
+            "parent_id": "36b98d26-a823-4af3-9ace-1fe0be7cbf59",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "c410cd4b-dea7-47b0-af80-4e68535589d2",
+        "level": "L1",
+        "content": "Number of Auto Extension count: 3",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 2,
+          "heading": "Table_2",
+          "raw_key": "ऑऑटटोो एए(cid:69)(cid:69)ससटट(cid:73)(cid:73)शशनन अअििधधककततमम (cid:61)(cid:61)ककततननीी बबाारर (cid:61)(cid:61)ककययाा जजााननाा हहैै।। //\nNumber of Auto Extension count",
+          "normalized_key": "Number of Auto Extension count",
+          "raw_value": "3",
+          "normalized_value": "3"
+        },
+        "parent_id": "6e86b9bb-21ec-49d4-a5ff-136333653fdf",
+        "children": [
+          {
+            "id": "1356f705-40cf-410f-b302-3a4e47456f90",
+            "level": "L2",
+            "content": "3",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 2,
+              "heading": "Table_2",
+              "row_key": "Number of Auto Extension count",
+              "original_value": "3"
+            },
+            "parent_id": "c410cd4b-dea7-47b0-af80-4e68535589d2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "67b762e6-1053-4128-a9c0-8d6794fa32af",
+        "level": "L1",
+        "content": "Past Performance: 50 %",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 2,
+          "heading": "Table_2",
+          "raw_key": "(cid:1)(cid:1)ववगगतत (cid:57)(cid:57)ददशशन(cid:37)न(cid:37) /Past Performance",
+          "normalized_key": "Past Performance",
+          "raw_value": "50 %",
+          "normalized_value": "50 %"
+        },
+        "parent_id": "6e86b9bb-21ec-49d4-a5ff-136333653fdf",
+        "children": [
+          {
+            "id": "f27a4868-77b0-4983-bd55-d0fe4b70f01c",
+            "level": "L2",
+            "content": "50 %",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 2,
+              "heading": "Table_2",
+              "row_key": "Past Performance",
+              "original_value": "50 %"
+            },
+            "parent_id": "67b762e6-1053-4128-a9c0-8d6794fa32af",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "291dda98-9bf8-4b3e-8047-81eb12798e1e",
+        "level": "L1",
+        "content": "Bid to RA enabled: No",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 2,
+          "heading": "Table_2",
+          "raw_key": "(cid:1)(cid:1)बबडड ससे े (cid:84)(cid:84)ररववसस (cid:37) (cid:37) ननीीललााममीी सस(cid:61)(cid:61)(cid:58)(cid:58)यय (cid:61)(cid:61)ककययाा/Bid to RA enabled",
+          "normalized_key": "Bid to RA enabled",
+          "raw_value": "No",
+          "normalized_value": "No"
+        },
+        "parent_id": "6e86b9bb-21ec-49d4-a5ff-136333653fdf",
+        "children": [
+          {
+            "id": "23fdd4a2-a9dc-44bd-a6fb-9f4b2f468488",
+            "level": "L2",
+            "content": "No",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 2,
+              "heading": "Table_2",
+              "row_key": "Bid to RA enabled",
+              "original_value": "No"
+            },
+            "parent_id": "291dda98-9bf8-4b3e-8047-81eb12798e1e",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "1d870fad-5f5d-4e8f-8e3c-1cbc13b5c82c",
+        "level": "L1",
+        "content": "RCM Applicable: Yes",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 2,
+          "heading": "Table_2",
+          "raw_key": "ललाागगू ू आआररससीीएएमम/RCM Applicable",
+          "normalized_key": "RCM Applicable",
+          "raw_value": "Yes",
+          "normalized_value": "Yes"
+        },
+        "parent_id": "6e86b9bb-21ec-49d4-a5ff-136333653fdf",
+        "children": [
+          {
+            "id": "41784968-3084-4830-8a35-11c885843660",
+            "level": "L2",
+            "content": "Yes",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 2,
+              "heading": "Table_2",
+              "row_key": "RCM Applicable",
+              "original_value": "Yes"
+            },
+            "parent_id": "1d870fad-5f5d-4e8f-8e3c-1cbc13b5c82c",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "bbba95d8-3579-4c0e-bbb7-d4af7f0bbf0d",
+        "level": "L1",
+        "content": "Type of Bid: Two Packet Bid",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 2,
+          "heading": "Table_2",
+          "raw_key": "(cid:1)(cid:1)बबडड ककाा (cid:57)(cid:57)ककाारर/Type of Bid",
+          "normalized_key": "Type of Bid",
+          "raw_value": "Two Packet Bid",
+          "normalized_value": "Two Packet Bid"
+        },
+        "parent_id": "6e86b9bb-21ec-49d4-a5ff-136333653fdf",
+        "children": [
+          {
+            "id": "6155f8ed-084b-4709-8ac3-ae3f649151d0",
+            "level": "L2",
+            "content": "Two Packet Bid",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 2,
+              "heading": "Table_2",
+              "row_key": "Type of Bid",
+              "original_value": "Two Packet Bid"
+            },
+            "parent_id": "bbba95d8-3579-4c0e-bbb7-d4af7f0bbf0d",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "bbec912c-5d34-496c-82e6-f5e6b7aa4ab2",
+        "level": "L1",
+        "content": "Time allowed for Technical Clarifications during technical evaluation: 2 Days",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 2,
+          "heading": "Table_2",
+          "raw_key": "ततककननीीकक(cid:16)(cid:16) ममू(cid:85)ू(cid:85)ययाांकंकनन ककेे ददौौरराानन ततककननीीकक(cid:16)(cid:16) (cid:38)(cid:38)पप(cid:87)(cid:87)ीीककररणण हहेेततुु\nअअननुमुमतत ससममयय /Time allowed for Technical\nClarifications during technical evaluation",
+          "normalized_key": "Time allowed for Technical Clarifications during technical evaluation",
+          "raw_value": "2 Days",
+          "normalized_value": "2 Days"
+        },
+        "parent_id": "6e86b9bb-21ec-49d4-a5ff-136333653fdf",
+        "children": [
+          {
+            "id": "f6b937a2-80fd-4cf0-98f8-6efa1b2dd0b4",
+            "level": "L2",
+            "content": "2 Days",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 2,
+              "heading": "Table_2",
+              "row_key": "Time allowed for Technical Clarifications during technical evaluation",
+              "original_value": "2 Days"
+            },
+            "parent_id": "bbec912c-5d34-496c-82e6-f5e6b7aa4ab2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "2282525b-80f2-4162-9cc8-d58d0bed0b16",
+        "level": "L1",
+        "content": "Agencies pre-registered with GeM): No",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 2,
+          "heading": "Table_2",
+          "raw_key": "ििननरर(cid:19)(cid:19)(cid:54)(cid:54)णण आआवव(cid:79)(cid:79)ययकक (ससूचूचीीबब(cid:88)(cid:88) ििननरर(cid:19)(cid:19)(cid:54)(cid:54)णण (cid:57)(cid:57)ााििधधककररणण /जजेमेम ककेे ससााथथ\nपपूवूव(cid:37) (cid:37)पपंजंजीीककृृतत एएजज(cid:73)ि(cid:73)िससयय(cid:71)(cid:71) (cid:72)(cid:72)ाारराा)/Inspection Required (By\nEmpanelled Inspection Authority / Agencies\npre-registered with GeM)",
+          "normalized_key": "Agencies pre-registered with GeM)",
+          "raw_value": "No",
+          "normalized_value": "No"
+        },
+        "parent_id": "6e86b9bb-21ec-49d4-a5ff-136333653fdf",
+        "children": [
+          {
+            "id": "da8271ce-0754-4dd3-84ff-efba3a321540",
+            "level": "L2",
+            "content": "No",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 2,
+              "heading": "Table_2",
+              "row_key": "Agencies pre-registered with GeM)",
+              "original_value": "No"
+            },
+            "parent_id": "2282525b-80f2-4162-9cc8-d58d0bed0b16",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "d10e8738-859e-423c-8a39-7cf6dcbfac20",
+        "level": "L1",
+        "content": "Evaluation Method: Total value wise evaluation",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 2,
+          "heading": "Table_2",
+          "raw_key": "ममू(cid:85)ू(cid:85)ययाांकंकनन पप(cid:88)(cid:88)िितत/Evaluation Method",
+          "normalized_key": "Evaluation Method",
+          "raw_value": "Total value wise evaluation",
+          "normalized_value": "Total value wise evaluation"
+        },
+        "parent_id": "6e86b9bb-21ec-49d4-a5ff-136333653fdf",
+        "children": [
+          {
+            "id": "bbf31753-f670-4f1c-a8e2-3766cbd2eb3c",
+            "level": "L2",
+            "content": "Total value wise evaluation",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 2,
+              "heading": "Table_2",
+              "row_key": "Evaluation Method",
+              "original_value": "Total value wise evaluation"
+            },
+            "parent_id": "d10e8738-859e-423c-8a39-7cf6dcbfac20",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "b37b6545-ff7c-49c6-81b0-076061299722",
+        "level": "L1",
+        "content": "Arbitration Clause: No",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 2,
+          "heading": "Table_2",
+          "raw_key": "मम(cid:91)(cid:91)यय(cid:38)(cid:38)थथतताा खखंडंड/Arbitration Clause",
+          "normalized_key": "Arbitration Clause",
+          "raw_value": "No",
+          "normalized_value": "No"
+        },
+        "parent_id": "6e86b9bb-21ec-49d4-a5ff-136333653fdf",
+        "children": [
+          {
+            "id": "6e6c458b-9da6-4c7a-a75d-d476e4a7ed30",
+            "level": "L2",
+            "content": "No",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 2,
+              "heading": "Table_2",
+              "row_key": "Arbitration Clause",
+              "original_value": "No"
+            },
+            "parent_id": "b37b6545-ff7c-49c6-81b0-076061299722",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "03f92b71-f3cb-4a4f-a07a-a6b799431190",
+        "level": "L1",
+        "content": "Mediation Clause: No",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 2,
+          "heading": "Table_2",
+          "raw_key": "ससुलुलहह खखंडंड/Mediation Clause",
+          "normalized_key": "Mediation Clause",
+          "raw_value": "No",
+          "normalized_value": "No"
+        },
+        "parent_id": "6e86b9bb-21ec-49d4-a5ff-136333653fdf",
+        "children": [
+          {
+            "id": "8e57b32b-ecfa-4c2d-a42f-2ad29c1d73a3",
+            "level": "L2",
+            "content": "No",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 2,
+              "heading": "Table_2",
+              "row_key": "Mediation Clause",
+              "original_value": "No"
+            },
+            "parent_id": "03f92b71-f3cb-4a4f-a07a-a6b799431190",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bbc2cf5b-6842-41c3-a702-97e2d2e7df8b",
+    "level": "L0",
+    "content": "Table_3",
+    "chunk_type": "table",
+    "metadata": {
+      "page": 2,
+      "heading": "Table_3"
+    },
+    "parent_id": null,
+    "children": [
+      {
+        "id": "5576c822-8217-417b-9a3b-ab106cbf0b3f",
+        "level": "L1",
+        "content": "Required: No",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 2,
+          "heading": "Table_3",
+          "raw_key": "आव(cid:79)यकता/Required",
+          "normalized_key": "Required",
+          "raw_value": "No",
+          "normalized_value": "No"
+        },
+        "parent_id": "bbc2cf5b-6842-41c3-a702-97e2d2e7df8b",
+        "children": [
+          {
+            "id": "f46088f2-436d-423b-a56f-89ef7c8f53d5",
+            "level": "L2",
+            "content": "No",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 2,
+              "heading": "Table_3",
+              "row_key": "Required",
+              "original_value": "No"
+            },
+            "parent_id": "5576c822-8217-417b-9a3b-ab106cbf0b3f",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3447318c-464e-4aad-bbb2-c586bdebfc3a",
+    "level": "L0",
+    "content": "Table_4",
+    "chunk_type": "table",
+    "metadata": {
+      "page": 2,
+      "heading": "Table_4"
+    },
+    "parent_id": null,
+    "children": [
+      {
+        "id": "796668a5-2eea-4525-a95a-f52ff97e7887",
+        "level": "L1",
+        "content": "Required: No",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 2,
+          "heading": "Table_4",
+          "raw_key": "आव(cid:79)यकता/Required",
+          "normalized_key": "Required",
+          "raw_value": "No",
+          "normalized_value": "No"
+        },
+        "parent_id": "3447318c-464e-4aad-bbb2-c586bdebfc3a",
+        "children": [
+          {
+            "id": "5d3cca20-85ae-4e7d-be11-fafea8658e47",
+            "level": "L2",
+            "content": "No",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 2,
+              "heading": "Table_4",
+              "row_key": "Required",
+              "original_value": "No"
+            },
+            "parent_id": "796668a5-2eea-4525-a95a-f52ff97e7887",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5f055fae-bda5-4e75-8f15-91a0d63eae97",
+    "level": "L0",
+    "content": "Table_5",
+    "chunk_type": "table",
+    "metadata": {
+      "page": 3,
+      "heading": "Table_5"
+    },
+    "parent_id": null,
+    "children": [
+      {
+        "id": "c98682b3-e2bc-4cfe-abd5-95c5bd4abc65",
+        "level": "L1",
+        "content": "MSE Purchase Preference: No",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 3,
+          "heading": "Table_5",
+          "raw_key": "एमएसई खर(cid:19)द वर(cid:19)यता/MSE Purchase Preference",
+          "normalized_key": "MSE Purchase Preference",
+          "raw_value": "No",
+          "normalized_value": "No"
+        },
+        "parent_id": "5f055fae-bda5-4e75-8f15-91a0d63eae97",
+        "children": [
+          {
+            "id": "65b6387d-5962-4d4d-a4bf-1995a4c0014b",
+            "level": "L2",
+            "content": "No",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 3,
+              "heading": "Table_5",
+              "row_key": "MSE Purchase Preference",
+              "original_value": "No"
+            },
+            "parent_id": "c98682b3-e2bc-4cfe-abd5-95c5bd4abc65",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7803ff5e-4999-4d70-a2e3-7a49ec973a7c",
+    "level": "L0",
+    "content": "Table_6",
+    "chunk_type": "table",
+    "metadata": {
+      "page": 3,
+      "heading": "Table_6"
+    },
+    "parent_id": null,
+    "children": [
+      {
+        "id": "2ee5c391-5260-480c-a742-5712ecce8f1d",
+        "level": "L1",
+        "content": "MII Purchase Preference: No",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 3,
+          "heading": "Table_6",
+          "raw_key": "एमआईआई खर(cid:19)द वर(cid:19)यता/MII Purchase Preference",
+          "normalized_key": "MII Purchase Preference",
+          "raw_value": "No",
+          "normalized_value": "No"
+        },
+        "parent_id": "7803ff5e-4999-4d70-a2e3-7a49ec973a7c",
+        "children": [
+          {
+            "id": "0867da35-b34a-4745-b81e-f428ec13d352",
+            "level": "L2",
+            "content": "No",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 3,
+              "heading": "Table_6",
+              "row_key": "MII Purchase Preference",
+              "original_value": "No"
+            },
+            "parent_id": "2ee5c391-5260-480c-a742-5712ecce8f1d",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "9bec5b49-8c64-405c-b808-25977e1379d5",
+    "level": "L0",
+    "content": "Table_7",
+    "chunk_type": "table",
+    "metadata": {
+      "page": 4,
+      "heading": "Table_7"
+    },
+    "parent_id": null,
+    "children": [
+      {
+        "id": "5fd4d47c-4456-4aa7-8960-18aae111e538",
+        "level": "L1",
+        "content": "Specification: (cid:1)(cid:1)ववििशश(cid:1)(cid:1)(cid:87)(cid:87) ककाा ननाामम /Specification\nName",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 4,
+          "heading": "Table_7",
+          "raw_key": "(cid:1)(cid:1)ववववररणण/Specification",
+          "normalized_key": "Specification",
+          "raw_value": "(cid:1)(cid:1)ववििशश(cid:1)(cid:1)(cid:87)(cid:87) ककाा ननाामम /Specification\nName",
+          "normalized_value": "(cid:1)(cid:1)ववििशश(cid:1)(cid:1)(cid:87)(cid:87) ककाा ननाामम /Specification\nName"
+        },
+        "parent_id": "9bec5b49-8c64-405c-b808-25977e1379d5",
+        "children": [
+          {
+            "id": "36eb85eb-2708-4849-8855-9c7498b7fb5f",
+            "level": "L2",
+            "content": "(cid:1)(cid:1)ववििशश(cid:1)(cid:1)(cid:87)(cid:87) ककाा ननाामम /Specification\nName",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 4,
+              "heading": "Table_7",
+              "row_key": "Specification",
+              "original_value": "(cid:1)(cid:1)ववििशश(cid:1)(cid:1)(cid:87)(cid:87) ककाा ननाामम /Specification\nName"
+            },
+            "parent_id": "5fd4d47c-4456-4aa7-8960-18aae111e538",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "d4ad4dbd-e192-4527-88a9-361cd1f8bdf9",
+        "level": "L1",
+        "content": "Performance Parameter: Type of Solar Pumping\nSystem",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 4,
+          "heading": "Table_7",
+          "raw_key": "Performance\nParameter",
+          "normalized_key": "Performance Parameter",
+          "raw_value": "Type of Solar Pumping\nSystem",
+          "normalized_value": "Type of Solar Pumping\nSystem"
+        },
+        "parent_id": "9bec5b49-8c64-405c-b808-25977e1379d5",
+        "children": [
+          {
+            "id": "4e37c483-87aa-4ca1-9881-0267a6a4b931",
+            "level": "L2",
+            "content": "Type of Solar Pumping\nSystem",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 4,
+              "heading": "Table_7",
+              "row_key": "Performance Parameter",
+              "original_value": "Type of Solar Pumping\nSystem"
+            },
+            "parent_id": "d4ad4dbd-e192-4527-88a9-361cd1f8bdf9",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "90e67221-7b86-4a06-9df5-f7f95511b306",
+    "level": "L0",
+    "content": "Table_8",
+    "chunk_type": "table",
+    "metadata": {
+      "page": 5,
+      "heading": "Table_8"
+    },
+    "parent_id": null,
+    "children": [
+      {
+        "id": "28acfc42-9309-41d3-a246-7e9a3244b931",
+        "level": "L1",
+        "content": "Specification: (cid:1)(cid:1)ववििशश(cid:1)(cid:1)(cid:87)(cid:87) ककाा ननाामम /Specification\nName",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 5,
+          "heading": "Table_8",
+          "raw_key": "(cid:1)(cid:1)ववववररणण/Specification",
+          "normalized_key": "Specification",
+          "raw_value": "(cid:1)(cid:1)ववििशश(cid:1)(cid:1)(cid:87)(cid:87) ककाा ननाामम /Specification\nName",
+          "normalized_value": "(cid:1)(cid:1)ववििशश(cid:1)(cid:1)(cid:87)(cid:87) ककाा ननाामम /Specification\nName"
+        },
+        "parent_id": "90e67221-7b86-4a06-9df5-f7f95511b306",
+        "children": [
+          {
+            "id": "ed025f36-1cfb-4015-8684-3316f39c14d0",
+            "level": "L2",
+            "content": "(cid:1)(cid:1)ववििशश(cid:1)(cid:1)(cid:87)(cid:87) ककाा ननाामम /Specification\nName",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 5,
+              "heading": "Table_8",
+              "row_key": "Specification",
+              "original_value": "(cid:1)(cid:1)ववििशश(cid:1)(cid:1)(cid:87)(cid:87) ककाा ननाामम /Specification\nName"
+            },
+            "parent_id": "28acfc42-9309-41d3-a246-7e9a3244b931",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "37e7e02c-6f3f-409f-89df-51d40ead87a8",
+        "level": "L1",
+        "content": ": ",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 5,
+          "heading": "Table_8",
+          "raw_key": "",
+          "normalized_key": "",
+          "raw_value": "",
+          "normalized_value": ""
+        },
+        "parent_id": "90e67221-7b86-4a06-9df5-f7f95511b306",
+        "children": [
+          {
+            "id": "b94935cb-e39a-4dac-8006-c1e22f0d26a4",
+            "level": "L2",
+            "content": "",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 5,
+              "heading": "Table_8",
+              "row_key": "",
+              "original_value": ""
+            },
+            "parent_id": "37e7e02c-6f3f-409f-89df-51d40ead87a8",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1b5ea631-3ad7-41f7-8b7f-929100111639",
+    "level": "L0",
+    "content": "Table_9",
+    "chunk_type": "table",
+    "metadata": {
+      "page": 6,
+      "heading": "Table_9"
+    },
+    "parent_id": null,
+    "children": [
+      {
+        "id": "45cbd659-b044-4f82-992e-744cf60214cc",
+        "level": "L1",
+        "content": "Specification: (cid:1)(cid:1)ववििशश(cid:1)(cid:1)(cid:87)(cid:87) ककाा ननाामम /Specification\nName",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 6,
+          "heading": "Table_9",
+          "raw_key": "(cid:1)(cid:1)ववववररणण/Specification",
+          "normalized_key": "Specification",
+          "raw_value": "(cid:1)(cid:1)ववििशश(cid:1)(cid:1)(cid:87)(cid:87) ककाा ननाामम /Specification\nName",
+          "normalized_value": "(cid:1)(cid:1)ववििशश(cid:1)(cid:1)(cid:87)(cid:87) ककाा ननाामम /Specification\nName"
+        },
+        "parent_id": "1b5ea631-3ad7-41f7-8b7f-929100111639",
+        "children": [
+          {
+            "id": "7aad9058-3860-4791-b0b8-b7f28c36ecfb",
+            "level": "L2",
+            "content": "(cid:1)(cid:1)ववििशश(cid:1)(cid:1)(cid:87)(cid:87) ककाा ननाामम /Specification\nName",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 6,
+              "heading": "Table_9",
+              "row_key": "Specification",
+              "original_value": "(cid:1)(cid:1)ववििशश(cid:1)(cid:1)(cid:87)(cid:87) ककाा ननाामम /Specification\nName"
+            },
+            "parent_id": "45cbd659-b044-4f82-992e-744cf60214cc",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "6852b943-6857-4841-9989-78401df26d12",
+        "level": "L1",
+        "content": ": ",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 6,
+          "heading": "Table_9",
+          "raw_key": "",
+          "normalized_key": "",
+          "raw_value": "",
+          "normalized_value": ""
+        },
+        "parent_id": "1b5ea631-3ad7-41f7-8b7f-929100111639",
+        "children": [
+          {
+            "id": "ec0f1a68-945e-46e1-b7c8-25b64ee022ab",
+            "level": "L2",
+            "content": "",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 6,
+              "heading": "Table_9",
+              "row_key": "",
+              "original_value": ""
+            },
+            "parent_id": "6852b943-6857-4841-9989-78401df26d12",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "553fa6c4-8eff-45f8-8d6d-ccb3e72830c2",
+    "level": "L0",
+    "content": "Table_10",
+    "chunk_type": "table",
+    "metadata": {
+      "page": 6,
+      "heading": "Table_10"
+    },
+    "parent_id": null,
+    "children": [
+      {
+        "id": "79ef2395-cc7d-4712-8ac3-c14723dee518",
+        "level": "L1",
+        "content": "ITC on GST: जजीीएएससटट(cid:19)(cid:19) उउपपककरर\nककरर (cid:58)(cid:58)ेे(cid:61)(cid:61)डडटट /ITC\non GST Cess",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 6,
+          "heading": "Table_10",
+          "raw_key": "जजीीएएससटट(cid:19)(cid:19) पपरर\nइइननपपुटुट ककरर\n(cid:58)(cid:58)ेे(cid:61)(cid:61)डडटट /ITC on\nGST",
+          "normalized_key": "ITC on GST",
+          "raw_value": "जजीीएएससटट(cid:19)(cid:19) उउपपककरर\nककरर (cid:58)(cid:58)ेे(cid:61)(cid:61)डडटट /ITC\non GST Cess",
+          "normalized_value": "जजीीएएससटट(cid:19)(cid:19) उउपपककरर\nककरर (cid:58)(cid:58)ेे(cid:61)(cid:61)डडटट /ITC\non GST Cess"
+        },
+        "parent_id": "553fa6c4-8eff-45f8-8d6d-ccb3e72830c2",
+        "children": [
+          {
+            "id": "499974ee-7bdf-4d2e-bb1b-e4b9ab92b251",
+            "level": "L2",
+            "content": "जजीीएएससटट(cid:19)(cid:19) उउपपककरर\nककरर (cid:58)(cid:58)ेे(cid:61)(cid:61)डडटट /ITC\non GST Cess",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 6,
+              "heading": "Table_10",
+              "row_key": "ITC on GST",
+              "original_value": "जजीीएएससटट(cid:19)(cid:19) उउपपककरर\nककरर (cid:58)(cid:58)ेे(cid:61)(cid:61)डडटट /ITC\non GST Cess"
+            },
+            "parent_id": "79ef2395-cc7d-4712-8ac3-c14723dee518",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "f6109b8c-4444-4aa5-b13c-1af3cf74fa60",
+        "level": "L1",
+        "content": "NA: NA",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 6,
+          "heading": "Table_10",
+          "raw_key": "NA",
+          "normalized_key": "NA",
+          "raw_value": "NA",
+          "normalized_value": "NA"
+        },
+        "parent_id": "553fa6c4-8eff-45f8-8d6d-ccb3e72830c2",
+        "children": [
+          {
+            "id": "74000e0b-5d98-4a93-abd0-7210a05d48f4",
+            "level": "L2",
+            "content": "NA",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 6,
+              "heading": "Table_10",
+              "row_key": "NA",
+              "original_value": "NA"
+            },
+            "parent_id": "f6109b8c-4444-4aa5-b13c-1af3cf74fa60",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3e0df4cf-2041-4987-ad8b-4dc05532c05b",
+    "level": "L0",
+    "content": "Table_11",
+    "chunk_type": "table",
+    "metadata": {
+      "page": 6,
+      "heading": "Table_11"
+    },
+    "parent_id": null,
+    "children": [
+      {
+        "id": "edce1a10-f963-4f0f-a10d-ea9b8b7385f3",
+        "level": "L1",
+        "content": "Applicable Specification Document: View",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 6,
+          "heading": "Table_11",
+          "raw_key": "Applicable Specification\nDocument",
+          "normalized_key": "Applicable Specification Document",
+          "raw_value": "View",
+          "normalized_value": "View"
+        },
+        "parent_id": "3e0df4cf-2041-4987-ad8b-4dc05532c05b",
+        "children": [
+          {
+            "id": "0ef81edc-1b64-40c4-924b-c5e35fc8cc28",
+            "level": "L2",
+            "content": "View",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 6,
+              "heading": "Table_11",
+              "row_key": "Applicable Specification Document",
+              "original_value": "View"
+            },
+            "parent_id": "edce1a10-f963-4f0f-a10d-ea9b8b7385f3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ee67fbd9-5cbd-4a8d-8c3e-0b29e8aefed5",
+    "level": "L0",
+    "content": "Table_12",
+    "chunk_type": "table",
+    "metadata": {
+      "page": 6,
+      "heading": "Table_12"
+    },
+    "parent_id": null,
+    "children": [
+      {
+        "id": "572c1059-ae46-47c7-80ff-cbfd7487b892",
+        "level": "L1",
+        "content": ".. . ./S.N o.: पपररेे(cid:1)(cid:1)षषततीी//(cid:84)(cid:84)ररपपोो(cid:61)(cid:61)टट(cid:97)(cid:97)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 6,
+          "heading": "Table_12",
+          "raw_key": "(cid:58)(cid:58)..ससं.ं./S.N\no.",
+          "normalized_key": ".. . ./S.N o.",
+          "raw_value": "पपररेे(cid:1)(cid:1)षषततीी//(cid:84)(cid:84)ररपपोो(cid:61)(cid:61)टट(cid:97)(cid:97)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer",
+          "normalized_value": "पपररेे(cid:1)(cid:1)षषततीी//(cid:84)(cid:84)ररपपोो(cid:61)(cid:61)टट(cid:97)(cid:97)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer"
+        },
+        "parent_id": "ee67fbd9-5cbd-4a8d-8c3e-0b29e8aefed5",
+        "children": [
+          {
+            "id": "7c5f9cad-9db4-45e7-b05c-f203761a6d1e",
+            "level": "L2",
+            "content": "पपररेे(cid:1)(cid:1)षषततीी//(cid:84)(cid:84)ररपपोो(cid:61)(cid:61)टट(cid:97)(cid:97)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 6,
+              "heading": "Table_12",
+              "row_key": ".. . ./S.N o.",
+              "original_value": "पपररेे(cid:1)(cid:1)षषततीी//(cid:84)(cid:84)ररपपोो(cid:61)(cid:61)टट(cid:97)(cid:97)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer"
+            },
+            "parent_id": "572c1059-ae46-47c7-80ff-cbfd7487b892",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "cdf562e7-7a8b-43e3-af32-82916e3469f8",
+        "level": "L1",
+        "content": "1: Umesh Krishna\nNavale",
+        "chunk_type": "table_row",
+        "metadata": {
+          "page": 6,
+          "heading": "Table_12",
+          "raw_key": "1",
+          "normalized_key": "1",
+          "raw_value": "Umesh Krishna\nNavale",
+          "normalized_value": "Umesh Krishna\nNavale"
+        },
+        "parent_id": "ee67fbd9-5cbd-4a8d-8c3e-0b29e8aefed5",
+        "children": [
+          {
+            "id": "1c1d198d-7795-4ebb-8a28-d18e1aba5928",
+            "level": "L2",
+            "content": "Umesh Krishna\nNavale",
+            "chunk_type": "table_value",
+            "metadata": {
+              "page": 6,
+              "heading": "Table_12",
+              "row_key": "1",
+              "original_value": "Umesh Krishna\nNavale"
+            },
+            "parent_id": "cdf562e7-7a8b-43e3-af32-82916e3469f8",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

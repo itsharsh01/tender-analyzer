@@ -1,0 +1,2247 @@
+[
+  {
+    "level": "L0",
+    "text": "General",
+    "children": [
+      {
+        "level": "L1",
+        "text": "\u0001बड \u0001ववरण/Bid Details",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[General] \u0001बड \u0001ववरण/Bid Details",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "\u0001बड बंद होने क\u0010 तार\u0013ख/समय /Bid End Date/Time\n05-05-2026 10:00:00",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[General] \u0001बड बंद होने क\u0010 तार\u0013ख/समय /Bid",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[General] End Date/Time 05-05-2026 10:00:00",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "\u0001बड खुलने क\u0010 तार\u0013ख/समय /Bid Opening\nDate/Time",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[General] \u0001बड खुलने क\u0010 तार\u0013ख/समय /Bid Opening Date/Time",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "05-05-2026 10:30:00",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[General] 05-05-2026 10:30:00",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "\u0001बड पेशकश वैधता (बंद होने क\u0010 तार\u0013ख से)/Bid Offer\nValidity (From End Date)",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[General] \u0001बड पेशकश वैधता (बंद होने क\u0010 तार\u0013ख से)/Bid Offer Validity (From End Date)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "30 (Days)",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[General] 30 (Days)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "मं ालय/रा!य का नाम/Ministry/State Name\nMaharashtra",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[General] मं ालय/रा!य का नाम/Ministry/State Name Maharashtra",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "\u0001वभाग का नाम/Department Name\nDepartment Of Panchayati Raj",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[General] \u0001वभाग का नाम/Department Name Department Of Panchayati Raj",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "संगठन का नाम/Organisation Name\nSangli District Panchayats",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[General] संगठन का नाम/Organisation Name Sangli District Panchayats",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "काया%लय का नाम/Office Name\nGpdighanchiatpadi",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[General] काया%लय का नाम/Office Name Gpdighanchiatpadi",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "L0",
+    "text": "कुल मा ा/Total Quantity 1",
+    "children": [
+      {
+        "level": "L1",
+        "text": "व&तु 'ेणी /Item Category\nSolar Photovoltaic Water Pumping Systems (V2) as per\nMNRE Specification (Q3)",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[कुल मा ा/Total Quantity 1] व&तु 'ेणी /Item",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[कुल मा ा/Total Quantity 1] Category Solar Photovoltaic Water Pumping Systems (V2) as per MNRE Specification (Q3)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "\u0001बडर का )यूनतम औसत वा\u0001ष%क टन%ओवर (3 वष0 का)\n/Minimum Average Annual Turnover of the\nbidder (For 3 Years)",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[कुल मा ा/Total Quantity 1] \u0001बडर का )यूनतम औसत वा\u0001ष%क टन%ओवर (3 वष0 का) /Minimum",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[कुल मा ा/Total Quantity 1] Average Annual Turnover of the bidder (For 3 Years)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "1 Lakh (s)",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[कुल मा ा/Total Quantity 1] 1 Lakh (s)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "मूल उपकरण िनमा%ता का औसत टन%ओवर (गत 3 वष0",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[कुल मा ा/Total Quantity 1] मूल उपकरण िनमा%ता का औसत टन%ओवर (गत 3 वष0",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "L0",
+    "text": "का)/OEM Average Turnover (Last 3 Years)",
+    "children": [
+      {
+        "level": "L1",
+        "text": "2 Lakh (s)",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[का)/OEM Average Turnover (Last 3 Years)] 2 Lakh (s)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "उ)ह\u0013ं/समान सेवा के िलए अपे56त \u0001वगत अनुभव के",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[का)/OEM Average Turnover (Last 3 Years)] उ)ह\u0013ं/समान सेवा के िलए अपे56त \u0001वगत",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[का)/OEM Average Turnover (Last 3 Years)] अनुभव के",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "L0",
+    "text": "वष%/Years of Past Experience Required for same/similar service",
+    "children": [
+      {
+        "level": "L1",
+        "text": "3 Year (s)",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[वष%/Years of Past Experience Required for same/similar service] 3 Year (s)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "एमएसएमई के िलए अनुभव के वष0 और टन%ओवर से छूट 9दान\nक\u0010 गई है/MSE Relaxation for Years of\nExperience and Turnover",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[वष%/Years of Past Experience Required for same/similar service] एमएसएमई के िलए अनुभव के वष0 और टन%ओवर से छूट 9दान क\u0010 गई है/MSE Relaxation for Years of Experience and Turnover",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "No",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[वष%/Years of Past Experience Required for same/similar service] No",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "&टाट%अप के िलए अनुभव के वष0 और टन%ओवर से छूट 9दान\nक\u0010 गई है /Startup Relaxation for Years of\nExperience and Turnover",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[वष%/Years of Past Experience Required for same/similar service] &टाट%अप के िलए अनुभव के वष0 और टन%ओवर से छूट 9दान क\u0010 गई है",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[वष%/Years of Past Experience Required for same/similar service] /Startup",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[वष%/Years of Past Experience Required for same/similar service] Relaxation for Years of Experience and Turnover",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "No",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[वष%/Years of Past Experience Required for same/similar service] No",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "\u0001व:ेता से मांगे गए द&तावेज़/Document required\nfrom seller",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[वष%/Years of Past Experience Required for same/similar service] \u0001व:ेता से मांगे गए द&तावेज़/Document required from seller",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "Experience Criteria,Past Performance,Bidder\nTurnover,Certificate (Requested in ATC),OEM Authorization\nCertificate,OEM Annual Turnover\n*In case any bidder is seeking exemption from Experience /\nTurnover Criteria, the supporting documents to prove his\neligibility for exemption must be uploaded for evaluation by\nthe buyer",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[वष%/Years of Past Experience Required for same/similar service] Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover * In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "\u0001बड सं<या/Bid Number: GEM/2026/B/7475677",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[वष%/Years of Past Experience Required for same/similar service] \u0001बड सं<या/Bid Number: GEM/2026/B/7475677",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "=दनांक /Dated: 25-04-2026",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[वष%/Years of Past Experience Required for same/similar service] =दनांक /Dated: 25-04-2026",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "\u0001बड द&तावेज़ / Bid Document",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[वष%/Years of Past Experience Required for same/similar service] \u0001बड द&तावेज़ / Bid Document",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "1 / 8",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[वष%/Years of Past Experience Required for same/similar service] 1 / 8",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "Eया आप िन\u0001वदाकारG Hारा अपलोड =कए गए द&तावेज़G को",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[वष%/Years of Past Experience Required for same/similar service] Eया आप िन\u0001वदाकारG Hारा अपलोड =कए गए द&तावेज़G को",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "िन\u0001वदा मI भाग लेने वाले सभी िन\u0001वदाकारG को =दखाना",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[वष%/Years of Past Experience Required for same/similar service] िन\u0001वदा मI भाग लेने वाले सभी िन\u0001वदाकारG को =दखाना",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "L0",
+    "text": "चाहते हK? संदभ% मेनू है/Do you want to show documents uploaded by bidders to all bidders participated in bid?",
+    "children": [
+      {
+        "level": "L1",
+        "text": "Yes (Documents submitted as part of a clarification or\nrepresentation during the tender/bid process will also be\ndisplayed to other participated bidders after log in)",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[चाहते हK? संदभ% मेनू है/Do you want to show documents uploaded by bidders to all bidders participated in bid?] Yes (Documents submitted as part of a clarification or representation during the tender/bid process will also be displayed to other participated bidders after log in)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "\u0001बड लगाने क\u0010 समय सीमा &वतः नह\u0013ं बढ़ाने के िलए",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[चाहते हK? संदभ% मेनू है/Do you want to show documents uploaded by bidders to all bidders participated in bid?] \u0001बड लगाने क\u0010 समय सीमा &वतः नह\u0013ं बढ़ाने के िलए",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "L0",
+    "text": "आवOयक \u0001बड क\u0010 सं<या। / Minimum number of bids required to disable automatic bid extension",
+    "children": [
+      {
+        "level": "L1",
+        "text": "3",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[आवOयक \u0001बड क\u0010 सं<या। / Minimum number of bids required to disable automatic bid extension] 3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "=दनG क\u0010 सं<या, 5जनके िलए \u0001बड लगाने क\u0010 समय-सीमा",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[आवOयक \u0001बड क\u0010 सं<या। / Minimum number of bids required to disable automatic bid extension] =दनG क\u0010 सं<या, 5जनके िलए \u0001बड लगाने क\u0010 समय-सीमा",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "L0",
+    "text": "बढ़ाई जाएगी। / Number of days for which Bid",
+    "children": []
+  },
+  {
+    "level": "L0",
+    "text": "would be auto-extended",
+    "children": [
+      {
+        "level": "L1",
+        "text": "3",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[would be auto-extended] 3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "ऑटो एEसटIशन अिधकतम =कतनी बार =कया जाना है। /",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[would be auto-extended] ऑटो एEसटIशन अिधकतम =कतनी बार",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[would be auto-extended] =कया जाना है। /",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "L0",
+    "text": "Number of Auto Extension count",
+    "children": [
+      {
+        "level": "L1",
+        "text": "3",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[Number of Auto Extension count] 3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "\u0001वगत 9दश%न /Past Performance\n50 %",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[Number of Auto Extension count] \u0001वगत 9दश%न /Past",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[Number of Auto Extension count] Performance 50 %",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "\u0001बड से Tरवस% नीलामी स=:य =कया/Bid to RA enabled\nNo",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[Number of Auto Extension count] \u0001बड से Tरवस% नीलामी स=:य =कया/Bid to RA enabled No",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "लागू आरसीएम/RCM Applicable\nYes",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[Number of Auto Extension count] लागू आरसीएम/RCM Applicable",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[Number of Auto Extension count] Yes",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "\u0001बड का 9कार/Type of Bid\nTwo Packet Bid",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[Number of Auto Extension count] \u0001बड का 9कार/Type of Bid Two Packet Bid",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "तकनीक\u0010 मूUयांकन के दौरान तकनीक\u0010 &पWीकरण हेतु",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[Number of Auto Extension count] तकनीक\u0010 मूUयांकन के दौरान तकनीक\u0010 &पWीकरण हेतु",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "L0",
+    "text": "अनुमत समय /Time allowed for Technical Clarifications during technical evaluation",
+    "children": [
+      {
+        "level": "L1",
+        "text": "2 Days",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[अनुमत समय /Time allowed for Technical Clarifications during technical evaluation] 2 Days",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "िनर\u00136ण आवOयक (सूचीबX िनर\u00136ण 9ािधकरण /जेम के साथ\nपूव% पंजीकृत एजIिसयG Hारा)/Inspection Required (By\nEmpanelled Inspection Authority / Agencies\npre-registered with GeM)",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[अनुमत समय /Time allowed for Technical Clarifications during technical evaluation] िनर\u00136ण आवOयक (सूचीबX िनर\u00136ण 9ािधकरण /जेम",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[अनुमत समय /Time allowed for Technical Clarifications during technical evaluation] के साथ पूव% पंजीकृत एजIिसयG Hारा)/Inspection Required (By Empanelled Inspection Authority / Agencies pre-registered with GeM)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "No",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[अनुमत समय /Time allowed for Technical Clarifications during technical evaluation] No",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "मूUयांकन पXित/Evaluation Method\nTotal value wise evaluation",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[अनुमत समय /Time allowed for Technical Clarifications during technical evaluation] मूUयांकन पXित/Evaluation Method Total value wise evaluation",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "L0",
+    "text": "म[य&थता खंड/Arbitration Clause No",
+    "children": []
+  },
+  {
+    "level": "L0",
+    "text": "सुलह खंड/Mediation Clause No",
+    "children": [
+      {
+        "level": "L1",
+        "text": "\u0001बड \u0001ववरण/Bid Details",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[सुलह खंड/Mediation Clause No] \u0001बड \u0001ववरण/Bid Details",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "ईएमड\u0013 \u0001ववरण/EMD Detail",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[सुलह खंड/Mediation Clause No] ईएमड\u0013 \u0001ववरण/EMD Detail",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "आवOयकता/Required\nNo",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[सुलह खंड/Mediation Clause No] आवOयकता/Required No",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "ईपीबीजी \u0001ववरण /ePBG Detail",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[सुलह खंड/Mediation Clause No] ईपीबीजी \u0001ववरण /ePBG Detail",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "आवOयकता/Required\nNo",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[सुलह खंड/Mediation Clause No] आवOयकता/Required No",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "बोली \u0001वभाजन लागू नह\u0013ं =कया गया/ Bid splitting not applied.",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[सुलह खंड/Mediation Clause No] बोली \u0001वभाजन लागू नह\u0013ं",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[सुलह खंड/Mediation Clause No] =कया गया/",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[सुलह खंड/Mediation Clause No] Bid splitting not applied.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "एमएसई खर\u0013द वर\u0013यता/MSE Purchase Preference",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[सुलह खंड/Mediation Clause No] एमएसई खर\u0013द वर\u0013यता/MSE Purchase Preference",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "2 / 8",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[सुलह खंड/Mediation Clause No] 2 / 8",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "एमएसई खर\u0013द वर\u0013यता/MSE Purchase Preference\nNo",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[सुलह खंड/Mediation Clause No] एमएसई खर\u0013द वर\u0013यता/MSE Purchase Preference",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[सुलह खंड/Mediation Clause No] No",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "एमआईआई खर\u0013द वर\u0013यता/MII Purchase Preference",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[सुलह खंड/Mediation Clause No] एमआईआई खर\u0013द वर\u0013यता/MII Purchase Preference",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "एमआईआई खर\u0013द वर\u0013यता/MII Purchase Preference\nNo",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[सुलह खंड/Mediation Clause No] एमआईआई खर\u0013द वर\u0013यता/MII Purchase Preference",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[सुलह खंड/Mediation Clause No] No",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "1. The minimum average annual financial turnover of the bidder during the last three years, ending on 31st\nMarch of the previous financial year, should be as indicated above in the bid document. Documentary evidence in\nthe form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant /\nCost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the\ndate of constitution / incorporation of the bidder is less than 3-year-old, the average turnover in respect of the\ncompleted financial years after the date of constitution shall be taken into account for this criteria. \n2. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM of the product\noffered in the bid {themselves or through reseller(s)} should have regularly, manufactured and supplied same or\nsimilar Category Products to any Central / State Govt Organization / PSU for number of Financial years as\nindicated above in the bid document before the bid opening date. Copies of relevant contracts and delivery\nacceptance certificates like CRAC to be submitted along with bid in support of having supplied some quantity\nduring each of the Financial year. In case of bunch bids, the category of primary product having highest value\nshould meet this criterion. \n3. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product\nduring the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid\ndocument. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a\ncertificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period\nshall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old,\nthe average turnover in respect of the completed financial years after the date of constitution shall be taken into\naccount for this criteria. \n4. Estimated Bid Value indicated above is being declared solely for the purpose of guidance on EMD amount and\nfor determining the Eligibility Criteria related to Turn Over, Past Performance and Project / Past Experience etc.\nThis has no relevance or bearing on the price to be quoted by the bidders and is also not going to have any\nimpact on bid participation. Also this is not going to be used as a criteria in determining reasonableness of\nquoted prices which would be determined by the buyer based on its own assessment of reasonableness and\nbased on competitive prices received in Bid / RA process. \n5. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have supplied same or\nsimilar Category Products for 50% of bid quantity, in at least one of the last three Financial years before the bid\nopening date to any Central / State Govt Organization / PSU. Copies of relevant contracts (proving supply of\ncumulative order quantity in any one financial year) to be submitted along with bid in support of quantity\nsupplied in the relevant Financial year. In case of bunch bids, the category related to primary product having\nhighest bid value should meet this criterion.",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[सुलह खंड/Mediation Clause No] 1.",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[सुलह खंड/Mediation Clause No] The minimum average annual financial turnover of the bidder during the last three years, ending on 31st March of the previous financial year, should be as indicated above in the bid document.",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[सुलह खंड/Mediation Clause No] Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3-year-old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria.",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[सुलह खंड/Mediation Clause No] 2. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM of the product offered in the bid {themselves or through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central / State Govt Organization / PSU for number of Financial years as indicated above in the bid document before the bid opening date.",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[सुलह खंड/Mediation Clause No] Copies of relevant contracts and delivery acceptance certificates like CRAC to be submitted along with bid in support of having supplied some quantity during each of the Financial year. In case of bunch bids, the category of primary product having highest value should meet this criterion.",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[सुलह खंड/Mediation Clause No] 3. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document.",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[सुलह खंड/Mediation Clause No] Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria.",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[सुलह खंड/Mediation Clause No] 4. Estimated Bid Value indicated above is being declared solely for the purpose of guidance on EMD amount and for determining the Eligibility Criteria related to Turn Over, Past Performance and Project / Past Experience etc.",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[सुलह खंड/Mediation Clause No] This has no relevance or bearing on the price to be quoted by the bidders and is also not going to have any impact on bid participation. Also this is not going to be used as a criteria in determining reasonableness of quoted prices which would be determined by the buyer based on its own assessment of reasonableness and based on competitive prices received in Bid / RA process.",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[सुलह खंड/Mediation Clause No] 5.",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[सुलह खंड/Mediation Clause No] Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have supplied same or similar Category Products for 50% of bid quantity, in at least one of the last three Financial years before the bid opening date to any Central / State Govt Organization / PSU.",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[सुलह खंड/Mediation Clause No] Copies of relevant contracts (proving supply of cumulative order quantity in any one financial year) to be submitted along with bid in support of quantity supplied in the relevant Financial year. In case of bunch bids, the category related to primary product having highest bid value should meet this criterion.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "जीएसट\u0013 क\u0010 धारा 9(3)।/Section 9(3) Of GST",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[सुलह खंड/Mediation Clause No] जीएसट\u0013 क\u0010 धारा 9(3)।/Section 9(3)",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[सुलह खंड/Mediation Clause No] Of GST",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "Where ever RCM is applicable, sellers (Regular GST registered seller who opted out of FCM , unregistered seller,\nseller registered under composition scheme)will be forced to put Zero GST and GST cess in their bids. Buyer will\nhave liability of paying the GST and GST cess to the government on the specified rate mentioned by them in this\nBid.",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[सुलह खंड/Mediation Clause No] Where ever RCM is applicable, sellers (Regular GST registered seller who opted out of FCM , unregistered seller, seller registered under composition scheme)will be forced to put Zero GST and GST cess in their bids.",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[सुलह खंड/Mediation Clause No] Buyer will have liability of paying the GST and GST cess to the government on the specified rate mentioned by them in this Bid.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "जीएसट\u0013 क\u0010 धारा 9(3)। / Section 9(3) Of GST",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[सुलह खंड/Mediation Clause No] जीएसट\u0013 क\u0010 धारा 9(3)। /",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[सुलह खंड/Mediation Clause No] Section 9(3)",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[सुलह खंड/Mediation Clause No] Of GST",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "Where ever RCM is applicable, sellers (Regular GST registered seller who opted out of FCM , unregistered seller,\nseller registered under composition scheme)will be forced to put Zero GST and GST cess in their bids. Buyer will\nhave liability of paying the GST and GST cess to the government on the specified rate mentioned by them in this\nBid.",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[सुलह खंड/Mediation Clause No] Where ever RCM is applicable, sellers (Regular GST registered seller who opted out of FCM , unregistered seller, seller registered under composition scheme)will be forced to put Zero GST and GST cess in their bids.",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[सुलह खंड/Mediation Clause No] Buyer will have liability of paying the GST and GST cess to the government on the specified rate mentioned by them in this Bid.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "If the buyer has mentioned MSE purchase preference in ATC then service provider is required to upload\nnecessary documents for MSE purchase preference for verification by the buyer during evaluation.",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[सुलह खंड/Mediation Clause No] If the buyer has mentioned MSE purchase preference in ATC then service provider is required to upload necessary documents for MSE purchase preference for verification by the buyer during evaluation.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "3 / 8",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[सुलह खंड/Mediation Clause No] 3 / 8",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "L0",
+    "text": "Solar Photovoltaic Water Pumping Systems (V2) As Per MNRE Specification ( 1 pieces )",
+    "children": []
+  },
+  {
+    "level": "L0",
+    "text": "तकनीक\u0010 \u0001विश\u0001Wयाँ /Technical Specifications",
+    "children": [
+      {
+        "level": "L1",
+        "text": "* जेम केटेगर\u0013 \u0001विश\u0001W के अनुसार / As per GeM Category Speciﬁcation",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[तकनीक\u0010 \u0001विश\u0001Wयाँ /Technical Specifications] *",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[तकनीक\u0010 \u0001विश\u0001Wयाँ /Technical Specifications] जेम केटेगर\u0013 \u0001विश\u0001W के अनुसार /",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[तकनीक\u0010 \u0001विश\u0001Wयाँ /Technical Specifications] As per GeM Category Speciﬁcation",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "\u0001ववरण/Speciﬁcation\n\u0001विश\u0001W का नाम /Specification",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[तकनीक\u0010 \u0001विश\u0001Wयाँ /Technical Specifications] \u0001ववरण/Speciﬁcation \u0001विश\u0001W का नाम /Specification",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "Name",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[तकनीक\u0010 \u0001विश\u0001Wयाँ /Technical Specifications] Name",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "\u0001बड के िलए आवOयक अनुमत मूUय /Bid Requirement",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[तकनीक\u0010 \u0001विश\u0001Wयाँ /Technical Specifications] \u0001बड के िलए आवOयक अनुमत मूUय /Bid",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[तकनीक\u0010 \u0001विश\u0001Wयाँ /Technical Specifications] Requirement",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "L0",
+    "text": "(Allowed Values)",
+    "children": [
+      {
+        "level": "L1",
+        "text": "Performance\nParameter",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[(Allowed Values)] Performance Parameter",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "L0",
+    "text": "Type of Solar Pumping System",
+    "children": [
+      {
+        "level": "L1",
+        "text": "Shallow Well (Surface) Solar Pumping Systems with\nD.C. Motor /PMSM/SRM, Shallow Well (Surface) Solar\nPumping Systems with A.C. Induction Motor, Solar\nDeep Well (Submersible) Pumping Systems with D.C.\nMotor /PMSM/SRM, Solar Deep Well (Submersible)\nPumping Systems with A.C. Induction Motor",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[Type of Solar Pumping System] Shallow Well (Surface) Solar Pumping Systems with D.C. Motor /PMSM/SRM, Shallow Well (Surface) Solar Pumping Systems with A.C. Induction Motor,",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[Type of Solar Pumping System] Solar Deep Well (Submersible) Pumping Systems with D.C. Motor /PMSM/SRM, Solar Deep Well (Submersible) Pumping Systems with A.C. Induction Motor",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "L0",
+    "text": "Model Number of SPV Water Pumping System",
+    "children": [
+      {
+        "level": "L1",
+        "text": "Model-1, Model-2, Model-3, Model-4, Model-5, Model-6,\nModel-7, Model-8, Model-9, Model-10, Model-11,\nModel-12, Model-13, Model-14, Model-15, Model-16,\nModel-17, Model-18, Model-19, Model-20, Model-21,\nModel-22, Model-23, Model-24, Model-25, Model-26,\nModel-27, Model-28, Model-29, Model-30, Model-31,\nModel-32, Model-33, Model-34, Model-35, Model-36,\nModel-37, Model-38, Model-39",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[Model Number of SPV Water Pumping System] Model-1, Model-2, Model-3, Model-4, Model-5, Model-6, Model-7, Model-8, Model-9, Model-10, Model-11, Model-12, Model-13, Model-14, Model-15, Model-16, Model-17, Model-18, Model-19, Model-20, Model-21, Model-22, Model-23, Model-24, Model-25, Model-26, Model-27, Model-28, Model-29, Model-30, Model-31, Model-32, Model-33, Model-34, Model-35, Model-36, Model-37, Model-38, Model-39",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "L0",
+    "text": "Power of Solar Photovoltaic (PV) Array [in Watt- peak(Wp)]",
+    "children": [
+      {
+        "level": "L1",
+        "text": "900, 1800, 2700, 4800, 6750, 9000, 11250, 18000,\n20250, 22500, 13500, 15750, 1200, 3000",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[Power of Solar Photovoltaic (PV) Array [in Watt- peak(Wp)]] 900, 1800, 2700, 4800, 6750, 9000, 11250, 18000, 20250, 22500, 13500, 15750, 1200, 3000",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "L0",
+    "text": "Motor Pump-Set Capacity (in HP)",
+    "children": [
+      {
+        "level": "L1",
+        "text": "1, 2, 3, 5, 7.5, 10, 12.5, 20, 22.5, 25, 15, 17.5",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[Motor Pump-Set Capacity (in HP)] 1, 2, 3, 5, 7.5, 10, 12.5, 20, 22.5, 25, 15, 17.5",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "L0",
+    "text": "Shut Off Dynamic Head (in meters)",
+    "children": [
+      {
+        "level": "L1",
+        "text": "12, 25, 45, 100, 150, 70, 180, 225, 300, 375",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[Shut Off Dynamic Head (in meters)] 12, 25, 45, 100, 150, 70, 180, 225, 300, 375",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "L0",
+    "text": "Water Output (in Liters per day)",
+    "children": [
+      {
+        "level": "L1",
+        "text": "42000 (from a total head of 30 meters), 42000 (from\na total head of 70 meters), 43200 (from a total head\nof 100 meters), 45000 (from a total head of 70\nmeters), 45600 (from a total head of 30 meters),\n50400 (from a total head of 100 meters), 60750 (from\na total head of 100 meters), 63000 (from a total head\nof 30 meters), 63000 (from a total head of 50\nmeters), 67200 (from a total head of 70 meters),\n68400 (from a total head of 30 meters), 69000 (from\na total head of 50 meters), 70875 (from a total head\nof 100 meters), 72000 (from a total head of 70\nmeters), 75375 (from a total head of 150 meters),\n81000 (from a total head of 100 meters), 81000 (from\na total head of 250 meters), 84375 (from a total head\nof 150 meters), 89100 (from a total head of 10\nmeters), 90000 (from a total head of 200 meters),\n90000 (from a total head of 250 meters), 90450 (from\na total head of 150 meters), 91125 (from a total head\nof 250 meters), 94500 (from a total head of 70\nmeters), 94500 (from a total head of 100 meters),\n95625 (from a total head of 120 meters), 99000 (from\na total head of 10 meters), 99000 (from a total head\nof 200 meters), 100800 (from a total head of 50\nmeters), 105000 (from a total head of 30 meters),\n101250 (from a total head of 70 meters), 101250\n(from a total head of 100 meters), 101250 (from a\ntotal head of 150 meters), 101250 (from a total head\nof 200 meters), 101250 (from a total head of 250",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[Water Output (in Liters per day)] 42000 (from a total head of 30 meters), 42000 (from a total head of 70 meters), 43200 (from a total head of 100 meters), 45000 (from a total head of 70 meters), 45600 (from a total head of 30 meters), 50400 (from a total head of 100 meters), 60750 (from a total head of 100 meters), 63000 (from a total head of 30 meters), 63000 (from a total head of 50 meters), 67200 (from a total head of 70 meters), 68400 (from a total head of 30 meters), 69000 (from a total head of 50 meters), 70875 (from a total head of 100 meters), 72000 (from a total head of 70 meters), 75375 (from a total head of 150 meters), 81000 (from a total head of 100 meters), 81000 (from a total head of 250 meters), 84375 (from a total head of 150 meters), 89100 (from a total head of 10 meters), 90000 (from a total head of 200 meters), 90000 (from a total head of 250 meters), 90450 (from a total head of 150 meters), 91125 (from a total head of 250 meters), 94500 (from a total head of 70 meters), 94500 (from a total head of 100 meters), 95625 (from a total head of 120 meters), 99000 (from a total head of 10 meters), 99000 (from a total head of 200 meters), 100800 (from a total head of 50 meters), 105000 (from a total head of 30 meters), 101250 (from a total head of 70 meters), 101250 (from a total head of 100 meters), 101250 (from a total head of 150 meters), 101250 (from a total head of 200 meters), 101250 (from a total head of 250",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "4 / 8",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[Water Output (in Liters per day)] 4 / 8",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "meters), 105525 (from a total head of 150 meters),\n106875 (from a total head of 120 meters), 110400\n(from a total head of 50 meters), 111375 (from a total\nhead of 200 meters), 112500 (from a total head of\n200 meters), 114000 (from a total head of 30\nmeters), 114750 (from a total head of 120 meters),\n118125 (from a total head of 100 meters), 118125\n(from a total head of 150 meters), 120600 (from a\ntotal head of 150 meters), 121500 (from a total head\nof 100 meters), 123750 (from a total head of 200\nmeters), 126000 (from a total head of 70 meters),\n128250 (from a total head of 120 meters), 132300\n(from a total head of 20 meters), 133875 (from a total\nhead of 120 meters), 135000 (from a total head of 70\nmeters), 135000 (from a total head of 150 meters),\n135675 (from a total head of 150 meters), 141750\n(from a total head of 50 meters), 141750 (from a total\nhead of 100 meters), 148500 (from a total head of 20\nmeters), 149625 (from a total head of 120 meters),\n150750 (from a total head of 150 meters), 151875\n(from a total head of 150 meters), 153000 (from a\ntotal head of 120 meters), 155250 (from a total head\nof 50 meters), 157500 (from a total head of 70\nmeters), 162000 (from a total head of 100 meters),\n165375 (from a total head of 100 meters), 168000\n(from a total head of 30 meters), 168750 (from a total\nhead of 70 meters), 168750 (from a total head of 150\nmeters), 171000 (from a total head of 120 meters),\n172125 (from a total head of 120 meters), 178200\n(from a total head of 10 meters), 182250 (from a total\nhead of 100 meters), 182400 (from a total head of 30\nmeters), 189000 (from a total head of 50 meters),\n189000 (from a total head of 70 meters), 189000\n(from a total head of 100 meters), 191250 (from a\ntotal head of 120 meters), 192375 (from a total head\nof 120 meters), 198000 (from a total head of 10\nmeters), 202500 (from a total head of 70 meters),\n202500 (from a total head of 100 meters), 207000\n(from a total head of 50 meters), 212625 (from a total\nhead of 100 meters), 213750 (from a total head of\n120 meters), 220500 (from a total head of 70\nmeters), 235200 (from a total head of 20 meters),\n236250 (from a total head of 30 meters), 236250\n(from a total head of 50 meters), 236250 (from a total\nhead of 70 meters), 236250 (from a total head of 100\nmeters), 252000 (from a total head of 70 meters),\n256500 (from a total head of 30 meters), 264000\n(from a total head of 20 meters), 267300 (from a total\nhead of 10 meters), 270000 (from a total head of 70\nmeters), 283500 (from a total head of 50 meters),\n283500 (from a total head of 70 meters), 297000\n(from a total head of 10 meters), 303750 (from a total\nhead of 70 meters), 315000 (from a total head of 30\nmeters), 315000 (from a total head of 70 meters),\n330750 (from a total head of 20 meters), 330750\n(from a total head of 50 meters), 337500 (from a total\nhead of 70 meters), 342000 (from a total head of 30\nmeters), 371250 (from a total head of 20 meters),\n378000 (from a total head of 50 meters), 393750\n(from a total head of 30 meters), 441000 (from a total\nhead of 20 meters), 425250 (from a total head of 50\nmeters), 465750 (from a total head of 50 meters),\n472500 (from a total head of 30 meters), 472500\n(from a total head of 50 meters), 475200 (from a total",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[Water Output (in Liters per day)] meters), 105525 (from a total head of 150 meters), 106875 (from a total head of 120 meters), 110400 (from a total head of 50 meters), 111375 (from a total head of 200 meters), 112500 (from a total head of 200 meters), 114000 (from a total head of 30 meters), 114750 (from a total head of 120 meters), 118125 (from a total head of 100 meters), 118125 (from a total head of 150 meters), 120600 (from a total head of 150 meters), 121500 (from a total head of 100 meters), 123750 (from a total head of 200 meters), 126000 (from a total head of 70 meters), 128250 (from a total head of 120 meters), 132300 (from a total head of 20 meters), 133875 (from a total head of 120 meters), 135000 (from a total head of 70 meters), 135000 (from a total head of 150 meters), 135675 (from a total head of 150 meters), 141750 (from a total head of 50 meters), 141750 (from a total head of 100 meters), 148500 (from a total head of 20 meters), 149625 (from a total head of 120 meters), 150750 (from a total head of 150 meters), 151875 (from a total head of 150 meters), 153000 (from a total head of 120 meters), 155250 (from a total head of 50 meters), 157500 (from a total head of 70 meters), 162000 (from a total head of 100 meters), 165375 (from a total head of 100 meters), 168000 (from a total head of 30 meters), 168750 (from a total head of 70 meters), 168750 (from a total head of 150 meters), 171000 (from a total head of 120 meters), 172125 (from a total head of 120 meters), 178200 (from a total head of 10 meters), 182250 (from a total head of 100 meters), 182400 (from a total head of 30 meters), 189000 (from a total head of 50 meters), 189000 (from a total head of 70 meters), 189000 (from a total head of 100 meters), 191250 (from a total head of 120 meters), 192375 (from a total head of 120 meters), 198000 (from a total head of 10 meters), 202500 (from a total head of 70 meters), 202500 (from a total head of 100 meters), 207000 (from a total head of 50 meters), 212625 (from a total head of 100 meters), 213750 (from a total head of 120 meters), 220500 (from a total head of 70 meters), 235200 (from a total head of 20 meters), 236250 (from a total head of 30 meters), 236250 (from a total head of 50 meters), 236250 (from a total head of 70 meters), 236250 (from a total head of 100 meters), 252000 (from a total head of 70 meters), 256500 (from a total head of 30 meters), 264000 (from a total head of 20 meters), 267300 (from a total head of 10 meters), 270000 (from a total head of 70 meters), 283500 (from a total head of 50 meters), 283500 (from a total head of 70 meters), 297000 (from a total head of 10 meters), 303750 (from a total head of 70 meters), 315000 (from a total head of 30 meters), 315000 (from a total head of 70 meters), 330750 (from a total head of 20 meters), 330750 (from a total head of 50 meters), 337500 (from a total head of 70 meters), 342000 (from a total head of 30 meters), 371250 (from a total head of 20 meters), 378000 (from a total head of 50 meters), 393750 (from a total head of 30 meters), 441000 (from a total head of 20 meters), 425250 (from a total head of 50 meters), 465750 (from a total head of 50 meters), 472500 (from a total head of 30 meters), 472500 (from a total head of 50 meters), 475200 (from a total",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "\u0001ववरण/Speciﬁcation\n\u0001विश\u0001W का नाम /Specification",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[Water Output (in Liters per day)] \u0001ववरण/Speciﬁcation \u0001विश\u0001W का नाम /Specification",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "Name",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[Water Output (in Liters per day)] Name",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "\u0001बड के िलए आवOयक अनुमत मूUय /Bid Requirement",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[Water Output (in Liters per day)] \u0001बड के िलए आवOयक अनुमत मूUय /Bid",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[Water Output (in Liters per day)] Requirement",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "L0",
+    "text": "(Allowed Values)",
+    "children": [
+      {
+        "level": "L1",
+        "text": "5 / 8",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[(Allowed Values)] 5 / 8",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "head of 10 meters), 495000 (from a total head of 20\nmeters), 517500 (from a total head of 50 meters),\n528000 (from a total head of 10 meters), 551250\n(from a total head of 20 meters), 551250 (from a total\nhead of 30 meters), 630000 (from a total head of 30\nmeters), 661500 (from a total head of 20 meters ),\n668250 (from a total head of 10 meters), 742500\n(from a total head of 10 meters), 990000 (from a total\nhead of 10 meters), 1113750 (from a total head of 10\nmeters), 1237500 (from a total head of 10 meters),\n618750 (from a total head of 20 meters), 427500\n(from a total head of 30 meters), 258750 (from a total\nhead of 50 meters), 742500 (from a total head of 20\nmeters), 513000 (from a total head of 30 meters),\n310500 (from a total head of 50 meters), 598500\n(from a total head of 30 meters), 362250 (from a total\nhead of 50 meters), 684000 (from a total head of 30\nmeters), 414000 (from a total head of 50 meters)",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[(Allowed Values)] head of 10 meters), 495000 (from a total head of 20 meters), 517500 (from a total head of 50 meters), 528000 (from a total head of 10 meters), 551250 (from a total head of 20 meters), 551250 (from a total head of 30 meters), 630000 (from a total head of 30 meters), 661500 (from a total head of 20 meters ), 668250 (from a total head of 10 meters), 742500 (from a total head of 10 meters), 990000 (from a total head of 10 meters), 1113750 (from a total head of 10 meters), 1237500 (from a total head of 10 meters), 618750 (from a total head of 20 meters), 427500 (from a total head of 30 meters), 258750 (from a total head of 50 meters), 742500 (from a total head of 20 meters), 513000 (from a total head of 30 meters), 310500 (from a total head of 50 meters), 598500 (from a total head of 30 meters), 362250 (from a total head of 50 meters), 684000 (from a total head of 30 meters), 414000 (from a total head of 50 meters)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "\u0001ववरण/Speciﬁcation\n\u0001विश\u0001W का नाम /Specification",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[(Allowed Values)] \u0001ववरण/Speciﬁcation \u0001विश\u0001W का नाम /Specification",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "Name",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[(Allowed Values)] Name",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "\u0001बड के िलए आवOयक अनुमत मूUय /Bid Requirement",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[(Allowed Values)] \u0001बड के िलए आवOयक अनुमत मूUय /Bid",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[(Allowed Values)] Requirement",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "L0",
+    "text": "(Allowed Values)",
+    "children": [
+      {
+        "level": "L1",
+        "text": "इनपुट कर :े=डट(आईट\u0013सी) तथा Tरवस% 9भार (आरसीएम)/Input Tax Credit(ITC) and Reverse Charge(RCM) Details",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[(Allowed Values)] इनपुट कर :े=डट(आईट\u0013सी) तथा",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[(Allowed Values)] Tरवस% 9भार (आरसीएम)/Input Tax Credit(ITC) and Reverse Charge(RCM) Details",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "जीएसट\u0013 पर",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[(Allowed Values)] जीएसट\u0013 पर",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "इनपुट कर",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[(Allowed Values)] इनपुट कर",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": ":े=डट /ITC on",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[(Allowed Values)] :े=डट /ITC on",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "GST",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[(Allowed Values)] GST",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "जीएसट\u0013 उपकर",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[(Allowed Values)] जीएसट\u0013 उपकर",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "L0",
+    "text": "कर :े=डट /ITC on GST Cess",
+    "children": [
+      {
+        "level": "L1",
+        "text": "लागू",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[कर :े=डट /ITC on GST Cess] लागू",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "आरसीएम/R",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[कर :े=डट /ITC on GST Cess] आरसीएम/R",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "L0",
+    "text": "CM Applicabl",
+    "children": [
+      {
+        "level": "L1",
+        "text": "e",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[CM Applicabl] e",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "Tरवस% 9भार के",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[CM Applicabl] Tरवस% 9भार के",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "अनुसार",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[CM Applicabl] अनुसार",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "जीएसट\u0013/GST as",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[CM Applicabl] जीएसट\u0013/GST as",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "L0",
+    "text": "per RCM",
+    "children": [
+      {
+        "level": "L1",
+        "text": "Tरवस% 9भार के अनुसार",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[per RCM] Tरवस% 9भार के अनुसार",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "जीएसट\u0013 उपकार 1 /GST\nCess 1 as per RCM",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[per RCM] जीएसट\u0013 उपकार 1 /GST Cess 1 as per RCM",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "L0",
+    "text": "GST Cess 2",
+    "children": []
+  },
+  {
+    "level": "L0",
+    "text": "as per",
+    "children": [
+      {
+        "level": "L1",
+        "text": "RCM",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[as per] RCM",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "वैक5Uपक Tरवस%",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[as per] वैक5Uपक Tरवस%",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "L0",
+    "text": "9भार /Optional",
+    "children": [
+      {
+        "level": "L1",
+        "text": "RCM",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[9भार /Optional] RCM",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "NA\nNA\nYes\n18%\nNA\nNA\nNo",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[9भार /Optional] NA NA",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[9भार /Optional] Yes 18% NA NA",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[9भार /Optional] No",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "L0",
+    "text": "अितTर` \u0001विश\u0001W द&तावेज़ /Additional Specification Documents",
+    "children": [
+      {
+        "level": "L1",
+        "text": "Applicable Specification\nDocument\nView",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[अितTर` \u0001विश\u0001W द&तावेज़ /Additional Specification Documents] Applicable Specification Document View",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "परे\u0001षती/Tरपो=टaग अिधकार\u0013 तथा मा ा/Consignees/Reporting Officer and Quantity",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[अितTर` \u0001विश\u0001W द&तावेज़ /Additional Specification Documents] परे\u0001षती/Tरपो=टaग अिधकार\u0013 तथा मा ा/Consignees/Reporting Officer and Quantity",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": ":.सं./S.N",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[अितTर` \u0001विश\u0001W द&तावेज़ /Additional Specification Documents] :.सं./S.N",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "o.",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[अितTर` \u0001विश\u0001W द&तावेज़ /Additional Specification Documents] o.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "परे\u0001षती/Tरपो=टaग",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[अितTर` \u0001विश\u0001W द&तावेज़ /Additional Specification Documents] परे\u0001षती/Tरपो=टaग",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "अिधकार\u0013 /Consignee",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[अितTर` \u0001विश\u0001W द&तावेज़ /Additional Specification Documents] अिधकार\u0013 /Consignee",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "L0",
+    "text": "Reporting/Officer",
+    "children": [
+      {
+        "level": "L1",
+        "text": "पता/Address\nमा ा /Quantity\n=डलीवर\u0013 के =दन/Delivery",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[Reporting/Officer] पता/Address मा ा /Quantity",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[Reporting/Officer] =डलीवर\u0013 के =दन/Delivery",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "Days",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[Reporting/Officer] Days",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "1\nUmesh Krishna\nNavale",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[Reporting/Officer] 1 Umesh Krishna Navale",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "415315,ATP DIGHANCHI TAL\nATPADI DIST SANGLI\n1\n15",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[Reporting/Officer] 415315,ATP DIGHANCHI TAL ATPADI DIST SANGLI 1 15",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": ":ेता Hारा जोड़\u0013 गई \u0001बड क\u0010 \u0001वशेष शतd/Buyer Added Bid Specific Terms and Conditions",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[Reporting/Officer] :ेता Hारा जोड़\u0013 गई \u0001बड क\u0010 \u0001वशेष शतd/Buyer Added Bid Specific Terms and Conditions",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "L0",
+    "text": "1. Generic",
+    "children": [
+      {
+        "level": "L1",
+        "text": "OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up\nto 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[1. Generic] OPTION CLAUSE:",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[1. Generic] The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract.",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[1. Generic] The purchaser also reserves the right to",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "6 / 8",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[1. Generic] 6 / 8",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at\nthe contracted rates. The delivery period of quantity shall commence from the last date of original\ndelivery order and in cases where option clause is exercised during the extended delivery period the\nadditional time shall commence from the last date of extended delivery period. The additional delivery\ntime shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to\nminimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the\noriginal delivery period. The Purchaser may extend this calculated delivery duration up to the original\ndelivery period while exercising the option clause. Bidders must comply with these terms.",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[1. Generic] increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates.",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[1. Generic] The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period.",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[1. Generic] The additional delivery time shall be (Increased quantity ÷ Original quantity)",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[1. Generic] × Original delivery period (in days), subject to minimum of 30 days.",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[1. Generic] If the original delivery period is less than 30 days, the additional time equals the original delivery period.",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[1. Generic] The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause.",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[1. Generic] Bidders must comply with these terms.",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "L0",
+    "text": "अ&वीकरण/Disclaimer",
+    "children": [
+      {
+        "level": "L1",
+        "text": "The Additional Terms and Conditions (ATC) have been incorporated by the Buyer after approval of their\nCompetent Authority. The Buyer ,is solely responsible for the impact of these clauses on the bidding process, its\noutcome, and consequences thereof including any restriction arising in the bidding process due to these ATCs\nand including the modification of technical specifications and / or terms and conditions governing the bid.All\nrepresentations / grievances pertaining to the ATC clauses shall be raised with the buyer organization directly\nand not with GeM.If any of the clause(s) is/are incorporated by the Buyer regarding the following, the bid &\nresultant contract shall be treated as null & void. Further, GeM reserves the right, at its sole discretion, to cancel\nthe bid forthwith, without issuance of any prior notice or intimation :-",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] The Additional Terms and Conditions (ATC) have been incorporated by the Buyer after approval of their Competent Authority.",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] The Buyer ,is solely responsible for the impact of these clauses on the bidding process, its outcome, and consequences thereof including any restriction arising in the bidding process due to these ATCs and including the modification of technical specifications and / or terms and conditions governing the bid.",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] All representations / grievances pertaining to the ATC clauses shall be raised with the buyer organization directly and not with GeM.If any of the clause(s) is/are incorporated by the Buyer regarding the following, the bid & resultant contract shall be treated as null & void. Further, GeM reserves the right, at its sole discretion, to cancel the bid forthwith, without issuance of any prior notice or intimation :-",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "1. Publishing Custom / BOQ bids for items for which regular GeM categories are available (unless such",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] 1.",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] Publishing Custom / BOQ bids for items for which regular GeM categories are available (unless such",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "Custom / BOQ item is bunched with the major regular product Category Item).",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] Custom / BOQ item is bunched with the major regular product Category Item).",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "2. Mandating procurement of / from specific Brand / Make / Model / Manufacturer / Dealer except in case of",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] 2. Mandating procurement of / from specific Brand / Make / Model / Manufacturer / Dealer except in case of",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "Single Bid / Proprietary Article Certificate (PAC) Buying.",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] Single Bid / Proprietary Article Certificate (PAC) Buying.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "3. Inclusion of disqualification criteria related to suspension of seller / service provider, where such",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] 3.",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] Inclusion of disqualification criteria related to suspension of seller / service provider, where such",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "suspension period has already expired.",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] suspension period has already expired.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "4. Mandating submission of documents in physical form as a pre-requisite to qualify bidders.",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] 4.",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] Mandating submission of documents in physical form as a pre-requisite to qualify bidders.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "5. Publishing bids on GeM for procurement of works.",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] 5.",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] Publishing bids on GeM for procurement of works.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "6. Procurement of Goods by creating a Service bid on GeM & vice-versa.",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] 6.",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] Procurement of Goods by creating a Service bid on GeM & vice-versa.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "7. Seeking sample with bid or approval of samples during bid evaluation process. However, trial / sample, as",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] 7.",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] Seeking sample with bid or approval of samples during bid evaluation process. However, trial / sample, as",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "the case may be, shall be permitted in cases where trial / sample are allowed as per approved and\npublished procurement policy of the Buyers’ controlling Ministry / Department / State / Public Sector\nEnterprises Headquarters. If there is any violation of trial / sample clause with regard to approved policy\nof the Buyers’ Ministry / Department / State / Public Sector Enterprises Headquarters, then this is to be\ndetermined and redressed by the concerned Buyer Organisation only.",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] the case may be, shall be permitted in cases where trial / sample are allowed as per approved and published procurement policy of the Buyers’ controlling Ministry / Department / State / Public Sector Enterprises Headquarters.",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] If there is any violation of trial / sample clause with regard to approved policy of the Buyers’ Ministry / Department / State / Public Sector Enterprises Headquarters, then this is to be determined and redressed by the concerned Buyer Organisation only.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "8. Seeking experience from specific organization / department / institute only or from foreign / export",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] 8.",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] Seeking experience from specific organization / department / institute only or from foreign / export",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "experience.",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] experience.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "9. Creating bid for items from incorrect categories.",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] 9.",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] Creating bid for items from incorrect categories.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "10. Reference of conditions published on any external site or reference to external documents/clauses.",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] 10.",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] Reference of conditions published on any external site or reference to external documents/clauses.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "11. Asking for any Tender fee / Bid Participation fee, as the case may be.",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] 11.",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] Asking for any Tender fee / Bid Participation fee, as the case may be.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "12. Buyer added ATC Clauses which are in contravention of clauses defined in bid detail section, including",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] 12.",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] Buyer added ATC Clauses which are in contravention of clauses defined in bid detail section, including",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "specifications, EMD Detail, ePBG Detail and MII and MSE Purchase Preference sections of the bid, unless\notherwise allowed by the applicable GeM GTC.",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] specifications, EMD Detail, ePBG Detail and MII and MSE Purchase Preference sections of the bid, unless otherwise allowed by the applicable GeM GTC.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "13. Any ATC clause in contravention with GeM GTC Clause 4 (xiii) (h) will be invalid. In case of multiple L1",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] 13.",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] Any ATC clause in contravention with GeM GTC Clause 4 (xiii) (h) will be invalid. In case of multiple L1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "bidders against a service bid, the buyer shall place the Contract by selection of a bidder amongst the L-1\nbidders through a Random Algorithm executed by GeM system.",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] bidders against a service bid, the buyer shall place the Contract by selection of a bidder amongst the L-1 bidders through a Random Algorithm executed by GeM system.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "14. In a category based bid, adding additional items, through buyer added, additional scope of work/",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] 14.",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] In a category based bid, adding additional items, through buyer added, additional scope of work/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "additional terms and conditions/or any other document. If buyer needs more items along with the main\nitem, the same must be added through bunching category based items or by bunching custom catalogues\nor bunching a BoQ with the main category based item, the same must not be done through ATC or Scope\nof Work.",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] additional terms and conditions/or any other document.",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] If buyer needs more items along with the main item, the same must be added through bunching category based items or by bunching custom catalogues or bunching a BoQ with the main category based item, the same must not be done through ATC or Scope of Work.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "Further, if any seller has any objection/grievance against these additional clauses or otherwise on any aspect of\nthis bid, they can raise their representation against the same by using the Representation window provided in\nthe bid details field in Seller dashboard after logging in as a seller. Buyer is duty bound to reply to all such\nrepresentations and would not be allowed to open bids if he fails to reply to such representations.",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] Further, if any seller has any objection/grievance against these additional clauses or otherwise on any aspect of this bid, they can raise their representation against the same by using the Representation window provided in the bid details field in Seller dashboard after logging in as a seller.",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] Buyer is duty bound to reply to all such representations and would not be allowed to open bids if he fails to reply to such representations.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "7 / 8",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] 7 / 8",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "All GeM Sellers/Service Providers shall ensure full compliance with all applicable labour laws,\nincluding the provisions, rules, schemes and guidelines under the four Labour Codes i.e. the Code\non Wages, 2019; the Industrial Relations Code, 2020; the Occupational Safety, Health and Working\nConditions Code, 2020; and the Code on Social Security, 2020 as and when notified and brought into\nforce by the Government of India.",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] All GeM Sellers/Service Providers shall ensure full compliance with all applicable labour laws, including the provisions, rules, schemes and guidelines under the four Labour Codes i.e. the Code on Wages, 2019; the Industrial Relations Code, 2020; the Occupational Safety, Health and Working Conditions Code, 2020; and the Code on Social Security, 2020 as and when notified and brought into force by the Government of India.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "For all provisions of the Labour Codes that are pending operationalisation through rules, schemes or\nnotifications, the corresponding provisions of the pre-existing labour enactments (such as The\nMinimum Wages Act, 1948, The Payment of Wages Act, 1936, The Payment of Bonus Act, 1965, The\nEqual Remuneration Act, 1976, The Payment of Gratuity Act, 1972, etc. and relevant State Rules)\nshall continue to remain applicable.",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[अ&वीकरण/Disclaimer] For all provisions of the Labour Codes that are pending operationalisation through rules, schemes or notifications, the corresponding provisions of the pre-existing labour enactments (such as The Minimum Wages Act, 1948, The Payment of Wages Act, 1936, The Payment of Bonus Act, 1965, The Equal Remuneration Act, 1976, The Payment of Gratuity Act, 1972, etc. and relevant State Rules) shall continue to remain applicable.",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "L0",
+    "text": "The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:",
+    "children": [
+      {
+        "level": "L1",
+        "text": "All notified and enforceable provisions of the new Labour Codes as mentioned hereinabove;\nand\nAll operative provisions of the erstwhile Labour Laws until their complete substitution.",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:] All notified and enforceable provisions of the new Labour Codes as mentioned hereinabove; and All operative provisions of the erstwhile Labour Laws until their complete substitution.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "All obligations relating to wages, social security, safety, working conditions, industrial relations etc.\nand any other statutory requirements shall be strictly met by the Seller/ Service Provider. Any non-\ncompliance shall constitute a breach of the contract and shall entitle the Buyer to take appropriate\naction in accordance with the contract and applicable law.",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:] All obligations relating to wages, social security, safety, working conditions, industrial relations etc. and any other statutory requirements shall be strictly met by the Seller/ Service Provider.",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:] Any non- compliance shall constitute a breach of the contract and shall entitle the Buyer to take appropriate action in accordance with the contract and applicable law.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "This Bid is governed by the General Terms and Conditions, conditions stipulated in Bid and Service\nLevel Agreement specific to the Service, as the case may be, as provided in the Marketplace.",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:] This Bid is governed by the General Terms and Conditions, conditions stipulated in Bid and Service Level Agreement specific to the Service, as the case may be, as provided in the Marketplace.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "However, in case of Service, if any condition specified in General Terms and Conditions is\ncontradicted by the conditions stipulated in Service Level Agreement specific to said Service, then it\nwill over-ride the conditions in the General Terms and Conditions.",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:] However, in case of Service, if any condition specified in General Terms and Conditions is contradicted by the conditions stipulated in Service Level Agreement specific to said Service, then it will over-ride the conditions in the General Terms and Conditions.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "यह \u0001बड सामा)य शत0 के अंतग%त भी शािसत है /This Bid is also governed by the General Terms and Conditions",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:] यह \u0001बड सामा)य शत0 के अंतग%त भी शािसत है /This Bid is also governed by the General Terms and Conditions",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "जेम क\u0010 सामा)य शत0 के खंड 26 के संदभ% मI भारत के साथ भूिम सीमा साझा करने वाले देश के \u0001बडर से खर\u0013द पर 9ितबंध के संबंध म",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:] जेम क\u0010 सामा)य शत0 के खंड 26 के संदभ% मI भारत के साथ भूिम सीमा साझा करने वाले देश के \u0001बडर से खर\u0013द पर 9ितबंध के संबंध म",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "भारत के साथ भूिम सीमा साझा करने वाले देश का कोई भी \u0001बडर इस िन\u0001वदा मI \u0001बड देने के िलए तभी पा  होगा जब वह \u0001बड देने वाला",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:] भारत के साथ भूिम सीमा साझा करने वाले देश का कोई भी \u0001बडर इस िन\u0001वदा मI \u0001बड देने के िलए तभी पा होगा जब वह \u0001बड देने वाला",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "स6म 9ािधकार\u0013 के पास पंजीकृत हो।\u0001बड मI भाग लेते समय \u0001बडर को इसका अनुपालन करना होगा और कोई भी गलत घोषणा =कए जाने",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:] स6म 9ािधकार\u0013 के पास पंजीकृत हो।\u0001बड मI भाग लेते समय \u0001बडर को इसका अनुपालन करना होगा और कोई भी गलत घोषणा =कए जाने",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "व इसका अनुपालन न करने पर अनुबंध को तgकाल समाh करने और कानून के अनुसार आगे क\u0010 कानूनी कार%वाई का आधार होगा।/In terms",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:] व इसका अनुपालन न करने पर अनुबंध को तgकाल समाh करने और कानून के अनुसार आगे",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:] क\u0010 कानूनी कार%वाई का आधार होगा।/In terms",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": "L1",
+        "text": "of GeM GTC clause 26 regarding Restrictions on procurement from a bidder of a country which shares a land border with India, any bidder from a country which shares a\nland border with India will be eligible to bid in this tender only if the bidder is registered with the Competent Authority. While participating in bid, Bidder has to undertake\ncompliance of this and any false declaration and non-compliance of this would be a ground for immediate termination of the contract and further legal action in\naccordance with the laws.",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:] of GeM GTC clause 26 regarding Restrictions on procurement from a bidder of a country which shares a land border with India, any bidder from a country which shares a land border with India will be eligible to bid in this tender only if the bidder is registered with the Competent Authority.",
+            "children": []
+          },
+          {
+            "level": "L2",
+            "text": "[The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:] While participating in bid, Bidder has to undertake compliance of this and any false declaration and non-compliance of this would be a ground for immediate termination of the contract and further legal action in accordance with the laws.",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "L0",
+    "text": "---ध)यवाद/Thank You---",
+    "children": [
+      {
+        "level": "L1",
+        "text": "8 / 8",
+        "children": [
+          {
+            "level": "L2",
+            "text": "[---ध)यवाद/Thank You---] 8 / 8",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

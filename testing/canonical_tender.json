@@ -1,0 +1,2353 @@
+{
+  "fields": {
+    "bid.end_date_time": "2026-05-05T10:00:00",
+    "bid.opening_date_time": "2026-05-05T10:30:00",
+    "bid.offer_validity_days": 30
+  },
+  "evidence": {
+    "bid.end_date_time": [
+      "91d9fc54-5fe9-4100-b870-af02d0a6d62f"
+    ],
+    "bid.opening_date_time": [
+      "db8dce0d-9d35-4045-b5c8-9aeee12cf5f2"
+    ],
+    "bid.offer_validity_days": [
+      "fa375052-4dec-4350-957a-8084c82e2ddf"
+    ]
+  },
+  "technical_specifications": {
+    "items": [
+      {
+        "type": "product_service_description",
+        "text": "Total Quantity: 1",
+        "page": 1,
+        "heading": "Table_1",
+        "source": "table",
+        "evidence_ids": [
+          "f63b8718-44d0-4b36-b5f3-27fc4eb34eea"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "type": "technical_requirement",
+        "text": "Item Category: Solar Photovoltaic Water Pumping Systems (V2) as per MNRE Specification (Q3)",
+        "page": 1,
+        "heading": "Table_1",
+        "source": "table",
+        "evidence_ids": [
+          "f84b392f-0cde-43af-b0f3-638e99a0f96b"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "type": "technical_requirement",
+        "text": "Time allowed for Technical Clarifications during technical evaluation: 2 Days",
+        "page": 2,
+        "heading": "Table_2",
+        "source": "table",
+        "evidence_ids": [
+          "c4d9b6df-a416-492e-978e-658b6a05654c"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "type": "technical_requirement",
+        "text": "Applicable Specification Document: View",
+        "page": 6,
+        "heading": "Table_11",
+        "source": "table",
+        "evidence_ids": [
+          "802b43bf-22e2-414a-9ba1-6277bccd7d4f"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "type": "product_service_description",
+        "text": "व&तु 'ेणी /Item",
+        "page": 1,
+        "heading": "कुल मा ा/Total Quantity 1",
+        "source": "paragraph",
+        "evidence_ids": [
+          "4e60a995-60cf-459c-9bdb-107e6e83930a"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "type": "product_service_description",
+        "text": "Category Solar Photovoltaic Water Pumping Systems (V2) as per MNRE Specification (Q3)",
+        "page": 1,
+        "heading": "कुल मा ा/Total Quantity 1",
+        "source": "paragraph",
+        "evidence_ids": [
+          "3d0d43d6-c13b-42f3-bc4b-7f3cc8b3c803"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "type": "product_service_description",
+        "text": "\u0001बडर का )यूनतम औसत वा\u0001ष%क टन%ओवर (3 वष0 का) /Minimum",
+        "page": 1,
+        "heading": "कुल मा ा/Total Quantity 1",
+        "source": "paragraph",
+        "evidence_ids": [
+          "32c89a35-f0dc-4254-8f14-580c227f1b0d"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "type": "product_service_description",
+        "text": "Average Annual Turnover of the bidder (For 3 Years)",
+        "page": 1,
+        "heading": "कुल मा ा/Total Quantity 1",
+        "source": "paragraph",
+        "evidence_ids": [
+          "4f41e04d-185e-4305-950d-5be90db35752"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "type": "product_service_description",
+        "text": "1 Lakh (s)",
+        "page": 1,
+        "heading": "कुल मा ा/Total Quantity 1",
+        "source": "paragraph",
+        "evidence_ids": [
+          "11dae8c2-b5ce-42d5-b72e-7e53d0e6b6cc"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "type": "product_service_description",
+        "text": "मूल उपकरण िनमा%ता का औसत टन%ओवर (गत 3 वष0",
+        "page": 1,
+        "heading": "कुल मा ा/Total Quantity 1",
+        "source": "paragraph",
+        "evidence_ids": [
+          "ce125646-f63c-4391-85e8-23699c65b584"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "type": "technical_requirement",
+        "text": "िनर\u00136ण आवOयक (सूचीबX िनर\u00136ण 9ािधकरण /जेम",
+        "page": 2,
+        "heading": "अनुमत समय /Time allowed for Technical Clarifications during technical evaluation",
+        "source": "paragraph",
+        "evidence_ids": [
+          "0abdb46b-9de1-48eb-bd57-520f0c7ea102"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "type": "technical_requirement",
+        "text": "के साथ पूव% पंजीकृत एजIिसयG Hारा)/Inspection Required (By Empanelled Inspection Authority / Agencies pre-registered with GeM)",
+        "page": 2,
+        "heading": "अनुमत समय /Time allowed for Technical Clarifications during technical evaluation",
+        "source": "paragraph",
+        "evidence_ids": [
+          "156de913-7299-429b-9691-81a313a9554d"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "type": "technical_requirement",
+        "text": "मूUयांकन पXित/Evaluation Method Total value wise evaluation",
+        "page": 2,
+        "heading": "अनुमत समय /Time allowed for Technical Clarifications during technical evaluation",
+        "source": "paragraph",
+        "evidence_ids": [
+          "b666eb62-9d8c-428b-b259-071e826dc0de"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "type": "product_service_description",
+        "text": "Copies of relevant contracts and delivery acceptance certificates like CRAC to be submitted along with bid in support of having supplied some quantity during each of the Financial year. In case of bunch bids, the category of primary product having highest value should meet this criterion.",
+        "page": 3,
+        "heading": "सुलह खंड/Mediation Clause No",
+        "source": "paragraph",
+        "evidence_ids": [
+          "e7484858-9531-4138-8c13-217d71eba763"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "type": "product_service_description",
+        "text": "Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have supplied same or similar Category Products for 50% of bid quantity, in at least one of the last three Financial years before the bid opening date to any Central / State Govt Organization / PSU.",
+        "page": 3,
+        "heading": "सुलह खंड/Mediation Clause No",
+        "source": "paragraph",
+        "evidence_ids": [
+          "c2713cfd-d7d7-45e5-8c9f-5f6f516dada2"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "type": "product_service_description",
+        "text": "Copies of relevant contracts (proving supply of cumulative order quantity in any one financial year) to be submitted along with bid in support of quantity supplied in the relevant Financial year. In case of bunch bids, the category related to primary product having highest bid value should meet this criterion.",
+        "page": 3,
+        "heading": "सुलह खंड/Mediation Clause No",
+        "source": "paragraph",
+        "evidence_ids": [
+          "76d7986c-065c-4b45-b8b0-ad7ab9684406"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "type": "technical_requirement",
+        "text": "जेम केटेगर\u0013 \u0001विश\u0001W के अनुसार /",
+        "page": 4,
+        "heading": "तकनीक\u0010 \u0001विश\u0001Wयाँ /Technical Specifications",
+        "source": "paragraph",
+        "evidence_ids": [
+          "38a690a7-3a40-4d90-8440-8a6b4832004c"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "type": "technical_requirement",
+        "text": "As per GeM Category Speciﬁcation",
+        "page": 4,
+        "heading": "तकनीक\u0010 \u0001विश\u0001Wयाँ /Technical Specifications",
+        "source": "paragraph",
+        "evidence_ids": [
+          "6aa47fd1-5f22-4b2f-8d9e-87f497532d83"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "type": "technical_requirement",
+        "text": "\u0001ववरण/Speciﬁcation \u0001विश\u0001W का नाम /Specification",
+        "page": 4,
+        "heading": "तकनीक\u0010 \u0001विश\u0001Wयाँ /Technical Specifications",
+        "source": "paragraph",
+        "evidence_ids": [
+          "c1355572-2fc7-4bc9-8539-48a9fb828c5b"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "type": "technical_requirement",
+        "text": "\u0001बड के िलए आवOयक अनुमत मूUय /Bid",
+        "page": 4,
+        "heading": "तकनीक\u0010 \u0001विश\u0001Wयाँ /Technical Specifications",
+        "source": "paragraph",
+        "evidence_ids": [
+          "052e26cf-cb99-44ce-9f5f-2669a314e90e"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "type": "technical_requirement",
+        "text": "Requirement",
+        "page": 4,
+        "heading": "तकनीक\u0010 \u0001विश\u0001Wयाँ /Technical Specifications",
+        "source": "paragraph",
+        "evidence_ids": [
+          "18a8e04c-c9c9-46ca-a247-953e899a978d"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "type": "product_service_description",
+        "text": "Model-1, Model-2, Model-3, Model-4, Model-5, Model-6, Model-7, Model-8, Model-9, Model-10, Model-11, Model-12, Model-13, Model-14, Model-15, Model-16, Model-17, Model-18, Model-19, Model-20, Model-21, Model-22, Model-23, Model-24, Model-25, Model-26, Model-27, Model-28, Model-29, Model-30, Model-31, Model-32, Model-33, Model-34, Model-35, Model-36, Model-37, Model-38, Model-39",
+        "page": 4,
+        "heading": "Model Number of SPV Water Pumping System",
+        "source": "paragraph",
+        "evidence_ids": [
+          "91879e4a-1975-4317-8888-a0aa60819ccc"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "type": "technical_requirement",
+        "text": "Applicable Specification Document View",
+        "page": 6,
+        "heading": "अितTर` \u0001विश\u0001W द&तावेज़ /Additional Specification Documents",
+        "source": "paragraph",
+        "evidence_ids": [
+          "3b1415a1-d0fa-45e6-aded-0b19c8923549"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "type": "product_service_description",
+        "text": "परे\u0001षती/Tरपो=टaग अिधकार\u0013 तथा मा ा/Consignees/Reporting Officer and Quantity",
+        "page": 6,
+        "heading": "अितTर` \u0001विश\u0001W द&तावेज़ /Additional Specification Documents",
+        "source": "paragraph",
+        "evidence_ids": [
+          "d75cba0a-ca47-409f-9108-a29a19461489"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "type": "technical_requirement",
+        "text": ":.सं./S.N",
+        "page": 6,
+        "heading": "अितTर` \u0001विश\u0001W द&तावेज़ /Additional Specification Documents",
+        "source": "paragraph",
+        "evidence_ids": [
+          "2bcecb28-01c3-413a-a27e-d4052311ef8a"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "type": "technical_requirement",
+        "text": "परे\u0001षती/Tरपो=टaग",
+        "page": 6,
+        "heading": "अितTर` \u0001विश\u0001W द&तावेज़ /Additional Specification Documents",
+        "source": "paragraph",
+        "evidence_ids": [
+          "54123bc5-514d-4355-ad29-303aab8c300d"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "type": "technical_requirement",
+        "text": "अिधकार\u0013 /Consignee",
+        "page": 6,
+        "heading": "अितTर` \u0001विश\u0001W द&तावेज़ /Additional Specification Documents",
+        "source": "paragraph",
+        "evidence_ids": [
+          "abffedaa-69cd-45e2-b6b1-69762a4e945c"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "type": "product_service_description",
+        "text": "पता/Address मा ा /Quantity",
+        "page": 6,
+        "heading": "Reporting/Officer",
+        "source": "paragraph",
+        "evidence_ids": [
+          "4de1160b-0245-43ab-ad46-ecce4ec6b23d"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "type": "product_service_description",
+        "text": "The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract.",
+        "page": 6,
+        "heading": "1. Generic",
+        "source": "paragraph",
+        "evidence_ids": [
+          "19f743ee-d709-4313-abaf-ae8b447b70e7"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "type": "product_service_description",
+        "text": "increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at the contracted rates.",
+        "page": 7,
+        "heading": "1. Generic",
+        "source": "paragraph",
+        "evidence_ids": [
+          "b4dcc0ad-4244-4094-9ab5-ba6cda43eac3"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "type": "product_service_description",
+        "text": "The delivery period of quantity shall commence from the last date of original delivery order and in cases where option clause is exercised during the extended delivery period the additional time shall commence from the last date of extended delivery period.",
+        "page": 7,
+        "heading": "1. Generic",
+        "source": "paragraph",
+        "evidence_ids": [
+          "cc4fbf5b-312b-4a1b-9ea8-ca1daa916532"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "type": "product_service_description",
+        "text": "The additional delivery time shall be (Increased quantity ÷ Original quantity)",
+        "page": 7,
+        "heading": "1. Generic",
+        "source": "paragraph",
+        "evidence_ids": [
+          "d266549c-9957-453c-b3ce-9edfe9c93749"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "type": "technical_requirement",
+        "text": "The Buyer ,is solely responsible for the impact of these clauses on the bidding process, its outcome, and consequences thereof including any restriction arising in the bidding process due to these ATCs and including the modification of technical specifications and / or terms and conditions governing the bid.",
+        "page": 7,
+        "heading": "अ&वीकरण/Disclaimer",
+        "source": "paragraph",
+        "evidence_ids": [
+          "3d42f12e-eba8-47b3-8d86-c535ab45e724"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "type": "product_service_description",
+        "text": "2. Mandating procurement of / from specific Brand / Make / Model / Manufacturer / Dealer except in case of",
+        "page": 7,
+        "heading": "अ&वीकरण/Disclaimer",
+        "source": "paragraph",
+        "evidence_ids": [
+          "c4ae99a8-023d-40e8-ac9a-b378f1ca7f6a"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "type": "technical_requirement",
+        "text": "specifications, EMD Detail, ePBG Detail and MII and MSE Purchase Preference sections of the bid, unless otherwise allowed by the applicable GeM GTC.",
+        "page": 7,
+        "heading": "अ&वीकरण/Disclaimer",
+        "source": "paragraph",
+        "evidence_ids": [
+          "1a892035-22fa-4cfb-a879-19ae89781af0"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "type": "product_service_description",
+        "text": "Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM of the product offered in the bid {themselves or through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central / State Govt Organization / PSU for number of Financial years as indicated above in the bid document before the bid opening date. Copies of relevant contracts and delivery acceptance certificates like CRAC to be submitted along with bid in support of having supplied some quantity during each of the Financial year. In case of bunch bids, the category of primary product having highest value should meet this criterion.",
+        "page": 3,
+        "heading": "सुलह खंड/Mediation Clause No",
+        "source": "list",
+        "evidence_ids": [
+          "e5d47f6a-535e-4f73-b205-095288d997b2"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "type": "product_service_description",
+        "text": "Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have supplied same or similar Category Products for 50% of bid quantity, in at least one of the last three Financial years before the bid opening date to any Central / State Govt Organization / PSU. Copies of relevant contracts (proving supply of cumulative order quantity in any one financial year) to be submitted along with bid in support of quantity supplied in the relevant Financial year. In case of bunch bids, the category related to primary product having highest bid value should meet this criterion.",
+        "page": 3,
+        "heading": "सुलह खंड/Mediation Clause No",
+        "source": "list",
+        "evidence_ids": [
+          "6a3b3446-e1cf-4502-8514-c8f1e1164b29"
+        ],
+        "confidence": 0.8
+      }
+    ]
+  },
+  "financial_criteria": {
+    "turnover_requirements": [
+      {
+        "type": "minimum_turnover",
+        "text": "((33 )) /Minimum Average Annual Turnover of the bidder (For 3 Years): 1 Lakh (s)",
+        "page": 1,
+        "heading": "Table_1",
+        "source": "table",
+        "evidence_ids": [
+          "70b52a19-c4a1-4ce0-b57a-34b56e13a5f2"
+        ],
+        "period_years": null,
+        "confidence": 0.9,
+        "amount_value": 1.0,
+        "amount_unit": null,
+        "amount_inr_estimate": 1,
+        "currency": "INR"
+      },
+      {
+        "type": "minimum_turnover",
+        "text": "(( 33 ))/OEM Average Turnover (Last 3 Years): 2 Lakh (s)",
+        "page": 1,
+        "heading": "Table_1",
+        "source": "table",
+        "evidence_ids": [
+          "427c54a4-ee6c-4a95-9866-37a0b765e6d5"
+        ],
+        "period_years": 3,
+        "confidence": 0.9,
+        "amount_value": 1.0,
+        "amount_unit": null,
+        "amount_inr_estimate": 1,
+        "currency": "INR"
+      },
+      {
+        "type": "minimum_turnover",
+        "text": "MSE Relaxation for Years of Experience and Turnover: No",
+        "page": 1,
+        "heading": "Table_1",
+        "source": "table",
+        "evidence_ids": [
+          "0017d63d-88b9-4b49-b229-923a6f651a0b"
+        ],
+        "period_years": null,
+        "confidence": 0.9,
+        "amount_value": 1.0,
+        "amount_unit": null,
+        "amount_inr_estimate": 1,
+        "currency": "INR"
+      },
+      {
+        "type": "minimum_turnover",
+        "text": "Startup Relaxation for Years of Experience and Turnover: No",
+        "page": 1,
+        "heading": "Table_1",
+        "source": "table",
+        "evidence_ids": [
+          "96655d6c-a7b1-4a9e-9908-cc38cb493bbb"
+        ],
+        "period_years": null,
+        "confidence": 0.9,
+        "amount_value": 1.0,
+        "amount_unit": null,
+        "amount_inr_estimate": 1,
+        "currency": "INR"
+      },
+      {
+        "type": "minimum_turnover",
+        "text": "Document required from seller: Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover *In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+        "page": 1,
+        "heading": "Table_1",
+        "source": "table",
+        "evidence_ids": [
+          "1e028422-3c26-4f1c-bdaf-719495d72576"
+        ],
+        "period_years": null,
+        "confidence": 0.9,
+        "amount_value": 1.0,
+        "amount_unit": null,
+        "amount_inr_estimate": 1,
+        "currency": "INR"
+      },
+      {
+        "type": "minimum_turnover",
+        "text": "2 Lakh (s)",
+        "page": 1,
+        "heading": "का)/OEM Average Turnover (Last 3 Years)",
+        "source": "paragraph",
+        "evidence_ids": [
+          "4803d160-e20c-4813-90da-007521898bfd"
+        ],
+        "period_years": 3,
+        "confidence": 0.9,
+        "amount_value": 3.0,
+        "amount_unit": null,
+        "amount_inr_estimate": 3,
+        "currency": "INR"
+      },
+      {
+        "type": "minimum_turnover",
+        "text": "उ)ह\u0013ं/समान सेवा के िलए अपे56त \u0001वगत",
+        "page": 1,
+        "heading": "का)/OEM Average Turnover (Last 3 Years)",
+        "source": "paragraph",
+        "evidence_ids": [
+          "60fb22bb-1d13-45b0-8a62-697997318969"
+        ],
+        "period_years": 3,
+        "confidence": 0.9,
+        "amount_value": 3.0,
+        "amount_unit": null,
+        "amount_inr_estimate": 3,
+        "currency": "INR"
+      },
+      {
+        "type": "minimum_turnover",
+        "text": "अनुभव के",
+        "page": 1,
+        "heading": "का)/OEM Average Turnover (Last 3 Years)",
+        "source": "paragraph",
+        "evidence_ids": [
+          "336e85f9-888e-41c8-9588-e56b7289deee"
+        ],
+        "period_years": 3,
+        "confidence": 0.9,
+        "amount_value": 3.0,
+        "amount_unit": null,
+        "amount_inr_estimate": 3,
+        "currency": "INR"
+      },
+      {
+        "type": "minimum_turnover",
+        "text": "एमएसएमई के िलए अनुभव के वष0 और टन%ओवर से छूट 9दान क\u0010 गई है/MSE Relaxation for Years of Experience and Turnover",
+        "page": 1,
+        "heading": "वष%/Years of Past Experience Required for same/similar service",
+        "source": "paragraph",
+        "evidence_ids": [
+          "d9f9bf1e-e050-4840-b2a0-5cd12ac01bd1"
+        ],
+        "period_years": null,
+        "confidence": 0.7,
+        "amount_value": 0.0,
+        "amount_unit": null,
+        "amount_inr_estimate": 0,
+        "currency": "INR"
+      },
+      {
+        "type": "minimum_turnover",
+        "text": "Relaxation for Years of Experience and Turnover",
+        "page": 1,
+        "heading": "वष%/Years of Past Experience Required for same/similar service",
+        "source": "paragraph",
+        "evidence_ids": [
+          "77dcbc6d-6ef6-42c6-8b3f-bc0153ee519d"
+        ],
+        "period_years": null,
+        "confidence": 0.7
+      },
+      {
+        "type": "minimum_turnover",
+        "text": "Experience Criteria,Past Performance,Bidder Turnover,Certificate (Requested in ATC),OEM Authorization Certificate,OEM Annual Turnover * In case any bidder is seeking exemption from Experience / Turnover Criteria, the supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer",
+        "page": 1,
+        "heading": "वष%/Years of Past Experience Required for same/similar service",
+        "source": "paragraph",
+        "evidence_ids": [
+          "abd4c972-c0b9-4926-8708-52d88732ced0"
+        ],
+        "period_years": null,
+        "confidence": 0.7
+      },
+      {
+        "type": "minimum_turnover",
+        "text": "The minimum average annual financial turnover of the bidder during the last three years, ending on 31st March of the previous financial year, should be as indicated above in the bid document.",
+        "page": 3,
+        "heading": "सुलह खंड/Mediation Clause No",
+        "source": "paragraph",
+        "evidence_ids": [
+          "3a9061af-53ed-4ec4-9b50-4a010ce6741b"
+        ],
+        "period_years": null,
+        "confidence": 0.7,
+        "amount_value": 31.0,
+        "amount_unit": null,
+        "amount_inr_estimate": 31,
+        "currency": "INR"
+      },
+      {
+        "type": "minimum_turnover",
+        "text": "Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3-year-old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria.",
+        "page": 3,
+        "heading": "सुलह खंड/Mediation Clause No",
+        "source": "paragraph",
+        "evidence_ids": [
+          "e8b30e61-1fda-4a8b-9c62-18417e264868"
+        ],
+        "period_years": null,
+        "confidence": 0.7,
+        "amount_value": 3.0,
+        "amount_unit": null,
+        "amount_inr_estimate": 3,
+        "currency": "INR"
+      },
+      {
+        "type": "minimum_turnover",
+        "text": "3. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document.",
+        "page": 3,
+        "heading": "सुलह खंड/Mediation Clause No",
+        "source": "paragraph",
+        "evidence_ids": [
+          "e56294ef-305b-4f24-8f01-df7f9fb0840e"
+        ],
+        "period_years": null,
+        "confidence": 0.7,
+        "amount_value": 3.0,
+        "amount_unit": null,
+        "amount_inr_estimate": 3,
+        "currency": "INR"
+      },
+      {
+        "type": "minimum_turnover",
+        "text": "Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria.",
+        "page": 3,
+        "heading": "सुलह खंड/Mediation Clause No",
+        "source": "paragraph",
+        "evidence_ids": [
+          "514ff0b3-e3e8-4edb-baf7-b8055f737590"
+        ],
+        "period_years": null,
+        "confidence": 0.7,
+        "amount_value": 3.0,
+        "amount_unit": null,
+        "amount_inr_estimate": 3,
+        "currency": "INR"
+      },
+      {
+        "type": "minimum_turnover",
+        "text": "The minimum average annual financial turnover of the bidder during the last three years, ending on 31st March of the previous financial year, should be as indicated above in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the bidder is less than 3-year-old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria.",
+        "page": 3,
+        "heading": "सुलह खंड/Mediation Clause No",
+        "source": "list",
+        "evidence_ids": [
+          "1293f59f-0df3-4157-aa86-da9fab338d64"
+        ],
+        "period_years": null,
+        "confidence": 0.8,
+        "amount_value": 31.0,
+        "amount_unit": null,
+        "amount_inr_estimate": 31,
+        "currency": "INR"
+      },
+      {
+        "type": "minimum_turnover",
+        "text": "OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product during the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old, the average turnover in respect of the completed financial years after the date of constitution shall be taken into account for this criteria.",
+        "page": 3,
+        "heading": "सुलह खंड/Mediation Clause No",
+        "source": "list",
+        "evidence_ids": [
+          "3a6da401-d76b-4eb1-a199-c438fdd80c81"
+        ],
+        "period_years": null,
+        "confidence": 0.8,
+        "amount_value": 31.0,
+        "amount_unit": null,
+        "amount_inr_estimate": 31,
+        "currency": "INR"
+      }
+    ],
+    "net_worth_requirements": [],
+    "contract_value_ratio_rules": [
+      {
+        "type": "contract_value_ratio",
+        "text": "Arbitration Clause: No",
+        "page": 2,
+        "heading": "Table_2",
+        "source": "table",
+        "evidence_ids": [
+          "ef827966-7c4e-4005-9225-5890d9819b96"
+        ],
+        "ratio": null,
+        "confidence": 0.9
+      },
+      {
+        "type": "contract_value_ratio",
+        "text": "The Purchaser may extend this calculated delivery duration up to the original delivery period while exercising the option clause.",
+        "page": 7,
+        "heading": "1. Generic",
+        "source": "paragraph",
+        "evidence_ids": [
+          "f5594a1b-6fcf-42de-897c-b3119363fc86"
+        ],
+        "ratio": null,
+        "confidence": 0.7
+      },
+      {
+        "type": "contract_value_ratio",
+        "text": "For all provisions of the Labour Codes that are pending operationalisation through rules, schemes or notifications, the corresponding provisions of the pre-existing labour enactments (such as The Minimum Wages Act, 1948, The Payment of Wages Act, 1936, The Payment of Bonus Act, 1965, The Equal Remuneration Act, 1976, The Payment of Gratuity Act, 1972, etc. and relevant State Rules) shall continue to remain applicable.",
+        "page": 8,
+        "heading": "अ&वीकरण/Disclaimer",
+        "source": "paragraph",
+        "evidence_ids": [
+          "dd60b8e7-668b-44e4-8365-b6268e2ee33f"
+        ],
+        "ratio": null,
+        "confidence": 0.7
+      },
+      {
+        "type": "contract_value_ratio",
+        "text": "While participating in bid, Bidder has to undertake compliance of this and any false declaration and non-compliance of this would be a ground for immediate termination of the contract and further legal action in accordance with the laws.",
+        "page": 8,
+        "heading": "The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:",
+        "source": "paragraph",
+        "evidence_ids": [
+          "7557ccc2-5e07-4f25-8e14-174042808415"
+        ],
+        "ratio": null,
+        "confidence": 0.7
+      }
+    ],
+    "price_rules": [
+      {
+        "type": "price_evaluation_rule",
+        "text": "This has no relevance or bearing on the price to be quoted by the bidders and is also not going to have any impact on bid participation. Also this is not going to be used as a criteria in determining reasonableness of quoted prices which would be determined by the buyer based on its own assessment of reasonableness and based on competitive prices received in Bid / RA process.",
+        "page": 3,
+        "heading": "सुलह खंड/Mediation Clause No",
+        "source": "paragraph",
+        "evidence_ids": [
+          "e049abcb-ca2f-4417-a770-5e288eed2f15"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "type": "price_evaluation_rule",
+        "text": "Any ATC clause in contravention with GeM GTC Clause 4 (xiii) (h) will be invalid. In case of multiple L1",
+        "page": 7,
+        "heading": "अ&वीकरण/Disclaimer",
+        "source": "paragraph",
+        "evidence_ids": [
+          "d108b9eb-d299-4924-8ac0-aedc69c34f77"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "type": "price_evaluation_rule",
+        "text": "Estimated Bid Value indicated above is being declared solely for the purpose of guidance on EMD amount and for determining the Eligibility Criteria related to Turn Over, Past Performance and Project / Past Experience etc. This has no relevance or bearing on the price to be quoted by the bidders and is also not going to have any impact on bid participation. Also this is not going to be used as a criteria in determining reasonableness of quoted prices which would be determined by the buyer based on its own assessment of reasonableness and based on competitive prices received in Bid / RA process.",
+        "page": 3,
+        "heading": "सुलह खंड/Mediation Clause No",
+        "source": "list",
+        "evidence_ids": [
+          "a49f8df7-daf3-4653-8bc3-08683f3cb6e4"
+        ],
+        "confidence": 0.8
+      }
+    ]
+  },
+  "experience_criteria": {
+    "minimum_years_existence": [],
+    "similar_projects": [
+      {
+        "type": "similar_projects_completed",
+        "text": "Past Performance: 50 %",
+        "page": 2,
+        "heading": "Table_2",
+        "source": "table",
+        "evidence_ids": [
+          "0445dbbe-702b-4ef5-9be5-f91ba1dfa882"
+        ],
+        "min_project_count": null,
+        "period_years": null,
+        "confidence": 0.9,
+        "amount_value": 2.0,
+        "amount_unit": null,
+        "amount_inr_estimate": 2,
+        "currency": "INR"
+      },
+      {
+        "type": "similar_projects_completed",
+        "text": "4. Estimated Bid Value indicated above is being declared solely for the purpose of guidance on EMD amount and for determining the Eligibility Criteria related to Turn Over, Past Performance and Project / Past Experience etc.",
+        "page": 3,
+        "heading": "सुलह खंड/Mediation Clause No",
+        "source": "paragraph",
+        "evidence_ids": [
+          "8365b0fd-ec33-4060-bdb5-7d2b46c465a4"
+        ],
+        "min_project_count": null,
+        "period_years": null,
+        "confidence": 0.7,
+        "amount_value": 4.0,
+        "amount_unit": null,
+        "amount_inr_estimate": 4,
+        "currency": "INR"
+      }
+    ],
+    "project_value_thresholds": [],
+    "geographic_or_sector_experience": [
+      {
+        "type": "geographic_sector_experience",
+        "text": "2. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM of the product offered in the bid {themselves or through reseller(s)} should have regularly, manufactured and supplied same or similar Category Products to any Central / State Govt Organization / PSU for number of Financial years as indicated above in the bid document before the bid opening date.",
+        "page": 3,
+        "heading": "सुलह खंड/Mediation Clause No",
+        "source": "paragraph",
+        "evidence_ids": [
+          "e83bc70f-7171-4f1e-8566-989f3c12db09"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "type": "geographic_sector_experience",
+        "text": "the case may be, shall be permitted in cases where trial / sample are allowed as per approved and published procurement policy of the Buyers’ controlling Ministry / Department / State / Public Sector Enterprises Headquarters.",
+        "page": 7,
+        "heading": "अ&वीकरण/Disclaimer",
+        "source": "paragraph",
+        "evidence_ids": [
+          "8c38f4db-af29-4226-a072-5449bb9827e4"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "type": "geographic_sector_experience",
+        "text": "If there is any violation of trial / sample clause with regard to approved policy of the Buyers’ Ministry / Department / State / Public Sector Enterprises Headquarters, then this is to be determined and redressed by the concerned Buyer Organisation only.",
+        "page": 7,
+        "heading": "अ&वीकरण/Disclaimer",
+        "source": "paragraph",
+        "evidence_ids": [
+          "ec4d3506-2110-4cd2-8382-9d6936d7f37a"
+        ],
+        "confidence": 0.7
+      }
+    ],
+    "key_personnel_requirements": [],
+    "equipment_infrastructure_requirements": []
+  },
+  "legal_and_compliance": {
+    "company_documents": [
+      {
+        "type": "company_document",
+        "text": "Department Name: Department Of Panchayati Raj",
+        "page": 1,
+        "heading": "Table_1",
+        "source": "table",
+        "evidence_ids": [
+          "3c68d66c-14db-4d3a-9c13-39c2cc25111f"
+        ],
+        "document_types": [
+          "pan_card"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "type": "company_document",
+        "text": "Organisation Name: Sangli District Panchayats",
+        "page": 1,
+        "heading": "Table_1",
+        "source": "table",
+        "evidence_ids": [
+          "d3fe092a-5b66-4624-8486-40801f3e3f4f"
+        ],
+        "document_types": [
+          "pan_card"
+        ],
+        "confidence": 0.9
+      },
+      {
+        "type": "company_document",
+        "text": "\u0001वभाग का नाम/Department Name Department Of Panchayati Raj",
+        "page": 1,
+        "heading": "General",
+        "source": "paragraph",
+        "evidence_ids": [
+          "6b3755aa-999e-4759-88cb-edc6596316e0"
+        ],
+        "document_types": [
+          "pan_card"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "type": "company_document",
+        "text": "संगठन का नाम/Organisation Name Sangli District Panchayats",
+        "page": 1,
+        "heading": "General",
+        "source": "paragraph",
+        "evidence_ids": [
+          "fc771a6c-5891-43df-9866-85f3e2aa8ade"
+        ],
+        "document_types": [
+          "pan_card"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "type": "company_document",
+        "text": "Where ever RCM is applicable, sellers (Regular GST registered seller who opted out of FCM , unregistered seller, seller registered under composition scheme)will be forced to put Zero GST and GST cess in their bids.",
+        "page": 3,
+        "heading": "सुलह खंड/Mediation Clause No",
+        "source": "paragraph",
+        "evidence_ids": [
+          "83b1c879-75a9-4de8-8bad-57672eeb57e7"
+        ],
+        "document_types": [],
+        "confidence": 0.7
+      },
+      {
+        "type": "company_document",
+        "text": "Buyer will have liability of paying the GST and GST cess to the government on the specified rate mentioned by them in this Bid.",
+        "page": 3,
+        "heading": "सुलह खंड/Mediation Clause No",
+        "source": "paragraph",
+        "evidence_ids": [
+          "00957288-a64a-4401-a4f8-d3e7330b8416"
+        ],
+        "document_types": [],
+        "confidence": 0.7
+      },
+      {
+        "type": "company_document",
+        "text": "आरसीएम/R",
+        "page": 6,
+        "heading": "कर :े=डट /ITC on GST Cess",
+        "source": "paragraph",
+        "evidence_ids": [
+          "072c8052-f3b3-4fee-a662-0af3eeeccc30"
+        ],
+        "document_types": [],
+        "confidence": 0.7
+      },
+      {
+        "type": "company_document",
+        "text": "जीएसट\u0013/GST as",
+        "page": 6,
+        "heading": "CM Applicabl",
+        "source": "paragraph",
+        "evidence_ids": [
+          "0d67cf40-3206-400f-a5ee-e84c4e1be5cc"
+        ],
+        "document_types": [],
+        "confidence": 0.7
+      },
+      {
+        "type": "company_document",
+        "text": "जीएसट\u0013 उपकार 1 /GST Cess 1 as per RCM",
+        "page": 6,
+        "heading": "per RCM",
+        "source": "paragraph",
+        "evidence_ids": [
+          "27eb4462-9e23-421e-be6a-8f02fc27856d"
+        ],
+        "document_types": [],
+        "confidence": 0.7
+      },
+      {
+        "type": "company_document",
+        "text": "bidders against a service bid, the buyer shall place the Contract by selection of a bidder amongst the L-1 bidders through a Random Algorithm executed by GeM system.",
+        "page": 7,
+        "heading": "अ&वीकरण/Disclaimer",
+        "source": "paragraph",
+        "evidence_ids": [
+          "3796878b-4d64-4d2c-ab97-b76fb0513b4e"
+        ],
+        "document_types": [],
+        "confidence": 0.7
+      }
+    ],
+    "financial_documents": [],
+    "experience_related_documents": [],
+    "statutory_compliance_certificates": [],
+    "quality_safety_certifications": []
+  },
+  "unmapped_requirements": [
+    {
+      "type": "unmapped",
+      "text": "Bid End Date/Time: 05-05-2026 10:00:00",
+      "page": 1,
+      "heading": "Table_1",
+      "source": "table",
+      "evidence_ids": [
+        "91d9fc54-5fe9-4100-b870-af02d0a6d62f"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "unmapped",
+      "text": "Bid Opening Date/Time: 05-05-2026 10:30:00",
+      "page": 1,
+      "heading": "Table_1",
+      "source": "table",
+      "evidence_ids": [
+        "db8dce0d-9d35-4045-b5c8-9aeee12cf5f2"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "unmapped",
+      "text": "(( ) )/Bid Offer Validity (From End Date): 30 (Days)",
+      "page": 1,
+      "heading": "Table_1",
+      "source": "table",
+      "evidence_ids": [
+        "fa375052-4dec-4350-957a-8084c82e2ddf"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "unmapped",
+      "text": "Ministry/State Name: Maharashtra",
+      "page": 1,
+      "heading": "Table_1",
+      "source": "table",
+      "evidence_ids": [
+        "c6b9c823-e496-48d1-9a39-0303e669336e"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "unmapped",
+      "text": "Office Name: Gpdighanchiatpadi",
+      "page": 1,
+      "heading": "Table_1",
+      "source": "table",
+      "evidence_ids": [
+        "e712db21-0a9b-4f49-abbd-51d13fad6d7f"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "unmapped",
+      "text": "/ / Years of Past Experience Required for same/similar service: 3 Year (s)",
+      "page": 1,
+      "heading": "Table_1",
+      "source": "table",
+      "evidence_ids": [
+        "72bad5bc-101a-4baa-8485-1fb04c0df3d4"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "unmapped",
+      "text": "?? /Do you want to show documents uploaded by bidders to all bidders participated in bid?: Yes (Documents submitted as part of a clarification or representation during the tender/bid process will also be displayed to other participated bidders after log in)",
+      "page": 2,
+      "heading": "Table_2",
+      "source": "table",
+      "evidence_ids": [
+        "5e30f71c-d2f8-41ea-bce4-2777503a3514"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "unmapped",
+      "text": "Minimum number of bids required to disable automatic bid extension: 3",
+      "page": 2,
+      "heading": "Table_2",
+      "source": "table",
+      "evidence_ids": [
+        "b95698a0-4e94-404d-89f4-e3e21157b566"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "unmapped",
+      "text": "Number of days for which Bid would be auto--extended: 3",
+      "page": 2,
+      "heading": "Table_2",
+      "source": "table",
+      "evidence_ids": [
+        "1f1d8d7f-366e-4431-a709-62532a745f31"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "unmapped",
+      "text": "Number of Auto Extension count: 3",
+      "page": 2,
+      "heading": "Table_2",
+      "source": "table",
+      "evidence_ids": [
+        "e72bedb8-b423-4b0d-be5d-da886ecb6862"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "unmapped",
+      "text": "Bid to RA enabled: No",
+      "page": 2,
+      "heading": "Table_2",
+      "source": "table",
+      "evidence_ids": [
+        "481715f2-be04-43d2-923a-fb1881fe01e2"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "unmapped",
+      "text": "RCM Applicable: Yes",
+      "page": 2,
+      "heading": "Table_2",
+      "source": "table",
+      "evidence_ids": [
+        "f0d543f5-0ca2-4ad6-811a-8455be5f2134"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "unmapped",
+      "text": "Type of Bid: Two Packet Bid",
+      "page": 2,
+      "heading": "Table_2",
+      "source": "table",
+      "evidence_ids": [
+        "0fe15ef4-f2fa-4ae1-a723-59bbb122a089"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "unmapped",
+      "text": "Agencies pre-registered with GeM): No",
+      "page": 2,
+      "heading": "Table_2",
+      "source": "table",
+      "evidence_ids": [
+        "e11ec559-1171-4898-86b1-68ca6d64eb39"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "unmapped",
+      "text": "Evaluation Method: Total value wise evaluation",
+      "page": 2,
+      "heading": "Table_2",
+      "source": "table",
+      "evidence_ids": [
+        "0380cad9-f907-4070-a98d-70905fd7b0c3"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "unmapped",
+      "text": "Mediation Clause: No",
+      "page": 2,
+      "heading": "Table_2",
+      "source": "table",
+      "evidence_ids": [
+        "2cddbfc6-19cd-4319-a23a-9f909c94b560"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "unmapped",
+      "text": "Required: No",
+      "page": 2,
+      "heading": "Table_3",
+      "source": "table",
+      "evidence_ids": [
+        "4d388467-e0d8-4624-a3c0-c0d54492771e"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "unmapped",
+      "text": "MSE Purchase Preference: No",
+      "page": 3,
+      "heading": "Table_5",
+      "source": "table",
+      "evidence_ids": [
+        "7ba76ced-50a7-4343-8600-1759c50d5e2b"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "unmapped",
+      "text": "MII Purchase Preference: No",
+      "page": 3,
+      "heading": "Table_6",
+      "source": "table",
+      "evidence_ids": [
+        "21a98bbf-f805-4339-8306-58ac0003d640"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "unmapped",
+      "text": "Performance Parameter: Type of Solar Pumping System",
+      "page": 4,
+      "heading": "Table_7",
+      "source": "table",
+      "evidence_ids": [
+        "53d3d295-e4c9-4279-ac2a-8b6c06895d79"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "unmapped",
+      "text": "1: Umesh Krishna Navale",
+      "page": 6,
+      "heading": "Table_12",
+      "source": "table",
+      "evidence_ids": [
+        "4d9c48cb-329e-4f3c-8422-de02d3558480"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "type": "unmapped",
+      "text": "\u0001बड \u0001ववरण/Bid Details",
+      "page": 1,
+      "heading": "General",
+      "source": "paragraph",
+      "evidence_ids": [
+        "ed565a78-0b39-465c-9b31-a18ebe83f5cc"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "\u0001बड बंद होने क\u0010 तार\u0013ख/समय /Bid",
+      "page": 1,
+      "heading": "General",
+      "source": "paragraph",
+      "evidence_ids": [
+        "6c20b20f-b6f0-40da-8e5d-d130231495a5"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "End Date/Time 05-05-2026 10:00:00",
+      "page": 1,
+      "heading": "General",
+      "source": "paragraph",
+      "evidence_ids": [
+        "65b5b3da-73ba-4fc9-9f4a-87896b96e6db"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "\u0001बड खुलने क\u0010 तार\u0013ख/समय /Bid Opening Date/Time",
+      "page": 1,
+      "heading": "General",
+      "source": "paragraph",
+      "evidence_ids": [
+        "fbece809-471a-4835-acfc-047886efb197"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "\u0001बड पेशकश वैधता (बंद होने क\u0010 तार\u0013ख से)/Bid Offer Validity (From End Date)",
+      "page": 1,
+      "heading": "General",
+      "source": "paragraph",
+      "evidence_ids": [
+        "22fd46a4-9705-42ec-90be-34c2e8bae3df"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "30 (Days)",
+      "page": 1,
+      "heading": "General",
+      "source": "paragraph",
+      "evidence_ids": [
+        "d43145c6-da08-41bf-8e47-efcf228a6dad"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "मं ालय/रा!य का नाम/Ministry/State Name Maharashtra",
+      "page": 1,
+      "heading": "General",
+      "source": "paragraph",
+      "evidence_ids": [
+        "634b4477-1aa7-4457-8e7d-1989bf496c5a"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "काया%लय का नाम/Office Name Gpdighanchiatpadi",
+      "page": 1,
+      "heading": "General",
+      "source": "paragraph",
+      "evidence_ids": [
+        "6e0f3188-582d-48e6-a9b2-b732dd63d85c"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "3 Year (s)",
+      "page": 1,
+      "heading": "वष%/Years of Past Experience Required for same/similar service",
+      "source": "paragraph",
+      "evidence_ids": [
+        "0dc05a57-91ed-47de-9795-8b5601c21662"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "&टाट%अप के िलए अनुभव के वष0 और टन%ओवर से छूट 9दान क\u0010 गई है",
+      "page": 1,
+      "heading": "वष%/Years of Past Experience Required for same/similar service",
+      "source": "paragraph",
+      "evidence_ids": [
+        "167fdc35-9f91-4bfd-9e17-0bf66c41aab8"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "/Startup",
+      "page": 1,
+      "heading": "वष%/Years of Past Experience Required for same/similar service",
+      "source": "paragraph",
+      "evidence_ids": [
+        "8dc88ecd-5556-4f4f-8688-1c4598442293"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "\u0001व:ेता से मांगे गए द&तावेज़/Document required from seller",
+      "page": 1,
+      "heading": "वष%/Years of Past Experience Required for same/similar service",
+      "source": "paragraph",
+      "evidence_ids": [
+        "4358b9e6-1750-41a6-a0f6-17aa7db702da"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "\u0001बड सं<या/Bid Number: GEM/2026/B/7475677",
+      "page": 1,
+      "heading": "वष%/Years of Past Experience Required for same/similar service",
+      "source": "paragraph",
+      "evidence_ids": [
+        "4d27fb4a-740b-4c26-bac4-08703efb94e1"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "=दनांक /Dated: 25-04-2026",
+      "page": 1,
+      "heading": "वष%/Years of Past Experience Required for same/similar service",
+      "source": "paragraph",
+      "evidence_ids": [
+        "d28d69a6-46d1-4c33-97a4-c6716422b2cc"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "\u0001बड द&तावेज़ / Bid Document",
+      "page": 1,
+      "heading": "वष%/Years of Past Experience Required for same/similar service",
+      "source": "paragraph",
+      "evidence_ids": [
+        "a26f7c4e-8f3d-4c8c-b900-08db80693c11"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "Eया आप िन\u0001वदाकारG Hारा अपलोड =कए गए द&तावेज़G को",
+      "page": 2,
+      "heading": "वष%/Years of Past Experience Required for same/similar service",
+      "source": "paragraph",
+      "evidence_ids": [
+        "4f4992bb-89a4-426f-8407-5c5ccfcad648"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "िन\u0001वदा मI भाग लेने वाले सभी िन\u0001वदाकारG को =दखाना",
+      "page": 2,
+      "heading": "वष%/Years of Past Experience Required for same/similar service",
+      "source": "paragraph",
+      "evidence_ids": [
+        "fc68d203-e1b6-4147-951e-2d58d71a7807"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "Yes (Documents submitted as part of a clarification or representation during the tender/bid process will also be displayed to other participated bidders after log in)",
+      "page": 2,
+      "heading": "चाहते हK? संदभ% मेनू है/Do you want to show documents uploaded by bidders to all bidders participated in bid?",
+      "source": "paragraph",
+      "evidence_ids": [
+        "8e050304-27f5-47cd-b334-0783470e80e3"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "\u0001बड लगाने क\u0010 समय सीमा &वतः नह\u0013ं बढ़ाने के िलए",
+      "page": 2,
+      "heading": "चाहते हK? संदभ% मेनू है/Do you want to show documents uploaded by bidders to all bidders participated in bid?",
+      "source": "paragraph",
+      "evidence_ids": [
+        "ca063b58-eb49-41d2-9544-86873d8ecf6c"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "=दनG क\u0010 सं<या, 5जनके िलए \u0001बड लगाने क\u0010 समय-सीमा",
+      "page": 2,
+      "heading": "आवOयक \u0001बड क\u0010 सं<या। / Minimum number of bids required to disable automatic bid extension",
+      "source": "paragraph",
+      "evidence_ids": [
+        "e2eb997b-b290-4ca2-b5eb-35efb0e5a075"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "ऑटो एEसटIशन अिधकतम =कतनी बार",
+      "page": 2,
+      "heading": "would be auto-extended",
+      "source": "paragraph",
+      "evidence_ids": [
+        "173fa4e8-49b6-4b28-a05c-0dd598fbcf2b"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "=कया जाना है। /",
+      "page": 2,
+      "heading": "would be auto-extended",
+      "source": "paragraph",
+      "evidence_ids": [
+        "9312ea18-fb3d-41a9-81f2-eff976f7e820"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "\u0001वगत 9दश%न /Past",
+      "page": 2,
+      "heading": "Number of Auto Extension count",
+      "source": "paragraph",
+      "evidence_ids": [
+        "b991cdff-c0ae-4648-aed4-58b6746915a4"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "Performance 50 %",
+      "page": 2,
+      "heading": "Number of Auto Extension count",
+      "source": "paragraph",
+      "evidence_ids": [
+        "69cb52c9-83bb-46c1-acfa-8a083434be7c"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "\u0001बड से Tरवस% नीलामी स=:य =कया/Bid to RA enabled No",
+      "page": 2,
+      "heading": "Number of Auto Extension count",
+      "source": "paragraph",
+      "evidence_ids": [
+        "8dc47bed-2269-4c92-a46b-b3078bc5b195"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "लागू आरसीएम/RCM Applicable",
+      "page": 2,
+      "heading": "Number of Auto Extension count",
+      "source": "paragraph",
+      "evidence_ids": [
+        "5fb0cfa7-53fd-4fea-a0ab-348ef16d8cb0"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "\u0001बड का 9कार/Type of Bid Two Packet Bid",
+      "page": 2,
+      "heading": "Number of Auto Extension count",
+      "source": "paragraph",
+      "evidence_ids": [
+        "f98b8b88-c4a6-4ee1-a733-4e75c9df1918"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "तकनीक\u0010 मूUयांकन के दौरान तकनीक\u0010 &पWीकरण हेतु",
+      "page": 2,
+      "heading": "Number of Auto Extension count",
+      "source": "paragraph",
+      "evidence_ids": [
+        "f1e4f009-55dd-4c51-9567-a214b499b8c4"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "ईएमड\u0013 \u0001ववरण/EMD Detail",
+      "page": 2,
+      "heading": "सुलह खंड/Mediation Clause No",
+      "source": "paragraph",
+      "evidence_ids": [
+        "9d312df9-3e16-4306-ac59-c209d5c5a984"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "आवOयकता/Required No",
+      "page": 2,
+      "heading": "सुलह खंड/Mediation Clause No",
+      "source": "paragraph",
+      "evidence_ids": [
+        "ee9bc6f1-6f6a-43a4-9d49-73d4434b524f"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "ईपीबीजी \u0001ववरण /ePBG Detail",
+      "page": 2,
+      "heading": "सुलह खंड/Mediation Clause No",
+      "source": "paragraph",
+      "evidence_ids": [
+        "23c5f90b-3be8-41ef-b161-6e3cc7a552b4"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "बोली \u0001वभाजन लागू नह\u0013ं",
+      "page": 2,
+      "heading": "सुलह खंड/Mediation Clause No",
+      "source": "paragraph",
+      "evidence_ids": [
+        "1c2b567a-e2d6-440e-a690-9e9f2350f156"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "=कया गया/",
+      "page": 2,
+      "heading": "सुलह खंड/Mediation Clause No",
+      "source": "paragraph",
+      "evidence_ids": [
+        "ba201cdb-819b-46d4-9ec6-77833d31adce"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "Bid splitting not applied.",
+      "page": 2,
+      "heading": "सुलह खंड/Mediation Clause No",
+      "source": "paragraph",
+      "evidence_ids": [
+        "819d8b99-1ec1-46fc-8f56-f74b8e81bee4"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "एमएसई खर\u0013द वर\u0013यता/MSE Purchase Preference",
+      "page": 2,
+      "heading": "सुलह खंड/Mediation Clause No",
+      "source": "paragraph",
+      "evidence_ids": [
+        "6735b2c6-e1b9-45a4-8fa4-eeae94e0fcc4"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "एमआईआई खर\u0013द वर\u0013यता/MII Purchase Preference",
+      "page": 3,
+      "heading": "सुलह खंड/Mediation Clause No",
+      "source": "paragraph",
+      "evidence_ids": [
+        "02c02c96-7341-42f8-8703-21313a909791"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "जीएसट\u0013 क\u0010 धारा 9(3)।/Section 9(3)",
+      "page": 3,
+      "heading": "सुलह खंड/Mediation Clause No",
+      "source": "paragraph",
+      "evidence_ids": [
+        "cc88c0c3-ca7d-4fc6-8310-4d74f9cc0b52"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "जीएसट\u0013 क\u0010 धारा 9(3)। /",
+      "page": 3,
+      "heading": "सुलह खंड/Mediation Clause No",
+      "source": "paragraph",
+      "evidence_ids": [
+        "80ff85ce-8b7a-44a1-8cf8-e11056706b0a"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "Section 9(3)",
+      "page": 3,
+      "heading": "सुलह खंड/Mediation Clause No",
+      "source": "paragraph",
+      "evidence_ids": [
+        "dcc400e4-7a86-4c82-b526-9d55132018d7"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "If the buyer has mentioned MSE purchase preference in ATC then service provider is required to upload necessary documents for MSE purchase preference for verification by the buyer during evaluation.",
+      "page": 3,
+      "heading": "सुलह खंड/Mediation Clause No",
+      "source": "paragraph",
+      "evidence_ids": [
+        "fe6d62d4-2eb0-408e-8d81-4a78aa8d0591"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "Performance Parameter",
+      "page": 4,
+      "heading": "(Allowed Values)",
+      "source": "paragraph",
+      "evidence_ids": [
+        "d3a86925-db3b-4de5-a099-277a4fe8b46f"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "Shallow Well (Surface) Solar Pumping Systems with D.C. Motor /PMSM/SRM, Shallow Well (Surface) Solar Pumping Systems with A.C. Induction Motor,",
+      "page": 4,
+      "heading": "Type of Solar Pumping System",
+      "source": "paragraph",
+      "evidence_ids": [
+        "9321d7ae-25f1-4044-8ac7-7a98b9f34333"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "Solar Deep Well (Submersible) Pumping Systems with D.C. Motor /PMSM/SRM, Solar Deep Well (Submersible) Pumping Systems with A.C. Induction Motor",
+      "page": 4,
+      "heading": "Type of Solar Pumping System",
+      "source": "paragraph",
+      "evidence_ids": [
+        "f66f94bd-01ef-4451-9f53-6d8fcaea3050"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "42000 (from a total head of 30 meters), 42000 (from a total head of 70 meters), 43200 (from a total head of 100 meters), 45000 (from a total head of 70 meters), 45600 (from a total head of 30 meters), 50400 (from a total head of 100 meters), 60750 (from a total head of 100 meters), 63000 (from a total head of 30 meters), 63000 (from a total head of 50 meters), 67200 (from a total head of 70 meters), 68400 (from a total head of 30 meters), 69000 (from a total head of 50 meters), 70875 (from a total head of 100 meters), 72000 (from a total head of 70 meters), 75375 (from a total head of 150 meters), 81000 (from a total head of 100 meters), 81000 (from a total head of 250 meters), 84375 (from a total head of 150 meters), 89100 (from a total head of 10 meters), 90000 (from a total head of 200 meters), 90000 (from a total head of 250 meters), 90450 (from a total head of 150 meters), 91125 (from a total head of 250 meters), 94500 (from a total head of 70 meters), 94500 (from a total head of 100 meters), 95625 (from a total head of 120 meters), 99000 (from a total head of 10 meters), 99000 (from a total head of 200 meters), 100800 (from a total head of 50 meters), 105000 (from a total head of 30 meters), 101250 (from a total head of 70 meters), 101250 (from a total head of 100 meters), 101250 (from a total head of 150 meters), 101250 (from a total head of 200 meters), 101250 (from a total head of 250",
+      "page": 4,
+      "heading": "Water Output (in Liters per day)",
+      "source": "paragraph",
+      "evidence_ids": [
+        "89afa7dd-7bc8-40e1-8f15-67da42d4f14d"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "meters), 105525 (from a total head of 150 meters), 106875 (from a total head of 120 meters), 110400 (from a total head of 50 meters), 111375 (from a total head of 200 meters), 112500 (from a total head of 200 meters), 114000 (from a total head of 30 meters), 114750 (from a total head of 120 meters), 118125 (from a total head of 100 meters), 118125 (from a total head of 150 meters), 120600 (from a total head of 150 meters), 121500 (from a total head of 100 meters), 123750 (from a total head of 200 meters), 126000 (from a total head of 70 meters), 128250 (from a total head of 120 meters), 132300 (from a total head of 20 meters), 133875 (from a total head of 120 meters), 135000 (from a total head of 70 meters), 135000 (from a total head of 150 meters), 135675 (from a total head of 150 meters), 141750 (from a total head of 50 meters), 141750 (from a total head of 100 meters), 148500 (from a total head of 20 meters), 149625 (from a total head of 120 meters), 150750 (from a total head of 150 meters), 151875 (from a total head of 150 meters), 153000 (from a total head of 120 meters), 155250 (from a total head of 50 meters), 157500 (from a total head of 70 meters), 162000 (from a total head of 100 meters), 165375 (from a total head of 100 meters), 168000 (from a total head of 30 meters), 168750 (from a total head of 70 meters), 168750 (from a total head of 150 meters), 171000 (from a total head of 120 meters), 172125 (from a total head of 120 meters), 178200 (from a total head of 10 meters), 182250 (from a total head of 100 meters), 182400 (from a total head of 30 meters), 189000 (from a total head of 50 meters), 189000 (from a total head of 70 meters), 189000 (from a total head of 100 meters), 191250 (from a total head of 120 meters), 192375 (from a total head of 120 meters), 198000 (from a total head of 10 meters), 202500 (from a total head of 70 meters), 202500 (from a total head of 100 meters), 207000 (from a total head of 50 meters), 212625 (from a total head of 100 meters), 213750 (from a total head of 120 meters), 220500 (from a total head of 70 meters), 235200 (from a total head of 20 meters), 236250 (from a total head of 30 meters), 236250 (from a total head of 50 meters), 236250 (from a total head of 70 meters), 236250 (from a total head of 100 meters), 252000 (from a total head of 70 meters), 256500 (from a total head of 30 meters), 264000 (from a total head of 20 meters), 267300 (from a total head of 10 meters), 270000 (from a total head of 70 meters), 283500 (from a total head of 50 meters), 283500 (from a total head of 70 meters), 297000 (from a total head of 10 meters), 303750 (from a total head of 70 meters), 315000 (from a total head of 30 meters), 315000 (from a total head of 70 meters), 330750 (from a total head of 20 meters), 330750 (from a total head of 50 meters), 337500 (from a total head of 70 meters), 342000 (from a total head of 30 meters), 371250 (from a total head of 20 meters), 378000 (from a total head of 50 meters), 393750 (from a total head of 30 meters), 441000 (from a total head of 20 meters), 425250 (from a total head of 50 meters), 465750 (from a total head of 50 meters), 472500 (from a total head of 30 meters), 472500 (from a total head of 50 meters), 475200 (from a total",
+      "page": 5,
+      "heading": "Water Output (in Liters per day)",
+      "source": "paragraph",
+      "evidence_ids": [
+        "c4106318-576d-4712-b1ac-63530f353ffd"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "\u0001बड के िलए आवOयक अनुमत मूUय /Bid",
+      "page": 5,
+      "heading": "Water Output (in Liters per day)",
+      "source": "paragraph",
+      "evidence_ids": [
+        "e8c7f501-61b5-410d-a0a0-96e6f1a609de"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "Requirement",
+      "page": 5,
+      "heading": "Water Output (in Liters per day)",
+      "source": "paragraph",
+      "evidence_ids": [
+        "efbc1a40-f8dd-4420-8cd4-e0a85ae84867"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "head of 10 meters), 495000 (from a total head of 20 meters), 517500 (from a total head of 50 meters), 528000 (from a total head of 10 meters), 551250 (from a total head of 20 meters), 551250 (from a total head of 30 meters), 630000 (from a total head of 30 meters), 661500 (from a total head of 20 meters ), 668250 (from a total head of 10 meters), 742500 (from a total head of 10 meters), 990000 (from a total head of 10 meters), 1113750 (from a total head of 10 meters), 1237500 (from a total head of 10 meters), 618750 (from a total head of 20 meters), 427500 (from a total head of 30 meters), 258750 (from a total head of 50 meters), 742500 (from a total head of 20 meters), 513000 (from a total head of 30 meters), 310500 (from a total head of 50 meters), 598500 (from a total head of 30 meters), 362250 (from a total head of 50 meters), 684000 (from a total head of 30 meters), 414000 (from a total head of 50 meters)",
+      "page": 6,
+      "heading": "(Allowed Values)",
+      "source": "paragraph",
+      "evidence_ids": [
+        "954b0f61-2ed3-4525-9f15-9719ee2da58d"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "इनपुट कर :े=डट(आईट\u0013सी) तथा",
+      "page": 6,
+      "heading": "(Allowed Values)",
+      "source": "paragraph",
+      "evidence_ids": [
+        "cf4274ab-63a3-4336-b05e-20e47510aa4a"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "Tरवस% 9भार (आरसीएम)/Input Tax Credit(ITC) and Reverse Charge(RCM) Details",
+      "page": 6,
+      "heading": "(Allowed Values)",
+      "source": "paragraph",
+      "evidence_ids": [
+        "2f8112ab-ded0-4e8e-a42a-72519cdb102e"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "जीएसट\u0013 पर",
+      "page": 6,
+      "heading": "(Allowed Values)",
+      "source": "paragraph",
+      "evidence_ids": [
+        "7a66daa8-0936-48ad-a047-d9ca4d8f1297"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "इनपुट कर",
+      "page": 6,
+      "heading": "(Allowed Values)",
+      "source": "paragraph",
+      "evidence_ids": [
+        "5067ed8b-e467-4df4-8c46-eae6ed2cabc9"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": ":े=डट /ITC on",
+      "page": 6,
+      "heading": "(Allowed Values)",
+      "source": "paragraph",
+      "evidence_ids": [
+        "53a04bc1-d0f0-42ad-9b7b-5171a02d6821"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "जीएसट\u0013 उपकर",
+      "page": 6,
+      "heading": "(Allowed Values)",
+      "source": "paragraph",
+      "evidence_ids": [
+        "0de74d4a-d45e-4ff9-9097-3ccfab30e3ae"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "Tरवस% 9भार के",
+      "page": 6,
+      "heading": "CM Applicabl",
+      "source": "paragraph",
+      "evidence_ids": [
+        "dd055bdc-5210-4635-9f83-532c3e1dbbe5"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "Tरवस% 9भार के अनुसार",
+      "page": 6,
+      "heading": "per RCM",
+      "source": "paragraph",
+      "evidence_ids": [
+        "763c6016-0bcf-425d-9c8e-2602048b8581"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "वैक5Uपक Tरवस%",
+      "page": 6,
+      "heading": "as per",
+      "source": "paragraph",
+      "evidence_ids": [
+        "1fc7ca24-12f0-4bb5-9af8-cb745019b0db"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "Yes 18% NA NA",
+      "page": 6,
+      "heading": "9भार /Optional",
+      "source": "paragraph",
+      "evidence_ids": [
+        "65dc48fa-2fbb-4bc7-9420-f0f1901b56e6"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "=डलीवर\u0013 के =दन/Delivery",
+      "page": 6,
+      "heading": "Reporting/Officer",
+      "source": "paragraph",
+      "evidence_ids": [
+        "a2399010-2515-41b3-a1f9-b42e7d7a067f"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "1 Umesh Krishna Navale",
+      "page": 6,
+      "heading": "Reporting/Officer",
+      "source": "paragraph",
+      "evidence_ids": [
+        "4363ca8c-194e-42bc-b787-af201b8b2f32"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "415315,ATP DIGHANCHI TAL ATPADI DIST SANGLI 1 15",
+      "page": 6,
+      "heading": "Reporting/Officer",
+      "source": "paragraph",
+      "evidence_ids": [
+        "2f4662d3-2327-4eca-b7d8-b96cadcc7f5e"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": ":ेता Hारा जोड़\u0013 गई \u0001बड क\u0010 \u0001वशेष शतd/Buyer Added Bid Specific Terms and Conditions",
+      "page": 6,
+      "heading": "Reporting/Officer",
+      "source": "paragraph",
+      "evidence_ids": [
+        "ef8b082b-34d1-4b72-ac83-552a66917bd9"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "OPTION CLAUSE:",
+      "page": 6,
+      "heading": "1. Generic",
+      "source": "paragraph",
+      "evidence_ids": [
+        "1baa0a97-50d6-40ef-a375-6ce7b9582dc0"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "The purchaser also reserves the right to",
+      "page": 6,
+      "heading": "1. Generic",
+      "source": "paragraph",
+      "evidence_ids": [
+        "212f8fb2-5417-4d48-b3c7-70bd9749db4f"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "× Original delivery period (in days), subject to minimum of 30 days.",
+      "page": 7,
+      "heading": "1. Generic",
+      "source": "paragraph",
+      "evidence_ids": [
+        "4cd8584c-a74f-4544-86df-2344c51c5d51"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "If the original delivery period is less than 30 days, the additional time equals the original delivery period.",
+      "page": 7,
+      "heading": "1. Generic",
+      "source": "paragraph",
+      "evidence_ids": [
+        "b847ed5f-42ad-497d-976e-a8dee8e3a635"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "Bidders must comply with these terms.",
+      "page": 7,
+      "heading": "1. Generic",
+      "source": "paragraph",
+      "evidence_ids": [
+        "fd385a51-8206-4e35-b578-725fa6692d75"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "The Additional Terms and Conditions (ATC) have been incorporated by the Buyer after approval of their Competent Authority.",
+      "page": 7,
+      "heading": "अ&वीकरण/Disclaimer",
+      "source": "paragraph",
+      "evidence_ids": [
+        "d611e391-6045-4108-98a5-e8f9aae444ec"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "All representations / grievances pertaining to the ATC clauses shall be raised with the buyer organization directly and not with GeM.If any of the clause(s) is/are incorporated by the Buyer regarding the following, the bid & resultant contract shall be treated as null & void. Further, GeM reserves the right, at its sole discretion, to cancel the bid forthwith, without issuance of any prior notice or intimation :-",
+      "page": 7,
+      "heading": "अ&वीकरण/Disclaimer",
+      "source": "paragraph",
+      "evidence_ids": [
+        "ff39b0b2-3fe1-4a6b-852e-3a43bd5036fc"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "Publishing Custom / BOQ bids for items for which regular GeM categories are available (unless such",
+      "page": 7,
+      "heading": "अ&वीकरण/Disclaimer",
+      "source": "paragraph",
+      "evidence_ids": [
+        "12882003-a29c-4b94-9e64-a1c680d1d18e"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "Custom / BOQ item is bunched with the major regular product Category Item).",
+      "page": 7,
+      "heading": "अ&वीकरण/Disclaimer",
+      "source": "paragraph",
+      "evidence_ids": [
+        "778a2b44-a718-4560-a928-efe7bf9b8af4"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "Single Bid / Proprietary Article Certificate (PAC) Buying.",
+      "page": 7,
+      "heading": "अ&वीकरण/Disclaimer",
+      "source": "paragraph",
+      "evidence_ids": [
+        "e5702636-76d6-438a-91ef-07220691225b"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "Inclusion of disqualification criteria related to suspension of seller / service provider, where such",
+      "page": 7,
+      "heading": "अ&वीकरण/Disclaimer",
+      "source": "paragraph",
+      "evidence_ids": [
+        "61db8a5d-0fe5-4544-8be7-f2a4cd05f113"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "suspension period has already expired.",
+      "page": 7,
+      "heading": "अ&वीकरण/Disclaimer",
+      "source": "paragraph",
+      "evidence_ids": [
+        "7aa50166-56cd-4c4e-b47b-d317bca69385"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "Mandating submission of documents in physical form as a pre-requisite to qualify bidders.",
+      "page": 7,
+      "heading": "अ&वीकरण/Disclaimer",
+      "source": "paragraph",
+      "evidence_ids": [
+        "babcff7d-a9df-4cc2-90ba-39debf95a7e4"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "Publishing bids on GeM for procurement of works.",
+      "page": 7,
+      "heading": "अ&वीकरण/Disclaimer",
+      "source": "paragraph",
+      "evidence_ids": [
+        "cec89e70-5455-4e87-ad9f-2d52524d6a9f"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "Procurement of Goods by creating a Service bid on GeM & vice-versa.",
+      "page": 7,
+      "heading": "अ&वीकरण/Disclaimer",
+      "source": "paragraph",
+      "evidence_ids": [
+        "62906e67-9943-4257-9ed7-4941ab125ba8"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "Seeking sample with bid or approval of samples during bid evaluation process. However, trial / sample, as",
+      "page": 7,
+      "heading": "अ&वीकरण/Disclaimer",
+      "source": "paragraph",
+      "evidence_ids": [
+        "000b8c7b-ebc7-49d6-a45a-e8036b611323"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "Seeking experience from specific organization / department / institute only or from foreign / export",
+      "page": 7,
+      "heading": "अ&वीकरण/Disclaimer",
+      "source": "paragraph",
+      "evidence_ids": [
+        "703530ee-78f1-47b5-b635-e00d4649bb12"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "experience.",
+      "page": 7,
+      "heading": "अ&वीकरण/Disclaimer",
+      "source": "paragraph",
+      "evidence_ids": [
+        "63bb73ae-4d80-4081-a1e8-dd478a95304c"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "Creating bid for items from incorrect categories.",
+      "page": 7,
+      "heading": "अ&वीकरण/Disclaimer",
+      "source": "paragraph",
+      "evidence_ids": [
+        "cb12cbcb-5332-427d-b428-77956b2c704e"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "Reference of conditions published on any external site or reference to external documents/clauses.",
+      "page": 7,
+      "heading": "अ&वीकरण/Disclaimer",
+      "source": "paragraph",
+      "evidence_ids": [
+        "f3f42151-52ef-4cdf-b469-fe549e08dadf"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "Asking for any Tender fee / Bid Participation fee, as the case may be.",
+      "page": 7,
+      "heading": "अ&वीकरण/Disclaimer",
+      "source": "paragraph",
+      "evidence_ids": [
+        "235969f1-38d7-4ebb-84e5-b5bf198181f2"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "Buyer added ATC Clauses which are in contravention of clauses defined in bid detail section, including",
+      "page": 7,
+      "heading": "अ&वीकरण/Disclaimer",
+      "source": "paragraph",
+      "evidence_ids": [
+        "5957d97c-29d0-4f04-8d32-16a009a98e41"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "In a category based bid, adding additional items, through buyer added, additional scope of work/",
+      "page": 7,
+      "heading": "अ&वीकरण/Disclaimer",
+      "source": "paragraph",
+      "evidence_ids": [
+        "68097683-2a01-445c-9b51-6d6c190b9e4f"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "additional terms and conditions/or any other document.",
+      "page": 7,
+      "heading": "अ&वीकरण/Disclaimer",
+      "source": "paragraph",
+      "evidence_ids": [
+        "24e8f88e-620a-4e85-a5d0-8a4db43b5a24"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "If buyer needs more items along with the main item, the same must be added through bunching category based items or by bunching custom catalogues or bunching a BoQ with the main category based item, the same must not be done through ATC or Scope of Work.",
+      "page": 7,
+      "heading": "अ&वीकरण/Disclaimer",
+      "source": "paragraph",
+      "evidence_ids": [
+        "1b3883ba-12f2-45ac-acf6-c42a18d2decc"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "Further, if any seller has any objection/grievance against these additional clauses or otherwise on any aspect of this bid, they can raise their representation against the same by using the Representation window provided in the bid details field in Seller dashboard after logging in as a seller.",
+      "page": 7,
+      "heading": "अ&वीकरण/Disclaimer",
+      "source": "paragraph",
+      "evidence_ids": [
+        "88f8683a-6f74-475a-acd5-7f60ca7ff7b2"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "Buyer is duty bound to reply to all such representations and would not be allowed to open bids if he fails to reply to such representations.",
+      "page": 7,
+      "heading": "अ&वीकरण/Disclaimer",
+      "source": "paragraph",
+      "evidence_ids": [
+        "f79b13f2-612e-4cc0-bb67-ec95e1bfcf40"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "All GeM Sellers/Service Providers shall ensure full compliance with all applicable labour laws, including the provisions, rules, schemes and guidelines under the four Labour Codes i.e. the Code on Wages, 2019; the Industrial Relations Code, 2020; the Occupational Safety, Health and Working Conditions Code, 2020; and the Code on Social Security, 2020 as and when notified and brought into force by the Government of India.",
+      "page": 8,
+      "heading": "अ&वीकरण/Disclaimer",
+      "source": "paragraph",
+      "evidence_ids": [
+        "9850ce87-b485-4c03-a829-982e148d9b0c"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "All notified and enforceable provisions of the new Labour Codes as mentioned hereinabove; and All operative provisions of the erstwhile Labour Laws until their complete substitution.",
+      "page": 8,
+      "heading": "The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:",
+      "source": "paragraph",
+      "evidence_ids": [
+        "25a7260a-411f-4175-b367-e4009720cf87"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "All obligations relating to wages, social security, safety, working conditions, industrial relations etc. and any other statutory requirements shall be strictly met by the Seller/ Service Provider.",
+      "page": 8,
+      "heading": "The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:",
+      "source": "paragraph",
+      "evidence_ids": [
+        "b713cce3-4ea9-4dce-8048-aaf9cbd80b77"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "Any non- compliance shall constitute a breach of the contract and shall entitle the Buyer to take appropriate action in accordance with the contract and applicable law.",
+      "page": 8,
+      "heading": "The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:",
+      "source": "paragraph",
+      "evidence_ids": [
+        "0e5df1c6-508e-41e6-bab3-c0150144ad72"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "This Bid is governed by the General Terms and Conditions, conditions stipulated in Bid and Service Level Agreement specific to the Service, as the case may be, as provided in the Marketplace.",
+      "page": 8,
+      "heading": "The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:",
+      "source": "paragraph",
+      "evidence_ids": [
+        "49adaaaa-6ee7-4e1f-affb-bfebbc02e65b"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "However, in case of Service, if any condition specified in General Terms and Conditions is contradicted by the conditions stipulated in Service Level Agreement specific to said Service, then it will over-ride the conditions in the General Terms and Conditions.",
+      "page": 8,
+      "heading": "The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:",
+      "source": "paragraph",
+      "evidence_ids": [
+        "1c9a974c-0f3f-4c71-a78d-c2af16246bd6"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "यह \u0001बड सामा)य शत0 के अंतग%त भी शािसत है /This Bid is also governed by the General Terms and Conditions",
+      "page": 8,
+      "heading": "The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:",
+      "source": "paragraph",
+      "evidence_ids": [
+        "0891dd9a-1466-4498-8a24-0857e8142f66"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "जेम क\u0010 सामा)य शत0 के खंड 26 के संदभ% मI भारत के साथ भूिम सीमा साझा करने वाले देश के \u0001बडर से खर\u0013द पर 9ितबंध के संबंध म",
+      "page": 8,
+      "heading": "The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:",
+      "source": "paragraph",
+      "evidence_ids": [
+        "91a7e4d7-8279-4907-aa22-64bf88e416d2"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "भारत के साथ भूिम सीमा साझा करने वाले देश का कोई भी \u0001बडर इस िन\u0001वदा मI \u0001बड देने के िलए तभी पा होगा जब वह \u0001बड देने वाला",
+      "page": 8,
+      "heading": "The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:",
+      "source": "paragraph",
+      "evidence_ids": [
+        "c1f5e669-cd0d-4850-9ea6-7c77fafda003"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "स6म 9ािधकार\u0013 के पास पंजीकृत हो।\u0001बड मI भाग लेते समय \u0001बडर को इसका अनुपालन करना होगा और कोई भी गलत घोषणा =कए जाने",
+      "page": 8,
+      "heading": "The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:",
+      "source": "paragraph",
+      "evidence_ids": [
+        "679c068b-2a47-4c85-9b11-fe06c9040220"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "व इसका अनुपालन न करने पर अनुबंध को तgकाल समाh करने और कानून के अनुसार आगे",
+      "page": 8,
+      "heading": "The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:",
+      "source": "paragraph",
+      "evidence_ids": [
+        "28ec6d5d-538a-4928-acf7-62e043d5ca06"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "क\u0010 कानूनी कार%वाई का आधार होगा।/In terms",
+      "page": 8,
+      "heading": "The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:",
+      "source": "paragraph",
+      "evidence_ids": [
+        "4e46fcda-f13d-42e1-a7e1-39fb28df2ee1"
+      ],
+      "confidence": 0.7
+    },
+    {
+      "type": "unmapped",
+      "text": "of GeM GTC clause 26 regarding Restrictions on procurement from a bidder of a country which shares a land border with India, any bidder from a country which shares a land border with India will be eligible to bid in this tender only if the bidder is registered with the Competent Authority.",
+      "page": 8,
+      "heading": "The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:",
+      "source": "paragraph",
+      "evidence_ids": [
+        "fc003d85-b102-464c-8fef-e440f3dfdeb3"
+      ],
+      "confidence": 0.7
+    }
+  ],
+  "pdf_path": ".\\GeM-Bidding-9257724.pdf",
+  "evidence_pool_path": ".\\evidence_pool.json"
+}
