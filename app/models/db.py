@@ -20,6 +20,7 @@ def init_db() -> Database:
     _client = MongoClient(settings.mongodb_uri, server_api=ServerApi("1"))
     _client.admin.command("ping")
     _db = _client[settings.mongodb_db]
+    _db.users.create_index("username", unique=True)
     return _db
 
 

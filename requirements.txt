@@ -13,3 +13,7 @@ groq
 python-dotenv
 
 sentence-transformers
+bcrypt
+PyJWT
+openai
+openpyxl

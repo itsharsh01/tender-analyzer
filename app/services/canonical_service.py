@@ -20,7 +20,7 @@ import json
 import logging
 from typing import Any
 
-from app.utils.groq_llm import _split_into_batches, _call_llm
+from app.utils.groq_llm import _chat_completion_with_fallback, _split_into_batches, _strip_markdown_fences
 
 logger = logging.getLogger(__name__)
 
@@ -252,29 +252,14 @@ def _call_llm_canonical(batch: list[dict[str, Any]]) -> list[dict[str, Any]]:
     Make a single LLM call for a batch of evidence summaries
     using the classification system prompt.
     """
-    from app.utils.groq_llm import _build_client
-    from app.utils.settings import settings
-
     payload = json.dumps(batch, ensure_ascii=False, indent=2)
     user_message = f"Classify this evidence batch:\n{payload}"
-
-    client = _build_client()
-    response = client.chat.completions.create(
-        model=settings.groq_model,
-        messages=[
-            {"role": "system", "content": _CANONICAL_SYSTEM_PROMPT},
-            {"role": "user", "content": user_message},
-        ],
+    raw = _chat_completion_with_fallback(
+        system_prompt=_CANONICAL_SYSTEM_PROMPT,
+        user_message=user_message,
         temperature=0.0,
     )
-    raw = (response.choices[0].message.content or "").strip()
-
-    # Strip markdown fences
-    if raw.startswith("```"):
-        raw = raw.split("```", 2)[-1] if raw.count("```") >= 2 else raw
-        if raw.startswith("json"):
-            raw = raw[4:]
-        raw = raw.rstrip("`").strip()
+    raw = _strip_markdown_fences(raw)
 
     parsed = json.loads(raw)
     if not isinstance(parsed, list):

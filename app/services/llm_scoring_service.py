@@ -13,8 +13,7 @@ import logging
 import time
 from typing import Any
 
-from app.utils.groq_llm import _build_client, _split_into_batches
-from app.utils.settings import settings
+from app.utils.groq_llm import _chat_completion_with_fallback, _strip_markdown_fences
 
 logger = logging.getLogger(__name__)
 
@@ -111,23 +110,12 @@ def _score_single_category(
 
     user_message = f"Score this category:\n{payload}"
 
-    client = _build_client()
-    response = client.chat.completions.create(
-        model=settings.groq_model,
-        messages=[
-            {"role": "system", "content": _LLM_SCORING_PROMPT},
-            {"role": "user", "content": user_message},
-        ],
+    raw = _chat_completion_with_fallback(
+        system_prompt=_LLM_SCORING_PROMPT,
+        user_message=user_message,
         temperature=0.0,
     )
-    raw = (response.choices[0].message.content or "").strip()
-
-    # Strip markdown fences
-    if raw.startswith("```"):
-        raw = raw.split("```", 2)[-1] if raw.count("```") >= 2 else raw
-        if raw.startswith("json"):
-            raw = raw[4:]
-        raw = raw.rstrip("`").strip()
+    raw = _strip_markdown_fences(raw)
 
     parsed = json.loads(raw)
     score = float(parsed.get("score", 0.5))

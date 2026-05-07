@@ -15,6 +15,7 @@ import logging
 from typing import Any
 
 from groq import Groq
+from openai import OpenAI
 
 from app.utils.settings import settings
 
@@ -97,6 +98,92 @@ def _build_client() -> Groq:
     return Groq(api_key=settings.groq_api_key)
 
 
+def _build_openrouter_client() -> OpenAI:
+    if not settings.openrouter_api_key:
+        raise RuntimeError("OPENROUTER_API_KEY is not set in environment.")
+    return OpenAI(
+        api_key=settings.openrouter_api_key,
+        base_url=settings.openrouter_base_url,
+    )
+
+
+def _is_groq_rate_limit_error(exc: Exception) -> bool:
+    text = str(exc).lower()
+    return any(
+        token in text
+        for token in (
+            "429",
+            "rate limit",
+            "rate_limit",
+            "tokens per day",
+            "tpm",
+            "quota",
+            "limit reached",
+            "rate_limit_exceeded",
+        )
+    )
+
+
+def _strip_markdown_fences(raw: str) -> str:
+    raw = (raw or "").strip()
+    if raw.startswith("```"):
+        raw = raw.split("```", 2)[-1] if raw.count("```") >= 2 else raw
+        if raw.startswith("json"):
+            raw = raw[4:]
+        raw = raw.rstrip("`").strip()
+    return raw
+
+
+def _chat_completion_with_fallback(
+    *,
+    system_prompt: str,
+    user_message: str,
+    temperature: float = 0.0,
+    response_format: str = "text",
+) -> str:
+    """
+    Primary: Groq.
+    Fallback: OpenRouter (only when Groq fails due to rate-limit/quota).
+    """
+    try:
+        groq_client = _build_client()
+        response = groq_client.chat.completions.create(
+            model=settings.groq_model,
+            messages=[
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_message},
+            ],
+            temperature=temperature,
+        )
+        return (response.choices[0].message.content or "").strip()
+    except Exception as exc:
+        if not _is_groq_rate_limit_error(exc):
+            raise
+        if not settings.openrouter_api_key:
+            logger.warning(
+                "Groq rate-limited but OPENROUTER_API_KEY is not configured. "
+                "Cannot fallback."
+            )
+            raise
+
+        logger.warning("Groq rate-limited; falling back to OpenRouter.")
+        openrouter_client = _build_openrouter_client()
+        extra_headers = {
+            "HTTP-Referer": settings.openrouter_site_url,
+            "X-Title": settings.openrouter_app_name,
+        }
+        response = openrouter_client.chat.completions.create(
+            model=settings.openrouter_model,
+            messages=[
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_message},
+            ],
+            temperature=temperature,
+            extra_headers=extra_headers,
+        )
+        return (response.choices[0].message.content or "").strip()
+
+
 # Rough character budget per batch to stay well under the 12 000 TPM limit.
 # System prompt is ~900 tokens; leave ~2 500 tokens for the user payload
 # (~10 chars/token on average → ~25 000 chars, but we keep it conservative).
@@ -112,23 +199,12 @@ def _call_llm(category_name: str, items: list[dict[str, Any]]) -> list[dict[str,
     )
     user_message = f"Now process this category:\n{payload}"
 
-    client = _build_client()
-    response = client.chat.completions.create(
-        model=settings.groq_model,
-        messages=[
-            {"role": "system", "content": _SYSTEM_PROMPT},
-            {"role": "user", "content": user_message},
-        ],
+    raw = _chat_completion_with_fallback(
+        system_prompt=_SYSTEM_PROMPT,
+        user_message=user_message,
         temperature=0.0,
     )
-    raw = (response.choices[0].message.content or "").strip()
-
-    # Strip accidental markdown fences
-    if raw.startswith("```"):
-        raw = raw.split("```", 2)[-1] if raw.count("```") >= 2 else raw
-        if raw.startswith("json"):
-            raw = raw[4:]
-        raw = raw.rstrip("`").strip()
+    raw = _strip_markdown_fences(raw)
 
     parsed: list[dict[str, Any]] = json.loads(raw)
     if not isinstance(parsed, list):

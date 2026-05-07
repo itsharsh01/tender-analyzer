@@ -6,15 +6,20 @@ from fastapi import FastAPI, Request
 from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
 from starlette.middleware.base import BaseHTTPMiddleware
+import jwt
 
 from app.api.routes.canonical import router as canonical_router
+from app.api.routes.chatbot import router as chatbot_router
 from app.api.routes.evidence import router as evidence_router
+from app.api.routes.auth import router as auth_router
 from app.api.routes.health import router as health_router
 from app.api.routes.ingest import router as ingest_router
 from app.api.routes.search import router as search_router
 from app.api.routes.submission import router as submission_router
 from app.api.routes.tender_status import router as tender_status_router
+from app.api.routes.tenders import router as tenders_router
 from app.models.db import init_db
+from app.utils.jwt import verify_access_token
 from app.utils.settings import settings
 
 logger = logging.getLogger(__name__)
@@ -45,6 +50,50 @@ class TimeoutMiddleware(BaseHTTPMiddleware):
             )
 
 
+class JWTAuthMiddleware(BaseHTTPMiddleware):
+    """
+    Enforces Bearer JWT auth for protected routes.
+    Public routes are intentionally minimal.
+    """
+
+    def __init__(self, app):
+        super().__init__(app)
+        self.public_prefixes = (
+            "/docs",
+            "/openapi.json",
+            "/redoc",
+            "/health",
+            "/auth/register",
+            "/auth/login",
+            "/auth/approve",
+        )
+
+    async def dispatch(self, request: Request, call_next):
+        path = request.url.path
+        if request.method == "OPTIONS" or path.startswith(self.public_prefixes):
+            return await call_next(request)
+
+        auth = request.headers.get("Authorization", "")
+        if not auth.startswith("Bearer "):
+            return JSONResponse(status_code=401, content={"detail": "Missing bearer token."})
+
+        token = auth.split(" ", 1)[1].strip()
+        if not token:
+            return JSONResponse(status_code=401, content={"detail": "Missing bearer token."})
+
+        try:
+            payload = verify_access_token(token)
+            request.state.user = payload.get("sub")
+        except jwt.ExpiredSignatureError:
+            return JSONResponse(status_code=401, content={"detail": "Token expired."})
+        except jwt.InvalidTokenError:
+            return JSONResponse(status_code=401, content={"detail": "Invalid token."})
+        except RuntimeError as exc:
+            return JSONResponse(status_code=500, content={"detail": str(exc)})
+
+        return await call_next(request)
+
+
 # ── App setup ─────────────────────────────────────────────────────────────────
 
 app = FastAPI(title=settings.app_name)
@@ -57,6 +106,9 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+# JWT middleware before timeout so unauthorized requests fail fast.
+app.add_middleware(JWTAuthMiddleware)
+
 # Add timeout middleware FIRST (outermost layer)
 app.add_middleware(TimeoutMiddleware, timeout_seconds=settings.request_timeout_seconds)
 
@@ -68,9 +120,12 @@ def startup() -> None:
 
 
 app.include_router(health_router)
+app.include_router(auth_router)
 app.include_router(ingest_router)
 app.include_router(tender_status_router)
+app.include_router(tenders_router)
 app.include_router(evidence_router)
 app.include_router(canonical_router)
 app.include_router(search_router)
 app.include_router(submission_router)
+app.include_router(chatbot_router)
