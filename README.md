@@ -10,6 +10,13 @@ This project is a FastAPI backend for:
 
 ---
 
+## Frontend Repository
+
+- Frontend repo: [https://github.com/itsharsh01/tender-ui](https://github.com/itsharsh01/tender-ui)
+- Frontend README: [https://github.com/itsharsh01/tender-ui/blob/main/README.md](https://github.com/itsharsh01/tender-ui/blob/main/README.md)
+
+---
+
 ## 1) Prerequisites
 
 - Python 3.11+ (project also runs on newer versions)
