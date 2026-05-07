@@ -26,7 +26,7 @@ from fastapi import UploadFile
 from app.parsers import pipeline as parser_pipeline
 from app.parsers.evidence_merger import merge_evidence_pool
 from app.models.db import get_db
-from app.services.embedding_service import build_semantic_embeddings, build_tfidf_index
+from app.services.embedding_service import build_semantic_embeddings
 from app.utils.settings import settings
 
 logger = logging.getLogger(__name__)
@@ -165,20 +165,18 @@ async def ingest_pdf(file: UploadFile) -> dict[str, Any]:
         canonical = _build_and_save_canonical(tender_id, evidence_docs, now)
         _set_status(tender_id, "LLM_NORMALIZED")
 
-        # ── Step 5: Embeddings / TF-IDF ──────────────────────────────────────
+        # ── Step 5: Embeddings ───────────────────────────────────────────────
         _set_status(tender_id, "INDEXING")
-        tfidf_index = build_tfidf_index(evidence_docs)
-        embeddings = build_semantic_embeddings(evidence_docs)
+        
+        # Build embeddings purely from the classified canonical dictionary
+        embeddings = build_semantic_embeddings(canonical)
+        
         db = get_db()
         for emb in embeddings:
             emb["tender_id"] = tender_id
+            
         if embeddings:
             db.embeddings.insert_many(embeddings)
-        db.tfidf_indexes.update_one(
-            {"tender_id": tender_id},
-            {"$set": {"tender_id": tender_id, "index": tfidf_index, "created_at": now}},
-            upsert=True,
-        )
 
         # ── Final: Ready ──────────────────────────────────────────────────────
         _set_status(tender_id, "READY_FOR_SUBMISSIONS")
@@ -190,7 +188,6 @@ async def ingest_pdf(file: UploadFile) -> dict[str, Any]:
             "evidence_count": len(evidence_docs),
             "canonical_criteria": canonical.get("total_classified", 0),
             "embeddings_count": len(embeddings),
-            "tfidf_shape": tfidf_index.get("matrix_shape", [0, 0]),
         }
 
     except Exception as exc:

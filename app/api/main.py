@@ -4,6 +4,7 @@ from pathlib import Path
 
 from fastapi import FastAPI, Request
 from fastapi.responses import JSONResponse
+from fastapi.middleware.cors import CORSMiddleware
 from starlette.middleware.base import BaseHTTPMiddleware
 
 from app.api.routes.canonical import router as canonical_router
@@ -11,6 +12,7 @@ from app.api.routes.evidence import router as evidence_router
 from app.api.routes.health import router as health_router
 from app.api.routes.ingest import router as ingest_router
 from app.api.routes.search import router as search_router
+from app.api.routes.submission import router as submission_router
 from app.api.routes.tender_status import router as tender_status_router
 from app.models.db import init_db
 from app.utils.settings import settings
@@ -47,6 +49,14 @@ class TimeoutMiddleware(BaseHTTPMiddleware):
 
 app = FastAPI(title=settings.app_name)
 
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=settings.cors_origins,
+    allow_credentials=False,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 # Add timeout middleware FIRST (outermost layer)
 app.add_middleware(TimeoutMiddleware, timeout_seconds=settings.request_timeout_seconds)
 
@@ -63,3 +73,4 @@ app.include_router(tender_status_router)
 app.include_router(evidence_router)
 app.include_router(canonical_router)
 app.include_router(search_router)
+app.include_router(submission_router)
