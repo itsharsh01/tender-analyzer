@@ -15,6 +15,8 @@ def init_db() -> Database:
     if not settings.mongodb_uri:
         raise RuntimeError("MONGODB_URI is not set in environment.")
 
+    # Reverted to default connection. The SSL handshake error is likely due to
+    # the Atlas cluster dropping the connection (e.g. rate limit / IP block).
     _client = MongoClient(settings.mongodb_uri, server_api=ServerApi("1"))
     _client.admin.command("ping")
     _db = _client[settings.mongodb_db]

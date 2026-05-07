@@ -9,3 +9,5 @@ python-multipart
 pymongo[srv]
 scikit-learn
 pdfplumber
+groq
+python-dotenv

@@ -10,8 +10,13 @@ def build_tfidf_index(evidence_docs: list[dict[str, Any]]) -> dict[str, Any]:
 
     vectorizer = TfidfVectorizer(max_features=5000)
     matrix = vectorizer.fit_transform(texts)
+
+    # Convert all vocabulary values from numpy.int64 → native Python int
+    # so MongoDB BSON serialisation doesn't fail.
+    vocab = {term: int(idx) for term, idx in vectorizer.vocabulary_.items()}
+
     return {
-        "vocabulary": vectorizer.vocabulary_,
+        "vocabulary": vocab,
         "matrix_shape": [int(matrix.shape[0]), int(matrix.shape[1])],
     }
 
@@ -27,4 +32,3 @@ def build_semantic_embeddings(evidence_docs: list[dict[str, Any]]) -> list[dict[
         }
         for doc in evidence_docs
     ]
-
